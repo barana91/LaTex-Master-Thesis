@@ -1,0 +1,61 @@
+\documentclass[a4paper, 12pt, twoside]{book}
+	\PassOptionsToPackage{table}{xcolor}
+	\usepackage[export]{adjustbox}
+	\usepackage[english,ngerman]{babel}
+	\usepackage{amsmath, url}
+	\usepackage[utf8]{inputenc}
+	\usepackage[dvipsnames]{xcolor}
+	\usepackage[T1]{fontenc}
+	\usepackage{import}
+	\usepackage{graphicx}
+	\usepackage{subcaption}
+	\usepackage{verbatim}
+	\usepackage{float}
+	\usepackage[headheight=12pt]{geometry}
+	\usepackage{fancyhdr}
+
+	
+
+	
+	\pagestyle{fancy}
+	\fancyhf{}
+	\fancyhead[LE,RO]{Baran Avinc}
+	\fancyhead[RE,LO]{Masterarbeit}
+	\fancyfoot[LE,RO]{\vspace{0.05cm}\thepage}
+	%\fancyfoot[RE,LO]{\vspace{0.05cm}\includegraphics[width=0.1\textwidth]{Bilder/TU-Berlin-Logo.pdf}}
+	\renewcommand{\headrulewidth}{1pt}
+	\renewcommand{\headrule}{\hbox to\headwidth{\color{RoyalPurple}\leaders\hrule height 				\headrulewidth\hfill}}
+	\renewcommand{\footrulewidth}{1pt}
+	\renewcommand{\footrule}{\hbox to\headwidth{\color{RoyalPurple}\leaders\hrule height \footrulewidth\hfill}}
+	\pagestyle{fancy}
+
+
+	
+
+
+
+
+  	%\includegraphics[width=0.1\textwidth]{Bilder/TU-Berlin-Logo.pdf}
+
+	
+
+
+
+
+
+
+\begin{document}
+	\input{Kapitel/Titelseite.tex}
+	\tableofcontents\thispagestyle{fancy}
+	\input{Kapitel/Einleitung.tex}
+	%\input{Kapitel/Theorie.tex}
+	\input{Kapitel/Ergebnisse.tex}
+\end{document}	
+
+
+\begin{comment}
+	\begin{figure}[b!]
+    		\includegraphics[width=0.2\textwidth]{Bilder/TU-Berlin-Logo.pdf}
+    		\label{fig:tulogo}
+    	\end{figure}	
+\end{comment}	
