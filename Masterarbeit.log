@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.16)  23 OCT 2017 15:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.16)  1 NOV 2017 18:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -768,17 +768,12 @@ Kapitel 1.
 
 ]
 Kapitel 2.
-
-Underfull \hbox (badness 3128) in paragraph at lines 25--25
-[]|\T1/cmr/m/n/12 Bulk (He-
- []
-
 ) [7] (./Masterarbeit.aux) ) 
 Here is how much of TeX's memory you used:
- 6362 strings out of 493014
- 89746 string characters out of 6133350
- 180750 words of memory out of 5000000
- 9748 multiletter control sequences out of 15000+600000
+ 6359 strings out of 493014
+ 89681 string characters out of 6133350
+ 177750 words of memory out of 5000000
+ 9745 multiletter control sequences out of 15000+600000
  12456 words of font info for 33 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  59i,11n,94p,730b,243s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -790,7 +785,7 @@ cm-super/sfbx1200.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm
 uper/sfbx1728.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-sup
 er/sfbx2488.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super
 /sfrm1200.pfb>
-Output written on Masterarbeit.pdf (7 pages, 92402 bytes).
+Output written on Masterarbeit.pdf (7 pages, 93989 bytes).
 PDF statistics:
  59 PDF objects out of 1000 (max. 8388607)
  41 compressed objects within 1 object stream
