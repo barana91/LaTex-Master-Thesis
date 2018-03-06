@@ -14,7 +14,11 @@
 	\usepackage[headheight=12pt]{geometry}
 	\usepackage{fancyhdr}
 
-	
+	%  Bibliographie
+\usepackage{bibgerm} % Umlaute in BibTeX
+%\usepackage[style=authortitle-icomp]{biblatex}
+\bibliographystyle{alphadin_martin} 
+\usepackage[babel,german=guillemets]{csquotes}
 
 	
 	\pagestyle{fancy}
@@ -50,6 +54,8 @@
 	\input{Kapitel/Einleitung.tex}
 	%\input{Kapitel/Theorie.tex}
 	\input{Kapitel/Ergebnisse.tex}
+
+	\bibliography{Bibliographie}
 \end{document}	
 
 
