@@ -1,9 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.16)  6 NOV 2017 13:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.16)  6 MAR 2018 13:17
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**Masterarbeit.tex
-(./Masterarbeit.tex
+**"/Users/ba/Desktop/Studium/Masterarbeit PL/Baran/Masterarbeit/Masterarbeit.te
+x"
+(/Users/ba/Desktop/Studium/Masterarbeit PL/Baran/Masterarbeit/Masterarbeit.tex
 LaTeX2e <2016/03/31>
 Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/book.cls
@@ -735,8 +737,8 @@ Package caption Info: End \AtBeginDocument code.
 
 (./Kapitel/Titelseite.tex
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Bilder/TU-Berlin-Logo.pdf)
-: PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex (file ./Bilder/TU-Berlin-Logo.pdf): PDF inclusion: fou
+nd PDF version <1.7>, but at most version <1.5> allowed
 <Bilder/TU-Berlin-Logo.pdf, id=1, 301.125pt x 220.825pt>
 File: Bilder/TU-Berlin-Logo.pdf Graphic file (type pdf)
 
@@ -783,17 +785,17 @@ Package pdftex.def Info: Bilder/TS4048Uebersicht.pdf used on input line 49.
 (pdftex.def)             Requested size: 204.9466pt x 156.8938pt.
 ) [8 <./Bilder/TS4045Uebersicht.pdf> <./Bilder/TS4048Uebersicht.pdf
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Bilder/TS4048Uebersicht.pd
-f): PDF inclusion: multiple pdfs with page group included in a single page
+pdfTeX warning: pdflatex (file ./Bilder/TS4048Uebersicht.pdf): PDF inclusion: m
+ultiple pdfs with page group included in a single page
 >] (./Masterarbeit.aux) ) 
 Here is how much of TeX's memory you used:
- 6374 strings out of 493014
- 90045 string characters out of 6133350
+ 6375 strings out of 493014
+ 90228 string characters out of 6133350
  177750 words of memory out of 5000000
  9758 multiletter control sequences out of 15000+600000
  12456 words of font info for 33 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 59i,11n,94p,593b,422s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 59i,11n,94p,656b,422s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/cm
 -super/cm-super-t1.enc}</usr/local/texlive/2016/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmmi12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/am
@@ -806,7 +808,7 @@ bx1200.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfbx
 28.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfbx2488
 .pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1200.p
 fb>
-Output written on Masterarbeit.pdf (8 pages, 318980 bytes).
+Output written on Masterarbeit.pdf (8 pages, 318992 bytes).
 PDF statistics:
  83 PDF objects out of 1000 (max. 8388607)
  58 compressed objects within 1 object stream
