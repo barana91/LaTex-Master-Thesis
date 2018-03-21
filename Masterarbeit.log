@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.16)  21 MAR 2018 10:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.16)  21 MAR 2018 19:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -838,10 +838,10 @@ ultiple pdfs with page group included in a single page
 
 ] (./Masterarbeit.aux) ) 
 Here is how much of TeX's memory you used:
- 7320 strings out of 493014
- 103935 string characters out of 6133350
- 204117 words of memory out of 5000000
- 10680 multiletter control sequences out of 15000+600000
+ 7321 strings out of 493014
+ 103941 string characters out of 6133350
+ 204121 words of memory out of 5000000
+ 10681 multiletter control sequences out of 15000+600000
  13140 words of font info for 34 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  59i,11n,94p,864b,425s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -858,7 +858,7 @@ x1200.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfbx1
 pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pf
 b></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
 
-Output written on Masterarbeit.pdf (11 pages, 346202 bytes).
+Output written on Masterarbeit.pdf (11 pages, 347911 bytes).
 PDF statistics:
  96 PDF objects out of 1000 (max. 8388607)
  67 compressed objects within 1 object stream
