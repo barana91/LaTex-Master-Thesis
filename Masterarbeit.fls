@@ -176,6 +176,9 @@ INPUT Kapitel/Grundlagen.tex
 INPUT Kapitel/Grundlagen.tex
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/jknappen/ec/ecrm1728.tfm
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/jknappen/ec/ecbx1728.tfm
+INPUT Bilder/QCSE.pdf
+INPUT ./Bilder/QCSE.pdf
+INPUT ./Bilder/QCSE.pdf
 INPUT Kapitel/Ergebnisse.tex
 INPUT Kapitel/Ergebnisse.tex
 INPUT Bilder/TS4045Uebersicht.pdf
@@ -190,9 +193,11 @@ INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/jknappen/ec/ecti1200.tfm
 INPUT Masterarbeit.aux
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb

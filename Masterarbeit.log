@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.16)  21 MAR 2018 19:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.16)  23 MAR 2018 19:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -812,18 +812,23 @@ Kapitel 1.
 
 ]
 Kapitel 2.
-) (./Kapitel/Ergebnisse.tex [7] [8
-
-]
+[7] <Bilder/QCSE.pdf, id=43, 1198.74854pt x 666.85838pt>
+File: Bilder/QCSE.pdf Graphic file (type pdf)
+ <use Bilder/QCSE.pdf>
+Package pdftex.def Info: Bilder/QCSE.pdf used on input line 25.
+(pdftex.def)             Requested size: 204.9466pt x 114.00548pt.
+) (./Kapitel/Ergebnisse.tex [8 <./Bilder/QCSE.pdf>]
 Kapitel 3.
-[9] <Bilder/TS4045Uebersicht.pdf, id=47, 774.895pt x 593.21625pt>
+[9
+
+] <Bilder/TS4045Uebersicht.pdf, id=95, 774.895pt x 593.21625pt>
 File: Bilder/TS4045Uebersicht.pdf Graphic file (type pdf)
 
 <use Bilder/TS4045Uebersicht.pdf>
 Package pdftex.def Info: Bilder/TS4045Uebersicht.pdf used on input line 43.
 (pdftex.def)             Requested size: 204.9466pt x 156.8938pt.
 
-<Bilder/TS4048Uebersicht.pdf, id=48, 774.895pt x 593.21625pt>
+<Bilder/TS4048Uebersicht.pdf, id=96, 774.895pt x 593.21625pt>
 File: Bilder/TS4048Uebersicht.pdf Graphic file (type pdf)
 
 <use Bilder/TS4048Uebersicht.pdf>
@@ -838,30 +843,31 @@ ultiple pdfs with page group included in a single page
 
 ] (./Masterarbeit.aux) ) 
 Here is how much of TeX's memory you used:
- 7321 strings out of 493014
- 103941 string characters out of 6133350
+ 7326 strings out of 493014
+ 104028 string characters out of 6133350
  204121 words of memory out of 5000000
- 10681 multiletter control sequences out of 15000+600000
+ 10685 multiletter control sequences out of 15000+600000
  13140 words of font info for 34 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 59i,11n,94p,864b,425s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 59i,11n,94p,864b,429s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/cm-
 super/cm-super-t1.enc}</usr/local/texlive/2016/texmf-dist/fonts/type1/public/am
 sfonts/cm/cmmi12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmmi8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmr12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmr8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmsy8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfb
-x1200.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfbx1
-440.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfbx172
-8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfbx2488.
-pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pf
-b></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-
-Output written on Masterarbeit.pdf (11 pages, 347911 bytes).
+fonts/cm/cmmi6.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmmi8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmsy10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/c
+msy8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfbx12
+00.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfbx1440
+.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfbx1728.p
+fb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb
+></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><
+/usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
+Output written on Masterarbeit.pdf (11 pages, 493577 bytes).
 PDF statistics:
- 96 PDF objects out of 1000 (max. 8388607)
- 67 compressed objects within 1 object stream
+ 151 PDF objects out of 1000 (max. 8388607)
+ 109 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
