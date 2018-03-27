@@ -6,10 +6,8 @@
 
 Die wichtige Gruppe der III-Nitridhalbleiter setzt sich aus den Metallen
 der dritten Hauptgruppe Aluminium (Al), Gallium (Ga) und Indium (In) zusammen.
-Der Schwerpunkt dieser Arbeit liegt auf dem AlGaN-Materialsystem mit hohen Al-Konzentration.
-Das Mischverhältnis bestimmt hierbei die Bandlückenergie des Verbindungshalbleiters. Durch die unterschiedlichen Bandlückenergien von Aluminium mit 6.03 eV~\cite{fenaln} und GaN mit 3.4 eV~\cite{pipr} eignet sich AlGaN besonders für die Emission im Wellenlängenbereich von UV-A bis UV-C. 
-Die Bandlücke von Verbindungshalbleitern lässt sich durch Interpolation der Bandlückenenergien in Abhängigkeit des Kompositionsverhältnisses x berechnen,
-wobei ein zusätzlicher Bowing-Parameter für die nichtlineare Abweichung hinzugefügt wird. 
+Der Schwerpunkt dieser Arbeit liegt auf dem AlGaN-Materialsystem mit hohen Al-Konzentration. Das Mischverhältnis bestimmt hierbei die Bandlückenergie des Verbindungshalbleiters. Durch die unterschiedlichen Bandlückenergien von Aluminium mit 6.03 eV~\cite{fenaln} und GaN mit 3.4 eV~\cite{pipr} eignet sich AlGaN besonders für die Emission im Wellenlängenbereich von UV-A bis UV-C. 
+Die Bandlückenenergie von AlGaN lässt sich durch Interpolation der binären Energien von GaN und AlN in Abhängigkeit des Kompositionsverhältnisses x berechnen, wobei ein zusätzlicher Bowing-Parameter für die nichtlineare Abweichung hinzugefügt wird. 
 
 \begin{equation}
     E_{Al_{x}Ga{1-x}N} = E_{AlN} \cdot x + E_{GaN} \cdot (1-x) - b_{AlGaN} \cdot x \cdot (1-x) 
@@ -18,6 +16,13 @@ wobei ein zusätzlicher Bowing-Parameter für die nichtlineare Abweichung hinzug
 
 \newpage
 \section{Polarisationsfeld und QCSE in III/V Halbleitern}
+
+Die Gruppe der III-Nitrid-Halbleiter kristallisiert in der Wurtzitstruktur. Anschaulich bedeutet dies, dass sie sich ausgehend von der hexagonal dichtesten Kugelpackung in Doppellagen aus Gruppe-III-Metallen und Stickstoff (N) entlang der
+c-Achse in der Abfolge A-B-A-B anordnen~\cite{buchc} wie in Abb. 2.1 dargestellt ist . 
+\newline
+Aufgrund der fehlenden Inversionssymmetrie und stark unterschiedlichen Elektronegativitäten des Stickstoffs und der entsprechenden Gruppe III-Metalle bilden sich Polarisationsfelder aus, die entlang der auf der Basalebende stehenden c-Achse verlaufen. Hier unterscheidet man zwischen zwei Arten von Polarisationsfeldern, die spontane Polarisation $ \vec{P}^{sp} $ und die piezoelektrische Polarisation $ \vec{P}^{pz} $.
+
+
 \begin{figure}[htb]
     \centering
     \begin{minipage}[t]{0.49\linewidth}
@@ -28,5 +33,3 @@ wobei ein zusätzlicher Bowing-Parameter für die nichtlineare Abweichung hinzug
 \end{figure}
 \vspace{1cm}
 \raggedright
-Anhand der unterschiedlichen Intensitäten der Proben bei Raumtemperatur sind keine Rückschlüsse zur Effizienz möglich. 
-Das liegt zum einen daran, dass die Proben nicht alle auf einen Schlag bei gleichen Bedingungen untersucht wurden und an der Art des Messaufbaus an sich. 
