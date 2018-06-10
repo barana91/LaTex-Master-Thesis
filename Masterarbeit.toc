@@ -1,10 +1,10 @@
 \select@language {ngerman}
 \select@language {ngerman}
 \contentsline {chapter}{\numberline {1}Einleitung}{5}
-\contentsline {chapter}{\numberline {2}Grundlagen}{7}
-\contentsline {section}{\numberline {2.1}Bandstruktur von Gruppe-III Nitriden}{7}
-\contentsline {section}{\numberline {2.2}Polarisationsfeld und QCSE in III/V Halbleitern}{8}
-\contentsline {chapter}{\numberline {3}Aufbau}{9}
-\contentsline {section}{\numberline {3.1}Photolumineszenzaufbau}{9}
-\contentsline {chapter}{\numberline {4}Ergebnisse}{11}
-\contentsline {section}{\numberline {4.1}Untersuchung optisch gepumpter Laserstrukturen auf unterschiedlichen Templates}{11}
+\contentsline {chapter}{\numberline {2}Grundlagen}{9}
+\contentsline {section}{\numberline {2.1}Bandstruktur von Gruppe-III Nitriden}{9}
+\contentsline {section}{\numberline {2.2}Polarisationsfeld und QCSE in III/V Halbleitern}{10}
+\contentsline {chapter}{\numberline {3}Aufbau}{11}
+\contentsline {section}{\numberline {3.1}Photolumineszenzaufbau}{11}
+\contentsline {chapter}{\numberline {4}Ergebnisse}{13}
+\contentsline {section}{\numberline {4.1}Untersuchung optisch gepumpter Laserstrukturen auf unterschiedlichen Templates}{13}

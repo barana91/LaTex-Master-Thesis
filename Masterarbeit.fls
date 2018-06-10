@@ -149,13 +149,13 @@ INPUT Kapitel/Titelseite.tex
 INPUT Kapitel/Titelseite.tex
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/jknappen/ec/ecbx1200.tfm
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/jknappen/ec/ecbx1440.tfm
-INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/jknappen/ec/ecbx2488.tfm
 INPUT Bilder/TU-Berlin-Logo.pdf
 INPUT ./Bilder/TU-Berlin-Logo.pdf
 OUTPUT Masterarbeit.pdf
 INPUT ./Bilder/TU-Berlin-Logo.pdf
 INPUT /usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/jknappen/ec/ecrm2488.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/jknappen/ec/ecbx2488.tfm
 INPUT Masterarbeit.toc
 INPUT Masterarbeit.toc
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
@@ -172,6 +172,9 @@ INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7
 OUTPUT Masterarbeit.toc
 INPUT Kapitel/Einleitung.tex
 INPUT Kapitel/Einleitung.tex
+INPUT Bilder/SpectralEmissionPower_Wavelength.png
+INPUT ./Bilder/SpectralEmissionPower_Wavelength.png
+INPUT ./Bilder/SpectralEmissionPower_Wavelength.png
 INPUT Kapitel/Grundlagen.tex
 INPUT Kapitel/Grundlagen.tex
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/jknappen/ec/ecrm1728.tfm
