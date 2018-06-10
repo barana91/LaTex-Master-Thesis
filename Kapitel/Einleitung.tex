@@ -8,7 +8,7 @@ Dieser Satz, den die Schwedische Akademie der Künste nach der Vergabe des Nobel
 LEDs nehmen einen fundamentalen und immer bedeutender werdenden Teil unseres alltäglichen Lebens ein. Ausgezeichnet durch ihre hervorragende Effizienz, konkurrenzlosen Lebensdauer und geringen Dimension übernimmt sie durch eine immer höher werdenden Lichtausbeute zusehends neue Anwendungsbereiche. 
 %Seit jeher etabliert in den Bereichen der optischen Datenübertragung und Leuchtanzeige schreiten immer mehr andere Wellenlängenbereiche in den Fokus der weltweiten Forschung. 
 Insbesondere auf Gallium Nitrid (GaN) basierende Halbleitermaterialien haben einen bahnbrechenden Weg hingelegt, der zur Entwicklung von hoch effizienten und leuchtstarken blauen LEDs führte und ebenfalls Grundlage für die Entwicklung in andere hochenergetische Wellenlängenbereiche darstellt~\cite{risk}.
-So ebnet GaN auch den Weg für die Erzeugung von ultraviolet emittierenden Leuchtdioden. Der ultraviolette Spektralbereich, der sich unterteilt in den UV-A (400 nm bis 320 nm), UV-B (320 nm bis 280) und UV-C Bereich (280 nm bis 200 nm) ist bedeutend für eine sehr hohe Anzahl spezieller Anwendungsbereiche. Beispielsweise bieten sich UV-Leds an die bisher für Wasseraufbereitung genutzten Quecksilberdampflampen zu ersetzen, für deren Betrieb Hochspannungsnetzteile verwendet werden, die einen mobilen Einsatz erheblich erschweren können. Hier könnten UV-LEDs Abhilfe verschaffen, die durch ihr kleines Format und durch die niedrigen Betriebsspannungen einen Mobileneinsatz ermöglichen. Ein weiteres Anwendungsgebiet ist die industrielle Aushärtung/Aufbrechung von Lacken und die Gasdetektion. 
+So ebnet GaN auch den Weg für die Erzeugung von ultraviolet emittierenden Leuchtdioden. Der ultraviolette Spektralbereich, der sich unterteilt in den UV-A (400 nm bis 320 nm), UV-B (320 nm bis 280) und UV-C Bereich (280 nm bis 200 nm) ist bedeutend für eine sehr hohe Anzahl spezieller Anwendungsbereiche. Beispielsweise bieten sich UV-LEDs an die bisher für Wasseraufbereitung genutzten Quecksilberdampflampen zu ersetzen, für deren Betrieb Hochspannungsnetzteile verwendet werden, die einen mobilen Einsatz erheblich erschweren können. Hier könnten UV-LEDs Abhilfe verschaffen, die durch ihr kleines Format und durch die niedrigen Betriebsspannungen einen Mobileneinsatz ermöglichen. Ein weiteres Anwendungsgebiet ist die industrielle Aushärtung/Aufbrechung von Lacken und die Gasdetektion. 
 \newline
 \begin{figure}[htb]
     \centering
@@ -16,15 +16,27 @@ So ebnet GaN auch den Weg für die Erzeugung von ultraviolet emittierenden Leuch
         \centering
         \includegraphics[width=\linewidth]{Bilder/SpectralEmissionPower_Wavelength.png}
         \caption{Spektrable Emissionsleistung für 5 verschiedene Wellenlängen von 263 nm bis 233 nm. Die Grafik zeigt, dass die spektrale Emissionsleistung mit sinkender Wellenlänge ebenfalls sinkt\cite{semreich}.}
-    \end{minipage}% <- sonst wird hier ein Leerzeichen eingefügt
+        \label{fig:specPowWVL}
+    \end{minipage}
 \end{figure}
 \vspace{1cm}
-\raggedright
-Für all diese möglichen Applikation ist eine hohe Ausgangsleistung notwendig. Aber wie im Graph [] zu sehen ist, sinkt die spektrale Emissonsleistung mit kleiner werdendem Wellenlängenbereich signifikant. Der Grund dafür ist, dass UV-LEDs an einer geringen Effizienz leiden, die quantitativ ausgedrückt wird als Externe Quanteneffizienz (EQE) und sich zusammensetzt aus dem Produkt der internen Quanteneffizenz (IQE), Extraktions Effizenz und Injektionseffizenz. Die Gründe hierfür sind vielfältig. LEDs bestehen aus einer Vielzahl an Schichten, die unterschiedlichen Funktionen dienen. Diese Schichten werden auf Substraten aufgewachsen. Daher ist eine hohe Substratqualität für die optischen Eigenschaften entscheidend. Eine geringe Defektdichte im Substrat geht einher mit einer ebenfalls geringen Defektdichte in den aufgewachsenen Schichten. Ein weiteres Problem im Zusammenhang mit den geringen Defektdichten, ist ein Mangel an geeigneten Substratmaterialien. So wird aufgrund des Mangels an AlN Substrate, beruhend auf den Schwierigkeiten bei der Herstellung, auf Saphir Substrate ausgewichen. Diese sind im fernen UV transparent und zusätzlich in großen Mengen in guter Qualität hergestellt.
+\newline
+Für all diese möglichen Applikation ist eine hohe Ausgangsleistung notwendig. Aber wie im Graph ~\ref{fig:specPowWVL} zu sehen ist, sinkt die spektrale Emissonsleistung mit kleiner werdendem Wellenlängenbereich signifikant. Der Grund dafür ist, dass UV-LEDs an einer geringen Effizienz leiden, die quantitativ ausgedrückt wird als Externe Quanteneffizienz (EQE) und sich zusammensetzt aus dem Produkt der internen Quanteneffizenz (IQE), Extraktions Effizenz (EE) und Injektionseffizenz(INJ):
+%
+\begin{equation}
+    EQE = IQE \cdot EE \cdot INJ
+\end{equation}
+%
+Die Gründe für die geringe Effizenz sind vielfältig. LEDs bestehen aus einer Vielzahl an Schichten, die unterschiedlichen Funktionen dienen. Diese Schichten werden auf Substraten aufgewachsen. Daher ist eine hohe Substratqualität für die optischen Eigenschaften entscheidend. Eine geringe Defektdichte im Substrat geht einher mit einer ebenfalls geringen Defektdichte in den aufgewachsenen Schichten. Ein weiteres Problem im Zusammenhang mit den geringen Defektdichten, ist ein Mangel an geeigneten Substratmaterialien. So wird aufgrund des Mangels an AlN Substrate, beruhend auf den Schwierigkeiten bei der Herstellung, auf Saphir Substrate ausgewichen. Diese sind im fernen UV transparent und zusätzlich in großen Mengen in guter Qualität hergestellt.
 Problematisch jedoch ist die hohe Gitterfehlanpassung durch die relativ großen Unterschiede zwischen den Gitterkonstanten von AlN/GaN und Saphir.
-Durch diese, sind AlN- und AlGaN-Schichten nicht vollverspannt aufwachsbar. Das führt dazu, dass die Schichten relaxieren, weil die Elastitzät der Schicht nicht groß genug im Vergleich zur Verspannungsenergie ist. Die Relaxation führt zur Entstehung von Versetzungen und Rissen. Diese agieren im Kristall als sogenante nicht-radiative Rekombinationszentren
-die die interne Quanteneffizienz (IQE) verringern. Die wiederum mit Hilfe von temperaturabhängigen Photolumineszenzmessungen kann diese bestimmt werden. 
+Durch diese, sind AlN- und AlGaN-Schichten nicht vollverspannt aufwachsbar. Das führt dazu, dass die Schichten relaxieren, weil die Elastitzät der Schicht nicht groß genug im Vergleich zur Verspannungsenergie ist. Die Relaxation führt zur Entstehung von Versetzungen und Rissen. Diese agieren im Kristall als sogenante nicht-radiative Rekombinationszentren die die 
+IQE verringern. 
 \newline 
+Die Hauptthematik dieser Arbeit wird die Bestimmung der IQE von AlGaN - Heterostrukturen mit Hilfe von temperaturabhängigen Photolumineszenzmessungen sein. Sie lässt sich, bei der Annahme, dass bei Tieftemperatur keine nicht-strahlende Rekombination stattfindet, als Quotient der Intensität der Photolumineszenz bei Tieftemperatur (5K)und Raumtemperatur (300K) beschreiben. Im Rahmen der Arbeit wird auch noch eine Methode analysiert, laut der es möglich ist, allein durch leistungsdichteabhängige Messung bei Raumtemperatur die IQE zu bestimmen. 
+
+
+
+
 
 
 
