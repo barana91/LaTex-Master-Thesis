@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.16)  11 JUN 2018 18:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.16)  12 JUN 2018 15:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -820,18 +820,12 @@ put line 17.
 
 ]
 Kapitel 2.
-[9]
-Underfull \hbox (badness 10000) in paragraph at lines 20--26
-
- []
-
-<Bilder/QCSE.pdf, id=52, 1198.74854pt x 666.85838pt>
+[9] <Bilder/QCSE.pdf, id=52, 1198.74854pt x 666.85838pt>
 File: Bilder/QCSE.pdf Graphic file (type pdf)
  <use Bilder/QCSE.pdf>
-Package pdftex.def Info: Bilder/QCSE.pdf used on input line 33.
+Package pdftex.def Info: Bilder/QCSE.pdf used on input line 31.
 (pdftex.def)             Requested size: 204.9466pt x 114.00548pt.
-)
-(./Kapitel/Aufbau.tex [10 <./Bilder/QCSE.pdf>]
+) (./Kapitel/Aufbau.tex [10 <./Bilder/QCSE.pdf>]
 Kapitel 3.
 
 Underfull \vbox (badness 1776) has occurred while \output is active []
@@ -841,24 +835,40 @@ Underfull \vbox (badness 1776) has occurred while \output is active []
 ])
 (./Kapitel/AufbauWeiteres.tex [12]
 Kapitel 4.
-<Bilder/uvsilicavergleich.pdf, id=107, 630.355pt x 502.87875pt>
+<Bilder/uvsilicaDegradation.png, id=107, 448.074pt x 284.56313pt>
+File: Bilder/uvsilicaDegradation.png Graphic file (type png)
+
+<use Bilder/uvsilicaDegradation.png>
+Package pdftex.def Info: Bilder/uvsilicaDegradation.png used on input line 9.
+(pdftex.def)             Requested size: 204.9466pt x 130.15813pt.
+
+<Bilder/uvsilicavergleich.pdf, id=108, 630.355pt x 502.87875pt>
 File: Bilder/uvsilicavergleich.pdf Graphic file (type pdf)
 
 <use Bilder/uvsilicavergleich.pdf>
-Package pdftex.def Info: Bilder/uvsilicavergleich.pdf used on input line 17.
-(pdftex.def)             Requested size: 188.21286pt x 150.15117pt.
+Package pdftex.def Info: Bilder/uvsilicavergleich.pdf used on input line 23.
+(pdftex.def)             Requested size: 150.56798pt x 120.11786pt.
 
-<Bilder/uvsilicaVergleichSkaliert.pdf, id=108, 751.80875pt x 580.1675pt>
+Underfull \hbox (badness 2173) in paragraph at lines 24--24
+[]\T1/cmr/m/n/10.95 (a) |PL In-ten-si-tät in Ab-hän-gig-
+ []
+
+<Bilder/uvsilicaVergleichSkaliert.pdf, id=109, 751.80875pt x 580.1675pt>
 File: Bilder/uvsilicaVergleichSkaliert.pdf Graphic file (type pdf)
 
 <use Bilder/uvsilicaVergleichSkaliert.pdf>
 Package pdftex.def Info: Bilder/uvsilicaVergleichSkaliert.pdf used on input lin
-e 23.
-(pdftex.def)             Requested size: 188.21286pt x 145.23627pt.
-) [13
+e 30.
+(pdftex.def)             Requested size: 150.56798pt x 116.19078pt.
 
-] (./Kapitel/Ergebnisse.tex
-[14 <./Bilder/uvsilicavergleich.pdf> <./Bilder/uvsilicaVergleichSkaliert.pdf
+Underfull \hbox (badness 1571) in paragraph at lines 31--31
+[]\T1/cmr/m/n/10.95 (b) |Die An-re-gungs-leis-tungs-dich-te
+ []
+
+[13
+
+ <./Bilder/uvsilicaDegradation.png>]) (./Kapitel/Ergebnisse.tex [14 <./Bilder/u
+vsilicavergleich.pdf> <./Bilder/uvsilicaVergleichSkaliert.pdf
 
 pdfTeX warning: pdflatex (file ./Bilder/uvsilicaVergleichSkaliert.pdf): PDF inc
 lusion: multiple pdfs with page group included in a single page
@@ -866,14 +876,14 @@ lusion: multiple pdfs with page group included in a single page
 Kapitel 5.
 [15
 
-] <Bilder/TS4045Uebersicht.pdf, id=123, 774.895pt x 593.21625pt>
+] <Bilder/TS4045Uebersicht.pdf, id=125, 774.895pt x 593.21625pt>
 File: Bilder/TS4045Uebersicht.pdf Graphic file (type pdf)
 
 <use Bilder/TS4045Uebersicht.pdf>
 Package pdftex.def Info: Bilder/TS4045Uebersicht.pdf used on input line 43.
 (pdftex.def)             Requested size: 204.9466pt x 156.8938pt.
 
-<Bilder/TS4048Uebersicht.pdf, id=124, 774.895pt x 593.21625pt>
+<Bilder/TS4048Uebersicht.pdf, id=126, 774.895pt x 593.21625pt>
 File: Bilder/TS4048Uebersicht.pdf Graphic file (type pdf)
 
 <use Bilder/TS4048Uebersicht.pdf>
@@ -888,13 +898,13 @@ ultiple pdfs with page group included in a single page
 
 ] (./Masterarbeit.aux) ) 
 Here is how much of TeX's memory you used:
- 7370 strings out of 493014
- 105031 string characters out of 6133350
- 205196 words of memory out of 5000000
- 10718 multiletter control sequences out of 15000+600000
- 13909 words of font info for 35 fonts, out of 8000000 for 9000
+ 7388 strings out of 493014
+ 105398 string characters out of 6133350
+ 205211 words of memory out of 5000000
+ 10733 multiletter control sequences out of 15000+600000
+ 16956 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 59i,12n,94p,1514b,546s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 59i,15n,94p,1514b,548s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/cm-
 super/cm-super-t1.enc}</usr/local/texlive/2016/texmf-dist/fonts/type1/public/am
 sfonts/cm/cmmi12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/ams
@@ -910,10 +920,10 @@ fb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb
 ></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb><
 /usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></u
 sr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on Masterarbeit.pdf (17 pages, 1043872 bytes).
+Output written on Masterarbeit.pdf (17 pages, 1093283 bytes).
 PDF statistics:
- 182 PDF objects out of 1000 (max. 8388607)
+ 184 PDF objects out of 1000 (max. 8388607)
  129 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
