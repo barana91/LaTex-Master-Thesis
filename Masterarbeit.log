@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.16)  12 JUN 2018 15:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.16)  5 JUL 2018 12:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -624,6 +624,9 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \f@ncyO@olf=\skip56
 \f@ncyO@orf=\skip57
 )
+(/usr/local/texlive/2016/texmf-dist/tex/latex/subfiles/subfiles.sty
+Package: subfiles 2012/05/23 Federico Garcia
+)
 (/usr/local/texlive/2016/texmf-dist/tex/latex/germbib/bibgerm.sty
 Package: bibgerm 2000/08/18 v0.1 Support for mixed language bibliographies
 
@@ -666,18 +669,18 @@ Package csquotes Info: ... found 'babel' package.
 (./Masterarbeit.aux)
 \openout1 = `Masterarbeit.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
+LaTeX Font Info:    ... okay on input line 52.
 
 (/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -815,34 +818,36 @@ File: Bilder/SpectralEmissionPower_Wavelength.png Graphic file (type png)
 Package pdftex.def Info: Bilder/SpectralEmissionPower_Wavelength.png used on in
 put line 17.
 (pdftex.def)             Requested size: 204.9466pt x 150.79355pt.
- [5] [6 <./Bilder/SpectralEmissionPower_Wavelength.png>]) (./Kapitel/Grundlagen
-.tex [7] [8
+ [5] [6 <./Bilder/SpectralEmissionPower_Wavelength.png>]) [7] [8
 
 ]
 Kapitel 2.
-[9] <Bilder/QCSE.pdf, id=52, 1198.74854pt x 666.85838pt>
+(./Kapitel/Grundlagen.tex [9]
+<Bilder/QCSE.pdf, id=52, 1198.74854pt x 666.85838pt>
 File: Bilder/QCSE.pdf Graphic file (type pdf)
  <use Bilder/QCSE.pdf>
 Package pdftex.def Info: Bilder/QCSE.pdf used on input line 31.
 (pdftex.def)             Requested size: 204.9466pt x 114.00548pt.
-) (./Kapitel/Aufbau.tex [10 <./Bilder/QCSE.pdf>]
+)
+(./Kapitel/GrundlagenPL.tex [10 <./Bilder/QCSE.pdf>]) (./Kapitel/Aufbau.tex
+[11] [12
+
+]
 Kapitel 3.
 
 Underfull \vbox (badness 1776) has occurred while \output is active []
 
- [11
-
-])
-(./Kapitel/AufbauWeiteres.tex [12]
+ [13])
+(./Kapitel/AufbauWeiteres.tex [14]
 Kapitel 4.
-<Bilder/uvsilicaDegradation.png, id=107, 448.074pt x 284.56313pt>
+<Bilder/uvsilicaDegradation.png, id=114, 448.074pt x 284.56313pt>
 File: Bilder/uvsilicaDegradation.png Graphic file (type png)
 
 <use Bilder/uvsilicaDegradation.png>
 Package pdftex.def Info: Bilder/uvsilicaDegradation.png used on input line 9.
 (pdftex.def)             Requested size: 204.9466pt x 130.15813pt.
 
-<Bilder/uvsilicavergleich.pdf, id=108, 630.355pt x 502.87875pt>
+<Bilder/uvsilicavergleich.pdf, id=115, 630.355pt x 502.87875pt>
 File: Bilder/uvsilicavergleich.pdf Graphic file (type pdf)
 
 <use Bilder/uvsilicavergleich.pdf>
@@ -853,7 +858,7 @@ Underfull \hbox (badness 2173) in paragraph at lines 24--24
 []\T1/cmr/m/n/10.95 (a) |PL In-ten-si-tät in Ab-hän-gig-
  []
 
-<Bilder/uvsilicaVergleichSkaliert.pdf, id=109, 751.80875pt x 580.1675pt>
+<Bilder/uvsilicaVergleichSkaliert.pdf, id=116, 751.80875pt x 580.1675pt>
 File: Bilder/uvsilicaVergleichSkaliert.pdf Graphic file (type pdf)
 
 <use Bilder/uvsilicaVergleichSkaliert.pdf>
@@ -865,46 +870,68 @@ Underfull \hbox (badness 1571) in paragraph at lines 31--31
 []\T1/cmr/m/n/10.95 (b) |Die An-re-gungs-leis-tungs-dich-te
  []
 
-[13
+[15
 
- <./Bilder/uvsilicaDegradation.png>]) (./Kapitel/Ergebnisse.tex [14 <./Bilder/u
-vsilicavergleich.pdf> <./Bilder/uvsilicaVergleichSkaliert.pdf
+ <./Bilder/uvsilicaDegradation.png>]) (./Kapitel/AufbauVerbesserung.tex
+[16 <./Bilder/uvsilicavergleich.pdf> <./Bilder/uvsilicaVergleichSkaliert.pdf
 
 pdfTeX warning: pdflatex (file ./Bilder/uvsilicaVergleichSkaliert.pdf): PDF inc
 lusion: multiple pdfs with page group included in a single page
->]
-Kapitel 5.
-[15
+>] [17] [18
 
-] <Bilder/TS4045Uebersicht.pdf, id=125, 774.895pt x 593.21625pt>
+]
+Kapitel 5.
+
+<Bilder/AuswertungNovemeberKorr1VergleichFilter.pdf, id=134, 673.51625pt x 590.
+205pt>
+File: Bilder/AuswertungNovemeberKorr1VergleichFilter.pdf Graphic file (type pdf
+)
+ <use Bilder/AuswertungNovemeberKorr1VergleichFilter.pdf>
+Package pdftex.def Info: Bilder/AuswertungNovemeberKorr1VergleichFilter.pdf use
+d on input line 11.
+(pdftex.def)             Requested size: 673.5146pt x 590.20355pt.
+
+Overfull \hbox (468.56801pt too wide) in paragraph at lines 11--12
+ [][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 153.67334pt on input line 15.
+
+) (./Kapitel/Ergebnisse.tex [19] [20 <./Bilder/AuswertungNovemeberKorr1Vergleic
+hFilter.pdf>]
+Kapitel 6.
+[21
+
+] <Bilder/TS4045Uebersicht.pdf, id=159, 774.895pt x 593.21625pt>
 File: Bilder/TS4045Uebersicht.pdf Graphic file (type pdf)
 
 <use Bilder/TS4045Uebersicht.pdf>
 Package pdftex.def Info: Bilder/TS4045Uebersicht.pdf used on input line 43.
 (pdftex.def)             Requested size: 204.9466pt x 156.8938pt.
 
-<Bilder/TS4048Uebersicht.pdf, id=126, 774.895pt x 593.21625pt>
+<Bilder/TS4048Uebersicht.pdf, id=160, 774.895pt x 593.21625pt>
 File: Bilder/TS4048Uebersicht.pdf Graphic file (type pdf)
 
 <use Bilder/TS4048Uebersicht.pdf>
 Package pdftex.def Info: Bilder/TS4048Uebersicht.pdf used on input line 49.
 (pdftex.def)             Requested size: 204.9466pt x 156.8938pt.
-) (./Masterarbeit.bbl [16 <./Bilder/TS4045Uebersicht.pdf> <./Bilder/TS4048Ueber
+) (./Masterarbeit.bbl [22 <./Bilder/TS4045Uebersicht.pdf> <./Bilder/TS4048Ueber
 sicht.pdf
 
 pdfTeX warning: pdflatex (file ./Bilder/TS4048Uebersicht.pdf): PDF inclusion: m
 ultiple pdfs with page group included in a single page
->]) [17
+>]) [23
 
 ] (./Masterarbeit.aux) ) 
 Here is how much of TeX's memory you used:
- 7388 strings out of 493014
- 105398 string characters out of 6133350
- 205211 words of memory out of 5000000
- 10733 multiletter control sequences out of 15000+600000
+ 7411 strings out of 493014
+ 106106 string characters out of 6133350
+ 206367 words of memory out of 5000000
+ 10745 multiletter control sequences out of 15000+600000
  16956 words of font info for 44 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 59i,15n,94p,1514b,548s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 59i,15n,94p,1514b,546s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/cm-
 super/cm-super-t1.enc}</usr/local/texlive/2016/texmf-dist/fonts/type1/public/am
 sfonts/cm/cmmi12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/ams
@@ -920,10 +947,10 @@ fb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb
 ></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb><
 /usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></u
 sr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on Masterarbeit.pdf (17 pages, 1093283 bytes).
+Output written on Masterarbeit.pdf (23 pages, 1118160 bytes).
 PDF statistics:
- 184 PDF objects out of 1000 (max. 8388607)
- 129 compressed objects within 2 object streams
+ 218 PDF objects out of 1000 (max. 8388607)
+ 156 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 

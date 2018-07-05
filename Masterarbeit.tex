@@ -13,6 +13,8 @@
 	\usepackage{float}
 	\usepackage[headheight=12pt]{geometry}
 	\usepackage{fancyhdr}
+	\usepackage{subfiles}
+	\usepackage{float}
 	
 
 	%  Bibliographie
@@ -52,9 +54,12 @@
 	\tableofcontents\thispagestyle{fancy}
 	\input{Kapitel/Einleitung.tex}
 
-	\input{Kapitel/Grundlagen.tex}
+	\chapter{Grundlagen}
+	\subfile{Kapitel/Grundlagen.tex}
+	\subfile{Kapitel/GrundlagenPL.tex}
 	\input{Kapitel/Aufbau.tex}
 	\input{Kapitel/AufbauWeiteres.tex}
+	\input{Kapitel/AufbauVerbesserung.tex}
 
 	\input{Kapitel/Ergebnisse.tex}
 
