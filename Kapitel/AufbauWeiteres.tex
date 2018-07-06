@@ -2,6 +2,7 @@
 \thispagestyle{fancy}
 
 \section{Bestimmung der Degradation des UV Quarzglases}
+%
 \begin{figure}[htb]
   \centering
   \begin{minipage}[t]{0.49\linewidth}
@@ -11,7 +12,8 @@
       \label{fig:degra}
   \end{minipage}
 \end{figure}
-%
+\vspace{1cm}
+\raggedright
 Da die Messung der Anregungsleistungdichte erfolgt, bevor das Laserlicht die Probe durch das UV-Quarzglas im Kryostaten trifft, ist es wichtig den Transmissionsverlust zu bestimmen, um die realen Werte für die Anregungsleistungsdichte zu kennen (Die Anregungsleistungsdichte die bei der Probe ankommt). Der Kryostat besitzt vier Fenster, bestehend aus UV-Quarzglas, das besonders transparent im UV-Wellenlängen bereich ist. Durch diese Fenster dringt das Laserlicht in den Probenhalter ein. Von diesen Fenstern war und ist eines in dauerhaftem Gebrauch. Wie in Abb. ~\ref{fig:degra} zu sehen ist, weisen die Fenster aber mit der fortlaufender Bestrahlung Degradation auf, so nimmt laut Hersteller durch Degradation die Transmission von 90 Prozent bis auf ca. 75 Prozent ab für eine Wellenlänge von 193 nm.
 Um nun den Transmissongrad zu bestimmen, wurde der Probenhalter aus dem Kryostat entfernt, damit das Laserlicht ungehindert durch zwei parallel liegende Fenster durchdringen kann, um so auch die Anregungsleistungsdichte des Laserlichtes nach durchdringen des letzten Fenster messen zu können. So konnte die Anregungsleistungsdichte vor dem Eintreten und nach dem Austreten in den Kryostaten bestimmt werden. 
 Dies wurde einmal bei den parallel liegenden unbenutzten Fenstern gemacht. Davon ausgehend, dass beide Fenster, da unbenutzt, den gleichen Transmissionsgrad haben, kann darauf zurückgeschlossen werden, dass ein unbenutztes Fenster einen Transmissionsgrad von 59 Prozent aufweist, was um ca. 10 Prozent von der Herstellerangabe abweicht, die aber nicht die Reflektion im Kryostaten mitberechnet. 
@@ -36,11 +38,12 @@ Dies wurde einmal bei den parallel liegenden unbenutzten Fenstern gemacht. Davon
 \end{figure}
 %
 Um den Transmissionsgrad des benutzten Fensters zu bestimmen, wurde die Transmission durch das benutzte Fenster und dem parallel liegenden unbenutzten Fenster gemessen. Mit dem Wissen, dass der Transmissionsgrad durch das unbenutzte Fensters bei 59 Prozent ($T_{unb} = 0,59$), kann die Transmission durch das benutzte Fenster auf 26 Prozent ($T_{ben} = 0,26$) runtergerechnet werden. 
-Davon ausgehend, dass die Transmission bei höheren Wellenlängen 90 Prozent beträgt und bei beiden Fenstern ähnlich ist,
+Davon ausgehend, dass die Transmission bei höheren Wellenlängen (Emission) gleich und bei beiden Fenstern ähnlich ist,
 %
 \begin{equation}
   F_{skal} = \frac{ T_{ben} }{ T_{unb} } = 0,44\label{eq11}
 \end{equation}
 %
 kann der Skalierungsfaktor mit für die Anregungsleistungsdichte auf 0,44 bestimmt werden. Was bedeutet, dass durch Degradation die Transmission auf 44 Prozent der ursprünglichen Transmission gesunken ist.
-Dies bestätigt sich auch durch die Gegenüberstellung in Abb. ~\ref{fig:vergleichSkaliert}.
+Dies bestätigt sich auch durch die Gegenüberstellung in Abb. ~\ref{fig:vergleichSkaliert}. Dies bedeutet, dass durch die zeitliche Degradation die Transmission auf 44 Prozent der ursprünglichen gesunken ist.
+Im Umkehrschkuss bedeutet dies, dass von der Anregungsleistungsdichte durch die geringe Transmission der Fenster und Reflektion im und außerhalb des Kryostaten nur ca. 26 Prozent bei der Probe ankommen. 

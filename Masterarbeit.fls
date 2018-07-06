@@ -186,6 +186,8 @@ INPUT ./Bilder/QCSE.pdf
 INPUT ./Bilder/QCSE.pdf
 INPUT Kapitel/GrundlagenPL.tex
 INPUT Kapitel/GrundlagenPL.tex
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/jknappen/ec/ecrm0800.tfm
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/jknappen/ec/ecrm0600.tfm
 INPUT Kapitel/Aufbau.tex
 INPUT Kapitel/Aufbau.tex
 INPUT Kapitel/AufbauWeiteres.tex
