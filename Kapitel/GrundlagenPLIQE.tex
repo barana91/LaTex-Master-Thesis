@@ -1,0 +1,51 @@
+
+\section{Bestimmung der internen Quanteneffizienz}
+
+
+Die aktive Region einer idealen LED würde für jedes injizierte Elektron jeweils ein Photon aussenden. 
+Das bedeutet, die IQE die nach \cite{schub} wie folgt definiert ist
+\begin{equation}
+    IQE = \frac{ \footnotesize \text{Anzahl der Photonen die von der aktiven Zone emittiert werden pro Sekunde}}{ \footnotesize \text{Anzahl der Elektronen die in die LED injiziert werden pro Sekunde}}
+\end{equation}
+müsste den Wert $1$ annehmen. Die IQE kann somit analog beschrieben werden als Verhältnis von radiativer Rekombination und der effektiven Rekombination. Beschrieben mit Ratengleichungen und mit \ref{eq:iqe1} ist die IQE in ihrer einfachsten Form somit
+\begin{equation}
+    IQE = \frac{B \cdot n^2}{A \cdot n + B \cdot n^2 + C \cdot n^3} = \frac{R_{rad}}{R_{eff}}
+\end{equation}
+Die IQE kann mit Hilfe der Photolumineszenzspektroskopie bestimmt werden, in dem angenommen wird, dass keine thermisch aktivierten Defekte bei Raumtemperatur vorhanden sind
+\begin{equation}
+    A \propto e^{\frac{-E_{activation}}{kT}}
+\end{equation}
+Mit dieser und der Annahme das keine Auger Rekombination ($ C \cdot n^3 $) auftritt, ist die IQE bei Tieftemperatur ($ \propto 5K$) gleich 1. Somit kann die IQE beschrieben werden
+\begin{equation}
+    IQE = \frac{\text{Integrierte PL Intensität (T)}}{ \text{Integrierte PL Intensität } (T \rightarrow 0 K) }
+\end{equation}
+Als Quotient der integrierten PL Intensität bei Temperatur T und integrierter Intensität bei Tieftemperatur ($5K$). Die IQE ist folglich abhängig von der Temperatur, da der Paramater A für die SRH-Rekombination temperaturabhängig ist [Abb. \ref{fig:abha}]. 
+Um also die IQE bei Raumtemperatur zu bestimmen, wird das Spektrum einer Probe bei 5K und 300K bei ansonsten möglichst gleichen Bedingungen aufgenommen. Die Intensität in Abhängigkeit der Wellenlänge wird interpoliert, dann integriert und dann das Verhältnis berechnet. 
+%
+\begin{figure}[tb]
+    \centering
+    \begin{minipage}[t]{0.5\linewidth}
+        \centering
+        \includegraphics[width=\linewidth]{Bilder/IQEabhA.png}
+        \caption{Die Grafik zeigt die Abhängigkeit der internen Quanteneffizienz von der Ladungsträgerdichte für feste Paramater B und C. Der Paramater wird A wird variiert mit 9 verschiedenen Werten von $0 s^-1 $ bis $10^9 s^-1$ ~\cite{semreich}.}
+        \label{fig:abha}
+    \end{minipage}% <- sonst wird hier ein Leerzeichen eingefügt
+\end{figure}
+\vspace{1cm}
+\raggedright
+%
+Das ABC-Modell stellt aber nur eine Vereinfachung dar und berücksichtigt nicht alle vorkommenden Effekte wie beispielsweise Lokalisierung, Screening durch Ladungsträger und Dotierung. 
+Der Effekt der Dotierung spielt dabei eine besonders wichtige Rolle, da eine Silizumdotierung üblich in UV-Leds ist und einen großen Einfluss hat.
+nach \cite{schub} kann gezeigt werden, dass die Ratengleichungen, mit der Annahme einer Dotierung für die 
+die Radiative Rekombination sich ändert zu:
+\begin{align}
+    R_{rad} = B \cdot n^2 + B \cdot n \cdot n_{0}
+\end{align}
+Dabei beschreibt $n_{0}$ die Ladungsträgerkonzentration durch die Silizumdotierung. 
+Somit wird die IQE zu:
+\begin{equation}
+    IQE = \frac{B \cdot n^2 + B \cdot n \cdot n_{0}}{A \cdot n + B \cdot n^2  + B \cdot n \cdot n_{0}+ C \cdot n^3} 
+    \label{}
+\end{equation}
+Und hat einen enormen Einfluss auf die Ordinate, wie in Abb. [] zu sehen ist.
+%
