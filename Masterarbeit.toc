@@ -6,11 +6,10 @@
 \contentsline {section}{\numberline {2.2}Polarisationsfeld und QCSE in III/V Halbleitern}{10}
 \contentsline {section}{\numberline {2.3}Rekombinationsmechanismen}{11}
 \contentsline {section}{\numberline {2.4}Bestimmung der internen Quanteneffizienz}{13}
-\contentsline {section}{\numberline {2.5}Bestimmung der internen Quanteneffizienz: Einfluss der Auger-Rekombination}{14}
+\contentsline {section}{\numberline {2.5}Einfluss der Auger-Rekombination auf die IQE}{16}
 \contentsline {chapter}{\numberline {3}Aufbau}{17}
 \contentsline {section}{\numberline {3.1}Photolumineszenzaufbau}{17}
-\contentsline {section}{\numberline {3.2}Aufbau: Erweiterung und Bestimmung der Degradation des UV Quarzglases }{18}
-\contentsline {section}{\numberline {3.3}Bestimmung der Degradation des UV Quarzglases}{18}
-\contentsline {section}{\numberline {3.4}Aufbau: Erweiterung der Filterkombinationen}{20}
+\contentsline {section}{\numberline {3.2}Bestimmung der Degradation des UV Quarzglases}{18}
+\contentsline {section}{\numberline {3.3}Aufbau: Erweiterung der Filterkombinationen}{20}
 \contentsline {chapter}{\numberline {4}Ergebnisse}{23}
 \contentsline {section}{\numberline {4.1}Untersuchung optisch gepumpter Laserstrukturen auf unterschiedlichen Templates}{23}

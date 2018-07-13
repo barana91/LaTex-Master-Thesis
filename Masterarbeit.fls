@@ -205,8 +205,14 @@ INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7
 INPUT Bilder/IQEabhA.png
 INPUT ./Bilder/IQEabhA.png
 INPUT ./Bilder/IQEabhA.png
+INPUT Bilder/IQEmitDotierungVerschAParams.pdf
+INPUT ./Bilder/IQEmitDotierungVerschAParams.pdf
+INPUT ./Bilder/IQEmitDotierungVerschAParams.pdf
 INPUT Kapitel/GrundlagenPLtrueIQE.tex
 INPUT Kapitel/GrundlagenPLtrueIQE.tex
+INPUT Bilder/AugerBei5K.pdf
+INPUT ./Bilder/AugerBei5K.pdf
+INPUT ./Bilder/AugerBei5K.pdf
 INPUT Kapitel/Aufbau.tex
 INPUT Kapitel/Aufbau.tex
 INPUT Kapitel/AufbauWeiteres.tex
@@ -252,6 +258,7 @@ INPUT /usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.p
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
+INPUT /usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb
