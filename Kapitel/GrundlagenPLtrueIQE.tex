@@ -2,21 +2,35 @@
 
 \section{Einfluss der Auger-Rekombination auf die IQE}
 %
-\begin{figure}[h!]
+\begin{figure}[h]
     \centering
-    \begin{minipage}[t]{0.5\linewidth}
+    \begin{minipage}[t]{0.49\linewidth}
         \centering
         \includegraphics[width=\linewidth]{Bilder/AugerBei5K.pdf}
-        \caption{}
+        \caption{Die Grafik zeigt die Abhängigkeit der internen Quanteneffizienz von der Ladungsträgerdichte für feste Paramater B und C unter Variation des A Parameters und Beachtung des Einflusses einer Silizium-Dotierung.}
         \label{fig:auger5k}
     \end{minipage}% <- sonst wird hier ein Leerzeichen eingefügt
+    \hfill
+    \begin{minipage}[t]{0.49\linewidth}
+        \centering
+        \includegraphics[width=\linewidth]{Bilder/IQE5KmitohneAuger.pdf}
+        \caption{Die Grafik zeigt die Abhängigkeit der internen Quanteneffizienz von der Ladungsträgerdichte }
+        \label{fig:trueiqe}
+    \end{minipage}
 \end{figure}
+\vspace{1cm}
 \raggedright
-Das bisher benutzte Modell zur Bestimmung der PL-IQE ging davon aus, dass bei Tieftemperatur keine Auger-Rekombination (Gleichung) vorkommt, aber wie in Abb. [\ref{fig:auger5k}] deutlich zu erkennen, nimmt der Verlauf der PL-Intensität in doppeltlogarithmischer Darstellung gegenüber der Anregungsleistungsdichte die direkt proportional zur Ladungsträgerdichte ist, imBereich höherer Anregungsleistungen (entsprechend höheren Ladungsträgerdichten) deutlich ab und weist keinen linearen Verlauf mehr auf, den er aber durch eine allein quadratische Abhängigkeit (in doppeltlogarithmischer Darstellung linear) haben sollte. Dies zeigt,
-dass die IQE nicht, wie bisher angenommen, immer bei 100 Prozent liegen sondern Anregungsleistungsdichte abhängig ist. Um dies zu berücksichtigen, wird nun die IQE bei 5K definiert als:
+Das bisher benutzte Modell zur Bestimmung der PL-IQE ging davon aus, dass bei Tieftemperatur keine Auger-Rekombination (Gleichung) vorkommt, aber wie in Abb. [\ref{fig:auger5k}] deutlich zu erkennen, nimmt der Verlauf der PL-Intensität in doppeltlogarithmischer Darstellung gegenüber der Anregungsleistungsdichte (die direkt proportional zur Ladungsträgerdichte ist), im Bereich höherer Anregungsleistungen (entsprechend höheren Ladungsträgerdichten) deutlich ab und weist keinen linearen Verlauf mehr auf, den er aber durch eine allein quadratische Abhängigkeit (in doppeltlogarithmischer Darstellung linear) haben sollte. Dies zeigt, dass die IQE nicht, wie bisher angenommen, immer bei 100 Prozent liegt, sondern auch bei Tieftemperatur Anregungsleistungsdichte abhängig ist. Um dies zu berücksichtigen, wird nun die IQE bei 5K definiert als:
+%
 \begin{equation}
-    IQE(5K) = Norm
+    IQE_{true}(T = 5K, A_{exc}) = \frac{ \frac{I_{pl}(T,A_{exc}) }{A_{exc} } } { \lvert \lvert \frac{I_{pl}(T,A_{exc})}{A_{exc}} \lvert \lvert_{max} }
 \end{equation}
-Die integrierte PL-Intensität wird durch die Anregungsleistungsdichte dividiert und auf das Maxmimum normiert, das bei der geringsten Anregungsleistungsdichte liegen sollte, so dass das Maximum der IQE bei $5K$ liegt. 
-
+%
+Wobei $I_{pl}(A_{exc})$ die von der Anrengungsleistungsdichte $A_{exc}$ und Temperatur $T = 5K$ abhängige integrierte PL-Intensität ist. Die integrierte PL-Intensität wird durch die Anregungsleistungsdichte dividiert und auf das Maxmimum normiert, so dass das Maximum der IQE bei $5K$ bei der geringsten Anregungsleistungdichte mit der geringsten Auger-Rekombination liegen sollte. Um nun die IQE bei Raumtemperatur zu bestimmen, wird die nach dem alten Verfahren ermittelte IQE multipliziert mit den neu ermittelten Werten passend zur Anregungsleistungsdichte. 
+%
+\begin{equation}
+    IQE(T, A_{exc}) = \frac{IQE(T,A_{exc})}{IQE(5K,A_{exc})} \cdot IQE_{true}(5K,A_{exc})
+\end{equation}
+%
+Die IQE bei $5K$ dient hierbei also als Skalierungsfaktor, der den Einfluss der Auger-Rekombination bei Raumtemperatur korrigiert. Somit fällt im Vergleich insbesondere auf, dass die Skalierung bei den kleinsten Anregungsleistungsdichten am geringsten Einfluss hat und mit steigender Anregungsleistungsdichte kubisch steigt, so dass die nach dem alten Verfahren ermittelten IQE-Werte bei höheren Anregungsleistungsdichten deutlich nach unten korrigiert werden müssen. 
 %
