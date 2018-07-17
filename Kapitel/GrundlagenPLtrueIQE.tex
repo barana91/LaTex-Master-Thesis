@@ -13,8 +13,8 @@
     \hfill
     \begin{minipage}[t]{0.49\linewidth}
         \centering
-        \includegraphics[width=\linewidth]{Bilder/IQE5KmitohneAuger.pdf}
-        \caption{Die Grafik zeigt die Abhängigkeit der internen Quanteneffizienz von der Ladungsträgerdichte }
+        \includegraphics[width=\linewidth]{Bilder/NormierteKorrgierteIQE5K.pdf}
+        \caption{Die Grafik zeigt die normierte korrigierte IQE bei 5K nach Gleichung [\ref{eq:iqetrue5k}] }
         \label{fig:trueiqe}
     \end{minipage}
 \end{figure}
@@ -24,6 +24,7 @@ Das bisher benutzte Modell zur Bestimmung der PL-IQE ging davon aus, dass bei Ti
 %
 \begin{equation}
     IQE_{true}(T = 5K, A_{exc}) = \frac{ \frac{I_{pl}(T,A_{exc}) }{A_{exc} } } { \lvert \lvert \frac{I_{pl}(T,A_{exc})}{A_{exc}} \lvert \lvert_{max} }
+    \label{eq:iqetrue5k}
 \end{equation}
 %
 Wobei $I_{pl}(A_{exc})$ die von der Anrengungsleistungsdichte $A_{exc}$ und Temperatur $T = 5K$ abhängige integrierte PL-Intensität ist. Die integrierte PL-Intensität wird durch die Anregungsleistungsdichte dividiert und auf das Maxmimum normiert, so dass das Maximum der IQE bei $5K$ bei der geringsten Anregungsleistungdichte mit der geringsten Auger-Rekombination liegen sollte. Um nun die IQE bei Raumtemperatur zu bestimmen, wird die nach dem alten Verfahren ermittelte IQE multipliziert mit den neu ermittelten Werten passend zur Anregungsleistungsdichte. 
@@ -34,3 +35,23 @@ Wobei $I_{pl}(A_{exc})$ die von der Anrengungsleistungsdichte $A_{exc}$ und Temp
 %
 Die IQE bei $5K$ dient hierbei also als Skalierungsfaktor, der den Einfluss der Auger-Rekombination bei Raumtemperatur korrigiert. Somit fällt im Vergleich insbesondere auf, dass die Skalierung bei den kleinsten Anregungsleistungsdichten am geringsten Einfluss hat und mit steigender Anregungsleistungsdichte kubisch steigt, so dass die nach dem alten Verfahren ermittelten IQE-Werte bei höheren Anregungsleistungsdichten deutlich nach unten korrigiert werden müssen. 
 %
+\begin{figure}[h]
+    \centering
+    \begin{minipage}[t]{0.49\linewidth}
+        \centering
+        \includegraphics[width=\linewidth]{Bilder/StandardIQE300K.pdf}
+        \caption{Die Grafik zeigt die Abhängigkeit der internen Quanteneffizienz von der Ladungsträgerdichte für feste Paramater B und C unter Variation des A Parameters und Beachtung des Einflusses einer Silizium-Dotierung.}
+        \label{fig:standiqe300k}
+    \end{minipage}% <- sonst wird hier ein Leerzeichen eingefügt
+    \hfill
+    \begin{minipage}[t]{0.49\linewidth}
+        \centering
+        \includegraphics[width=\linewidth]{Bilder/KorrigierteIQE300K.pdf}
+        \caption{Die Grafik zeigt die normierte korrigierte IQE bei 5K nach Gleichung [\ref{eq:iqetrue5k}] }
+        \label{fig:trueiqe300k}
+    \end{minipage}
+\end{figure}
+\vspace{1cm}
+\raggedright
+%
+fssfsdf
