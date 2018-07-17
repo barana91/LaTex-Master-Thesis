@@ -202,9 +202,9 @@ INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/jknappen/ec/ecrm0800.tfm
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/jknappen/ec/ecrm0600.tfm
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
-INPUT Bilder/IQEabhA.png
-INPUT ./Bilder/IQEabhA.png
-INPUT ./Bilder/IQEabhA.png
+INPUT Bilder/IQEohneDotierungVerschAParams.pdf
+INPUT ./Bilder/IQEohneDotierungVerschAParams.pdf
+INPUT ./Bilder/IQEohneDotierungVerschAParams.pdf
 INPUT Bilder/IQEmitDotierungVerschAParams.pdf
 INPUT ./Bilder/IQEmitDotierungVerschAParams.pdf
 INPUT ./Bilder/IQEmitDotierungVerschAParams.pdf
@@ -213,6 +213,9 @@ INPUT Kapitel/GrundlagenPLtrueIQE.tex
 INPUT Bilder/AugerBei5K.pdf
 INPUT ./Bilder/AugerBei5K.pdf
 INPUT ./Bilder/AugerBei5K.pdf
+INPUT Bilder/IQE5KmitohneAuger.pdf
+INPUT ./Bilder/IQE5KmitohneAuger.pdf
+INPUT ./Bilder/IQE5KmitohneAuger.pdf
 INPUT Kapitel/Aufbau.tex
 INPUT Kapitel/Aufbau.tex
 INPUT Kapitel/AufbauWeiteres.tex

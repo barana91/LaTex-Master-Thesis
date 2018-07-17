@@ -1,10 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.16)  13 JUL 2018 16:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.16)  16 JUL 2018 11:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/ba/Desktop/Studium/Masterarbeit PL/Baran/Masterarbeit/Masterarbeit.te
-x"
+**"/Users/ba/Desktop/Studium/Masterarbeit PL/Baran/Masterarbeit/Masterarbeit"
 (/Users/ba/Desktop/Studium/Masterarbeit PL/Baran/Masterarbeit/Masterarbeit.tex
 LaTeX2e <2016/03/31>
 Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
@@ -669,18 +668,18 @@ Package csquotes Info: ... found 'babel' package.
 (./Masterarbeit.aux)
 \openout1 = `Masterarbeit.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 52.
-LaTeX Font Info:    ... okay on input line 52.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
 
 (/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -861,44 +860,61 @@ LaTeX Font Warning: Command \footnotesize invalid in math mode on input line 8.
 LaTeX Font Warning: Command \footnotesize invalid in math mode on input line 8.
 
 
-<Bilder/IQEabhA.png, id=110, 458.6736pt x 382.0674pt>
-File: Bilder/IQEabhA.png Graphic file (type png)
- <use Bilder/IQEabhA.png>
-Package pdftex.def Info: Bilder/IQEabhA.png used on input line 29.
-(pdftex.def)             Requested size: 204.9466pt x 170.71611pt.
+<Bilder/IQEohneDotierungVerschAParams.pdf, id=110, 745.78625pt x 584.1825pt>
+File: Bilder/IQEohneDotierungVerschAParams.pdf Graphic file (type pdf)
 
-<Bilder/IQEmitDotierungVerschAParams.pdf, id=111, 647.41875pt x 500.87125pt>
+<use Bilder/IQEohneDotierungVerschAParams.pdf>
+Package pdftex.def Info: Bilder/IQEohneDotierungVerschAParams.pdf used on input
+ line 29.
+(pdftex.def)             Requested size: 204.9466pt x 160.53033pt.
+
+<Bilder/IQEmitDotierungVerschAParams.pdf, id=111, 549.05125pt x 431.6125pt>
 File: Bilder/IQEmitDotierungVerschAParams.pdf Graphic file (type pdf)
 
 <use Bilder/IQEmitDotierungVerschAParams.pdf>
 Package pdftex.def Info: Bilder/IQEmitDotierungVerschAParams.pdf used on input 
 line 36.
-(pdftex.def)             Requested size: 204.9466pt x 158.55482pt.
- [13] [14 <./Bilder/IQEabhA.png> <./Bilder/IQEmitDotierungVerschAParams.pdf>]) 
-(./Kapitel/GrundlagenPLtrueIQE.tex [15] <Bilder/AugerBei5K.pdf, id=126, 611.283
-75pt x 494.84875pt>
+(pdftex.def)             Requested size: 204.9466pt x 161.11008pt.
+ [13] [14 <./Bilder/IQEohneDotierungVerschAParams.pdf> <./Bilder/IQEmitDotierun
+gVerschAParams.pdf
+
+pdfTeX warning: pdflatex (file ./Bilder/IQEmitDotierungVerschAParams.pdf): PDF 
+inclusion: multiple pdfs with page group included in a single page
+>]) (./Kapitel/GrundlagenPLtrueIQE.tex [15]
+<Bilder/AugerBei5K.pdf, id=173, 611.28375pt x 494.84875pt>
 File: Bilder/AugerBei5K.pdf Graphic file (type pdf)
 
 <use Bilder/AugerBei5K.pdf>
 Package pdftex.def Info: Bilder/AugerBei5K.pdf used on input line 9.
-(pdftex.def)             Requested size: 209.12683pt x 169.28836pt.
-) (./Kapitel/Aufbau.tex [16 <./Bilder/AugerBei5K.pdf>]
+(pdftex.def)             Requested size: 204.9466pt x 165.90561pt.
+
+<Bilder/IQE5KmitohneAuger.pdf, id=174, 638.385pt x 494.84875pt>
+File: Bilder/IQE5KmitohneAuger.pdf Graphic file (type pdf)
+
+<use Bilder/IQE5KmitohneAuger.pdf>
+Package pdftex.def Info: Bilder/IQE5KmitohneAuger.pdf used on input line 16.
+(pdftex.def)             Requested size: 204.9466pt x 158.86073pt.
+ [16 <./Bilder/AugerBei5K.pdf> <./Bilder/IQE5KmitohneAuger.pdf
+
+pdfTeX warning: pdflatex (file ./Bilder/IQE5KmitohneAuger.pdf): PDF inclusion: 
+multiple pdfs with page group included in a single page
+>]) (./Kapitel/Aufbau.tex [17] [18
+
+]
 Kapitel 3.
 
 Underfull \vbox (badness 1776) has occurred while \output is active []
 
- [17
-
-])
+ [19])
 (./Kapitel/AufbauWeiteres.tex
-<Bilder/uvsilicaDegradation.png, id=150, 448.074pt x 284.56313pt>
+<Bilder/uvsilicaDegradation.png, id=218, 448.074pt x 284.56313pt>
 File: Bilder/uvsilicaDegradation.png Graphic file (type png)
 
 <use Bilder/uvsilicaDegradation.png>
 Package pdftex.def Info: Bilder/uvsilicaDegradation.png used on input line 10.
 (pdftex.def)             Requested size: 204.9466pt x 130.15813pt.
 
-<Bilder/uvsilicavergleich.pdf, id=151, 630.355pt x 502.87875pt>
+<Bilder/uvsilicavergleich.pdf, id=219, 630.355pt x 502.87875pt>
 File: Bilder/uvsilicavergleich.pdf Graphic file (type pdf)
 
 <use Bilder/uvsilicavergleich.pdf>
@@ -909,7 +925,7 @@ Underfull \hbox (badness 2173) in paragraph at lines 26--26
 []\T1/cmr/m/n/10.95 (a) |PL In-ten-si-tät in Ab-hän-gig-
  []
 
-<Bilder/uvsilicaVergleichSkaliert.pdf, id=152, 751.80875pt x 580.1675pt>
+<Bilder/uvsilicaVergleichSkaliert.pdf, id=220, 751.80875pt x 580.1675pt>
 File: Bilder/uvsilicaVergleichSkaliert.pdf Graphic file (type pdf)
 
 <use Bilder/uvsilicaVergleichSkaliert.pdf>
@@ -921,13 +937,13 @@ Underfull \hbox (badness 1571) in paragraph at lines 33--33
 []\T1/cmr/m/n/10.95 (b) |Die An-re-gungs-leis-tungs-dich-te
  []
 
-[18 <./Bilder/uvsilicaDegradation.png>] [19 <./Bilder/uvsilicavergleich.pdf> <.
+[20 <./Bilder/uvsilicaDegradation.png>] [21 <./Bilder/uvsilicavergleich.pdf> <.
 /Bilder/uvsilicaVergleichSkaliert.pdf
 
 pdfTeX warning: pdflatex (file ./Bilder/uvsilicaVergleichSkaliert.pdf): PDF inc
 lusion: multiple pdfs with page group included in a single page
 >]) (./Kapitel/AufbauVerbesserung.tex
-<Bilder/AuswertungNovemeberKorr1VergleichFilter.pdf, id=166, 673.51625pt x 590.
+<Bilder/AuswertungNovemeberKorr1VergleichFilter.pdf, id=232, 673.51625pt x 590.
 205pt>
 File: Bilder/AuswertungNovemeberKorr1VergleichFilter.pdf Graphic file (type pdf
 )
@@ -935,41 +951,41 @@ File: Bilder/AuswertungNovemeberKorr1VergleichFilter.pdf Graphic file (type pdf
 Package pdftex.def Info: Bilder/AuswertungNovemeberKorr1VergleichFilter.pdf use
 d on input line 10.
 (pdftex.def)             Requested size: 204.9466pt x 179.59349pt.
- [20 <./Bilder/AuswertungNovemeberKorr1VergleichFilter.pdf>]) (./Kapitel/Ergebn
+ [22 <./Bilder/AuswertungNovemeberKorr1VergleichFilter.pdf>]) (./Kapitel/Ergebn
 isse.tex
-[21] [22
+[23] [24
 
 ]
 Kapitel 4.
-[23] <Bilder/TS4045Uebersicht.pdf, id=194, 774.895pt x 593.21625pt>
+[25] <Bilder/TS4045Uebersicht.pdf, id=261, 774.895pt x 593.21625pt>
 File: Bilder/TS4045Uebersicht.pdf Graphic file (type pdf)
 
 <use Bilder/TS4045Uebersicht.pdf>
 Package pdftex.def Info: Bilder/TS4045Uebersicht.pdf used on input line 43.
 (pdftex.def)             Requested size: 204.9466pt x 156.8938pt.
 
-<Bilder/TS4048Uebersicht.pdf, id=195, 774.895pt x 593.21625pt>
+<Bilder/TS4048Uebersicht.pdf, id=262, 774.895pt x 593.21625pt>
 File: Bilder/TS4048Uebersicht.pdf Graphic file (type pdf)
 
 <use Bilder/TS4048Uebersicht.pdf>
 Package pdftex.def Info: Bilder/TS4048Uebersicht.pdf used on input line 49.
 (pdftex.def)             Requested size: 204.9466pt x 156.8938pt.
-) (./Masterarbeit.bbl [24 <./Bilder/TS4045Uebersicht.pdf> <./Bilder/TS4048Ueber
+) (./Masterarbeit.bbl [26 <./Bilder/TS4045Uebersicht.pdf> <./Bilder/TS4048Ueber
 sicht.pdf
 
 pdfTeX warning: pdflatex (file ./Bilder/TS4048Uebersicht.pdf): PDF inclusion: m
 ultiple pdfs with page group included in a single page
->]) [25
+>]) [27
 
 ] (./Masterarbeit.aux) ) 
 Here is how much of TeX's memory you used:
- 7464 strings out of 493014
- 107253 string characters out of 6133350
- 207460 words of memory out of 5000000
- 10783 multiletter control sequences out of 15000+600000
+ 7472 strings out of 493014
+ 107552 string characters out of 6133350
+ 208494 words of memory out of 5000000
+ 10790 multiletter control sequences out of 15000+600000
  19703 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 59i,15n,94p,1514b,546s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 59i,15n,94p,1511b,546s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/cm-
 super/cm-super-t1.enc}</usr/local/texlive/2016/texmf-dist/fonts/type1/public/am
 sfonts/cm/cmmi12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/ams
@@ -988,10 +1004,10 @@ r/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/
 local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/lo
 cal/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/loca
 l/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on Masterarbeit.pdf (25 pages, 1684875 bytes).
+Output written on Masterarbeit.pdf (27 pages, 1379610 bytes).
 PDF statistics:
- 262 PDF objects out of 1000 (max. 8388607)
- 189 compressed objects within 2 object streams
+ 329 PDF objects out of 1000 (max. 8388607)
+ 252 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 76 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
 
