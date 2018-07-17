@@ -34,7 +34,7 @@ Um also die IQE bei Raumtemperatur zu bestimmen, wird das Spektrum einer Probe b
     \begin{minipage}[t]{0.49\linewidth}
         \centering
         \includegraphics[width=\linewidth]{Bilder/IQEmitDotierungVerschAParams.pdf}
-        \caption{Die Grafik zeigt die Abhängigkeit der internen Quanteneffizienz von der Ladungsträgerdichte für feste Paramater B und C unter Variation des A Parameters und Beachtung des Einflusses einer Silizium-Dotierung.}
+        \caption{}
         \label{fig:abha1}
     \end{minipage}
 \end{figure}
@@ -45,9 +45,38 @@ Um also die IQE bei Raumtemperatur zu bestimmen, wird das Spektrum einer Probe b
 Das ABC-Modell stellt aber nur eine Vereinfachung dar und berücksichtigt nicht alle vorkommenden Effekte wie beispielsweise Lokalisierung, Screening durch Ladungsträger und Dotierung. 
 Der Effekt der Dotierung spielt dabei eine besonders wichtige Rolle, da eine Silizumdotierung üblich in UV-Leds ist und einen großen Einfluss hat.
 Nach \cite{schub} kann gezeigt werden, dass die Ratengleichungen, mit der Annahme einer Dotierung für die 
-die Radiative Rekombination sich ändert zu:
+die Radiative Rekombination sich ändert und soll nun hergeleitet werden:
+\\newline
+Jeder dotierte oder undotiere Halbleiter hat zwei Arten von Ladungsträgern, Elektronen und Löcher.
+Im Gleichgewicht, bedeutet ohne externe Anregung durch Absorption von Licht oder Injektion von Elektronen, ist das Produkt von Elektronen- und Lochkonzentration eine konstante Größe.
+\begin{equation}
+    n_0 \cdot p_0 = n_i^2
+    \label{eq:constant}
+\end{equation}
+Hierbei sind $n_0$ und $p_0$ die Elektron- und Lochkonzentration unter Gleichgewichtsbedingung und $n_{i}$ damit die intrinsische Ladungsträgerkonzentration.
+Werden zusätzlich die durch Anregung erzeugten Ladungsträger betrachtet, so ist die Gesamtladungsträgerkonzentration gegeben als Summe der Anregungs- und Gleichgewichtsladungsträger. 
+\begin{equation}
+    n_{ges} = n_0 + n \medspace \text{und} \medspace  p_{ges} = p_0 +  n 
+\end{equation}
+Hierbei sind $ n$ und $p$ die Anregungsladungsträger. 
+Die Anzahl der stattfindenden Rekombination zwischen Elektronen und Löchern sind direkt proportional zur Elektronen-und Ladungsträgerkonzentration, so gilt, $R \propto n \cdot p $. Mit einer Proportionalitätkonstante, wird Rekombinationrate pro Zeit und Volumen definiert als
+\begin{equation}
+    R = - \frac{dn_{ges}}{dt} = - \frac{dp_{ges}}{dt} = B \cdot n_{ges} \cdot p_{ges}
+\end{equation}
+Weil Elektronen und Löcher bei Anregung paarweise erzeugt werden und verschwinden (durch Rekombination), gilt
+\begin{equation}
+    \label{eq:gleich}
+    n(t) =  p(t)
+\end{equation}
+Die radiative Rekombinationrate wird dann mit $p_{0} = 0$ und Gleichung [\ref{eq:gleich}] zu
 \begin{align}
-    R_{rad} = B \cdot n^2 + B \cdot n \cdot n_{0}
+\begin{split}
+    R_{rad} &= B \cdot (n_0 + n)  \cdot (p_0 + p) ,
+    \\
+    R_{rad} &= B \cdot (n_0 + n) \cdot (n) ,
+    \\
+    R_{rad} &= B \cdot n^2 \cdot n \cdot n_0
+\end{split}
 \end{align}
 Dabei beschreibt $n_{0}$ die Ladungsträgerkonzentration durch die Silizumdotierung. 
 Somit wird die IQE zu:
@@ -57,3 +86,4 @@ Somit wird die IQE zu:
 \end{equation}
 Und hat einen enormen Einfluss auf die Ordinate, wie in Abb. [\ref{fig:abha1}] zu sehen ist.
 %
+
