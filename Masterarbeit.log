@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.16)  22 JUL 2018 16:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.16)  22 JUL 2018 18:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -666,7 +666,11 @@ Package csquotes Info: Redefining alias 'german' -> 'german/guillemets'.
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 
-(./Masterarbeit.aux)
+(./Masterarbeit.aux
+
+LaTeX Warning: Label `eq:iqe2' multiply defined.
+
+)
 \openout1 = `Masterarbeit.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
@@ -681,8 +685,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
 LaTeX Font Info:    ... okay on input line 53.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
 LaTeX Font Info:    ... okay on input line 53.
-
-(/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+ (/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count120
 \scratchdimen=\dimen142
@@ -852,46 +855,47 @@ Package pdftex.def Info: Bilder/rekbomChannels.png used on input line 30.
 (pdftex.def)             Requested size: 209.12683pt x 124.95573pt.
  [11 <./Bilder/nonradRekomb.png (PNG copy)> <./Bilder/radRekomb.png (PNG copy)>
 ] [12 <./Bilder/rekbomChannels.png (PNG copy)>]) (./Kapitel/GrundlagenPLIQE.tex
-
-
-LaTeX Font Warning: Command \footnotesize invalid in math mode on input line 8.
-
-
-
-LaTeX Font Warning: Command \footnotesize invalid in math mode on input line 8.
-
-
-<Bilder/IQEohneDotierungVerschAParams.pdf, id=110, 745.78625pt x 584.1825pt>
+ [13]
+<Bilder/IQEohneDotierungVerschAParams.pdf, id=114, 745.78625pt x 584.1825pt>
 File: Bilder/IQEohneDotierungVerschAParams.pdf Graphic file (type pdf)
 
 <use Bilder/IQEohneDotierungVerschAParams.pdf>
 Package pdftex.def Info: Bilder/IQEohneDotierungVerschAParams.pdf used on input
- line 30.
+ line 8.
 (pdftex.def)             Requested size: 204.9466pt x 160.53033pt.
- [13] [14 <./Bilder/IQEohneDotierungVerschAParams.pdf>]) (./Kapitel/RaumTempMet
-hGrund.tex
+
+
+LaTeX Font Warning: Command \footnotesize invalid in math mode on input line 19
+.
+
+
+LaTeX Font Warning: Command \footnotesize invalid in math mode on input line 19
+.
+
+[14 <./Bilder/IQEohneDotierungVerschAParams.pdf>])
+(./Kapitel/RaumTempMethGrund.tex
 Overfull \hbox (18.30457pt too wide) in paragraph at lines 2--2
 []\T1/cmr/bx/n/17.28 Bestimmung der IQE bei Raum-tem-pe-ra-tur durch
  []
 
-) (./Kapitel/Aufbau.tex [15] [16
-
-]
+[15]) (./Kapitel/Aufbau.tex [16]
 Kapitel 3.
 
 Underfull \vbox (badness 1776) has occurred while \output is active []
 
- [17])
+ [17
+
+])
 (./Kapitel/AufbauWeiteres.tex [18]
 Kapitel 4.
-<Bilder/uvsilicaDegradation.png, id=149, 448.074pt x 284.56313pt>
+<Bilder/uvsilicaDegradation.png, id=150, 448.074pt x 284.56313pt>
 File: Bilder/uvsilicaDegradation.png Graphic file (type png)
 
 <use Bilder/uvsilicaDegradation.png>
 Package pdftex.def Info: Bilder/uvsilicaDegradation.png used on input line 10.
 (pdftex.def)             Requested size: 204.9466pt x 130.15813pt.
 
-<Bilder/uvsilicavergleich.pdf, id=150, 630.355pt x 502.87875pt>
+<Bilder/uvsilicavergleich.pdf, id=151, 630.355pt x 502.87875pt>
 File: Bilder/uvsilicavergleich.pdf Graphic file (type pdf)
 
 <use Bilder/uvsilicavergleich.pdf>
@@ -902,7 +906,7 @@ Underfull \hbox (badness 2173) in paragraph at lines 26--26
 []\T1/cmr/m/n/10.95 (a) |PL In-ten-si-tät in Ab-hän-gig-
  []
 
-<Bilder/uvsilicaVergleichSkaliert.pdf, id=151, 751.80875pt x 580.1675pt>
+<Bilder/uvsilicaVergleichSkaliert.pdf, id=152, 751.80875pt x 580.1675pt>
 File: Bilder/uvsilicaVergleichSkaliert.pdf Graphic file (type pdf)
 
 <use Bilder/uvsilicaVergleichSkaliert.pdf>
@@ -922,7 +926,7 @@ Underfull \hbox (badness 1571) in paragraph at lines 33--33
 pdfTeX warning: pdflatex (file ./Bilder/uvsilicaVergleichSkaliert.pdf): PDF inc
 lusion: multiple pdfs with page group included in a single page
 >]
-<Bilder/AuswertungNovemeberKorr1VergleichFilter.pdf, id=165, 673.51625pt x 590.
+<Bilder/AuswertungNovemeberKorr1VergleichFilter.pdf, id=166, 673.51625pt x 590.
 205pt>
 File: Bilder/AuswertungNovemeberKorr1VergleichFilter.pdf Graphic file (type pdf
 )
@@ -932,7 +936,7 @@ d on input line 10.
 (pdftex.def)             Requested size: 204.9466pt x 179.59349pt.
  [21 <./Bilder/AuswertungNovemeberKorr1VergleichFilter.pdf>])
 (./Kapitel/GrundlagenPLtrueIQE.tex
-<Bilder/AugerBei5K.pdf, id=183, 774.895pt x 593.21625pt>
+<Bilder/AugerBei5K.pdf, id=184, 774.895pt x 593.21625pt>
 File: Bilder/AugerBei5K.pdf Graphic file (type pdf)
 
 <use Bilder/AugerBei5K.pdf>
@@ -948,7 +952,7 @@ Underfull \hbox (badness 1184) in paragraph at lines 10--10
 \T1/cmr/m/n/12 mi-scher Dar-stel-lung müss-te die in-te-
  []
 
-<Bilder/NormierteKorrgierteIQE5K.pdf, id=184, 774.895pt x 593.21625pt>
+<Bilder/NormierteKorrgierteIQE5K.pdf, id=185, 774.895pt x 593.21625pt>
 File: Bilder/NormierteKorrgierteIQE5K.pdf Graphic file (type pdf)
 
 <use Bilder/NormierteKorrgierteIQE5K.pdf>
@@ -959,14 +963,14 @@ Package pdftex.def Info: Bilder/NormierteKorrgierteIQE5K.pdf used on input line
 
 pdfTeX warning: pdflatex (file ./Bilder/NormierteKorrgierteIQE5K.pdf): PDF incl
 usion: multiple pdfs with page group included in a single page
->] <Bilder/StandardIQE300K.pdf, id=222, 774.895pt x 593.21625pt>
+>] <Bilder/StandardIQE300K.pdf, id=223, 774.895pt x 593.21625pt>
 File: Bilder/StandardIQE300K.pdf Graphic file (type pdf)
 
 <use Bilder/StandardIQE300K.pdf>
 Package pdftex.def Info: Bilder/StandardIQE300K.pdf used on input line 40.
 (pdftex.def)             Requested size: 204.9466pt x 156.8938pt.
 
-<Bilder/KorrigierteIQE300K.pdf, id=223, 774.895pt x 593.21625pt>
+<Bilder/KorrigierteIQE300K.pdf, id=224, 774.895pt x 593.21625pt>
 File: Bilder/KorrigierteIQE300K.pdf Graphic file (type pdf)
 
 <use Bilder/KorrigierteIQE300K.pdf>
@@ -1005,12 +1009,15 @@ ultiple pdfs with page group included in a single page
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 7491 strings out of 493014
- 107965 string characters out of 6133350
- 207557 words of memory out of 5000000
- 10802 multiletter control sequences out of 15000+600000
+ 7494 strings out of 493014
+ 108019 string characters out of 6133350
+ 207632 words of memory out of 5000000
+ 10805 multiletter control sequences out of 15000+600000
  19703 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  59i,15n,94p,1515b,546s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1033,7 +1040,7 @@ xmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2016/texm
 f-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2016/texmf-
 dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2016/texmf-di
 st/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on Masterarbeit.pdf (28 pages, 1390218 bytes).
+Output written on Masterarbeit.pdf (28 pages, 1394543 bytes).
 PDF statistics:
  342 PDF objects out of 1000 (max. 8388607)
  262 compressed objects within 3 object streams

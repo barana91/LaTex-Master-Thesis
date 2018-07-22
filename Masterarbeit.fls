@@ -197,14 +197,14 @@ INPUT ./Bilder/rekbomChannels.png
 INPUT ./Bilder/rekbomChannels.png
 INPUT Kapitel/GrundlagenPLIQE.tex
 INPUT Kapitel/GrundlagenPLIQE.tex
+INPUT Bilder/IQEohneDotierungVerschAParams.pdf
+INPUT ./Bilder/IQEohneDotierungVerschAParams.pdf
+INPUT ./Bilder/IQEohneDotierungVerschAParams.pdf
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/jknappen/ec/ecrm1000.tfm
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/jknappen/ec/ecrm0800.tfm
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/jknappen/ec/ecrm0600.tfm
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 INPUT /usr/local/texlive/2016/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
-INPUT Bilder/IQEohneDotierungVerschAParams.pdf
-INPUT ./Bilder/IQEohneDotierungVerschAParams.pdf
-INPUT ./Bilder/IQEohneDotierungVerschAParams.pdf
 INPUT Kapitel/RaumTempMethGrund.tex
 INPUT Kapitel/RaumTempMethGrund.tex
 INPUT Kapitel/Aufbau.tex

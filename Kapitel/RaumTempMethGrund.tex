@@ -3,11 +3,40 @@
 
 \thispagestyle{fancy}
 
-In diesem Kapitel soll nun eine in \cite{doi:10.1063/1.3100773} und \cite{doi:10.1063/1.4917540} gezeigte Methode zur Bestimmung der IQE durch ein Fitting-Modell für die integrierte Intensität in Abhängigkeit der Ladungsträgerdichte vorgestellt werden. Angefangen mit der Rekombinationasrate, geht das Modell davon aus,
-das bei Raumtemperatur Auger-Rekombination nur bei sehr hohen Anregungsleistungsdichten Relevant ist, wegen der kubischen Abhängigkeit der Auger-Rekombination von der Ladungsträgerdichte $n$
+In diesem Kapitel soll nun eine in \cite{doi:10.1063/1.3100773} und \cite{doi:10.1063/1.4917540} gezeigte Methode zur Bestimmung der IQE durch ein Fitting-Modell für die integrierte Intensität in Abhängigkeit der Ladungsträgerdichte vorgestellt werden. Das ist insbeondere von Vorteil, da so ein aufwändiges runterkühlen nicht mehr notwendig wäre, da die Spektren allein bei Raumtemperatur aufgenommen werden könnten. 
+\newline
+Angefangen mit der Rekombinationsrate, geht das Modell davon aus,
+dass bei Raumtemperatur Auger-Rekombination nur bei sehr hohen Anregungsleistungsdichten relevant ist, wegen der kubischen Abhängigkeit der Auger-Rekombination von der Ladungsträgerdichte $n$. Die Generationrate G und die IQE bei Gleichgewichtsbedinungen ist somit:
 \begin{equation}
     G = R_{eff} = A \cdot n + B \cdot n^2
-\end{equation}    
-G steht hierbei für Generationsrate und beschreibt namentlich die Rate der Ladungsträger die durch Bestrahlung mit dem Laser erzeugt werden und entspricht hierbei der effektiven Rekombinationsrate $R_{eff}$
+    \label{eq:generationrate}
+\end{equation}  
+\begin{equation}
+    IQE = \frac{B\cdot n^2}{A \cdot n + B \cdot n^2} = \frac{B\cdot n^2}{G}
+    \label{eq:iqe2}
+\end{equation}  
+G beschreibt namentlich die Rate der Ladungsträger die durch Bestrahlung mit dem Laser erzeugt werden und entspricht hierbei der effektiven Rekombinationsrate $R_{eff}$.
+Die integrierte PL-Intensität kann beschrieben werden als:
+\begin{equation}
+    I_{PL} = \eta \cdot B \cdot n^2
+    \label{eq:integint}
+\end{equation} 
+$\eta$ ist eine konstante die durch das Volumen der angeregten aktiven Region und der Kollektionseffizienz bestimmt wird. Durch Eliminierung von $n$ in den Gleichungen \ref{eq:generationrate} und \ref{eq:integint} kann die Generationsrate durch die integrierte PL Intensität beschrieben werden
+\begin{equation}
+    G = \frac{A}{\sqrt{B\cdot n}}\sqrt{I_{PL}} + \frac{1}{\eta} I_{PL}
+    %\label{eq:newgenrate}
+\end{equation} 
+Um dies in Zusammenhang mit dem Experiment zu bringen, kann die Generationsrate getrennt berechnet werden mit Nutzung experimenteller Werte durch 
+\begin{equation}
+    G = \frac{P_{laser} (1-R)\alpha l}{A_{spot} l h v} = \frac{P_{laser}(1-R) \alpha }{ (A_{spot} h v)}
+   % \label{eq:newgenrate}
+\end{equation} 
+Dabei ist $P_{laser}$ die optische Leistung die auf der Probe landet, $R$ ist die Fresnel Reflektion auf der Probenoberfäche, $A_{spot}$ ist die Fläche des Laserspots auf der Probe, $h v$ ist die Energie eines Photons mit $193 nm$ und $\alpha$ ist der Absorptionskoeffizient. Damit ist es möglich, die Generationsrate zu bestimmen und in Abhängigkeit der integrierten PL-Intensität darzustellen. Und indem die Koeffizienten $c_1 = A \sqrt{B  \eta}$ und $c_2 = 1 / \eta$ durch einen Fit der Generationsrate bestimmt werden, kann die IQE bestimmt werden. Dazu wird $c_1$ nach A umgestellt ($A = \sqrt{B \eta} \cdot c1$) und in \ref{eq:generationrate} eingesetzt
+\begin{equation}
+    G = \sqrt{B \eta} \cdot c_1\cdot n + (\sqrt{B} \cdot n)^2
+    \label{eq:generationrateneu}
+\end{equation}  
+Durch lösen von \ref{eq:generationrateneu}, für $\frac{B \cdot}n)$ und einsetzen in Gleichung \ref{eq:iqe2}
 
+hallo
 
