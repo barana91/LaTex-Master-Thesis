@@ -1,9 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.16)  17 JUL 2018 12:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.16)  22 JUL 2018 16:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"/Users/ba/Desktop/Studium/Masterarbeit PL/Baran/Masterarbeit/Masterarbeit"
+**"/Users/ba/Desktop/Studium/Masterarbeit PL/Baran/Masterarbeit/Masterarbeit.te
+x"
 (/Users/ba/Desktop/Studium/Masterarbeit PL/Baran/Masterarbeit/Masterarbeit.tex
 LaTeX2e <2016/03/31>
 Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
@@ -865,78 +866,32 @@ File: Bilder/IQEohneDotierungVerschAParams.pdf Graphic file (type pdf)
 
 <use Bilder/IQEohneDotierungVerschAParams.pdf>
 Package pdftex.def Info: Bilder/IQEohneDotierungVerschAParams.pdf used on input
- line 29.
+ line 30.
 (pdftex.def)             Requested size: 204.9466pt x 160.53033pt.
+ [13] [14 <./Bilder/IQEohneDotierungVerschAParams.pdf>]) (./Kapitel/RaumTempMet
+hGrund.tex
+Overfull \hbox (18.30457pt too wide) in paragraph at lines 2--2
+[]\T1/cmr/bx/n/17.28 Bestimmung der IQE bei Raum-tem-pe-ra-tur durch
+ []
 
-<Bilder/IQEmitDotierungVerschAParams.pdf, id=111, 549.05125pt x 431.6125pt>
-File: Bilder/IQEmitDotierungVerschAParams.pdf Graphic file (type pdf)
+) (./Kapitel/Aufbau.tex [15] [16
 
-<use Bilder/IQEmitDotierungVerschAParams.pdf>
-Package pdftex.def Info: Bilder/IQEmitDotierungVerschAParams.pdf used on input 
-line 36.
-(pdftex.def)             Requested size: 204.9466pt x 161.11008pt.
- [13] [14 <./Bilder/IQEohneDotierungVerschAParams.pdf> <./Bilder/IQEmitDotierun
-gVerschAParams.pdf
-
-pdfTeX warning: pdflatex (file ./Bilder/IQEmitDotierungVerschAParams.pdf): PDF 
-inclusion: multiple pdfs with page group included in a single page
->]) (./Kapitel/GrundlagenPLtrueIQE.tex [15]
-<Bilder/AugerBei5K.pdf, id=167, 774.895pt x 593.21625pt>
-File: Bilder/AugerBei5K.pdf Graphic file (type pdf)
-
-<use Bilder/AugerBei5K.pdf>
-Package pdftex.def Info: Bilder/AugerBei5K.pdf used on input line 9.
-(pdftex.def)             Requested size: 204.9466pt x 156.8938pt.
-
-<Bilder/NormierteKorrgierteIQE5K.pdf, id=168, 774.895pt x 593.21625pt>
-File: Bilder/NormierteKorrgierteIQE5K.pdf Graphic file (type pdf)
-
-<use Bilder/NormierteKorrgierteIQE5K.pdf>
-Package pdftex.def Info: Bilder/NormierteKorrgierteIQE5K.pdf used on input line
- 16.
-(pdftex.def)             Requested size: 204.9466pt x 156.8938pt.
- [16 <./Bilder/AugerBei5K.pdf> <./Bilder/NormierteKorrgierteIQE5K.pdf
-
-pdfTeX warning: pdflatex (file ./Bilder/NormierteKorrgierteIQE5K.pdf): PDF incl
-usion: multiple pdfs with page group included in a single page
->] <Bilder/StandardIQE300K.pdf, id=205, 774.895pt x 593.21625pt>
-File: Bilder/StandardIQE300K.pdf Graphic file (type pdf)
-
-<use Bilder/StandardIQE300K.pdf>
-Package pdftex.def Info: Bilder/StandardIQE300K.pdf used on input line 48.
-(pdftex.def)             Requested size: 204.9466pt x 156.8938pt.
-
-<Bilder/KorrigierteIQE300K.pdf, id=206, 774.895pt x 593.21625pt>
-File: Bilder/KorrigierteIQE300K.pdf Graphic file (type pdf)
-
-<use Bilder/KorrigierteIQE300K.pdf>
-Package pdftex.def Info: Bilder/KorrigierteIQE300K.pdf used on input line 55.
-(pdftex.def)             Requested size: 204.9466pt x 156.8938pt.
-) (./Kapitel/Aufbau.tex
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[17] [18 <./Bilder/StandardIQE300K.pdf> <./Bilder/KorrigierteIQE300K.pdf
-
-pdfTeX warning: pdflatex (file ./Bilder/KorrigierteIQE300K.pdf): PDF inclusion:
- multiple pdfs with page group included in a single page
->]
+]
 Kapitel 3.
 
 Underfull \vbox (badness 1776) has occurred while \output is active []
 
- [19
-
-])
-(./Kapitel/AufbauWeiteres.tex
-<Bilder/uvsilicaDegradation.png, id=251, 448.074pt x 284.56313pt>
+ [17])
+(./Kapitel/AufbauWeiteres.tex [18]
+Kapitel 4.
+<Bilder/uvsilicaDegradation.png, id=149, 448.074pt x 284.56313pt>
 File: Bilder/uvsilicaDegradation.png Graphic file (type png)
 
 <use Bilder/uvsilicaDegradation.png>
 Package pdftex.def Info: Bilder/uvsilicaDegradation.png used on input line 10.
 (pdftex.def)             Requested size: 204.9466pt x 130.15813pt.
 
-<Bilder/uvsilicavergleich.pdf, id=252, 630.355pt x 502.87875pt>
+<Bilder/uvsilicavergleich.pdf, id=150, 630.355pt x 502.87875pt>
 File: Bilder/uvsilicavergleich.pdf Graphic file (type pdf)
 
 <use Bilder/uvsilicavergleich.pdf>
@@ -947,7 +902,7 @@ Underfull \hbox (badness 2173) in paragraph at lines 26--26
 []\T1/cmr/m/n/10.95 (a) |PL In-ten-si-tät in Ab-hän-gig-
  []
 
-<Bilder/uvsilicaVergleichSkaliert.pdf, id=253, 751.80875pt x 580.1675pt>
+<Bilder/uvsilicaVergleichSkaliert.pdf, id=151, 751.80875pt x 580.1675pt>
 File: Bilder/uvsilicaVergleichSkaliert.pdf Graphic file (type pdf)
 
 <use Bilder/uvsilicaVergleichSkaliert.pdf>
@@ -959,13 +914,15 @@ Underfull \hbox (badness 1571) in paragraph at lines 33--33
 []\T1/cmr/m/n/10.95 (b) |Die An-re-gungs-leis-tungs-dich-te
  []
 
-[20 <./Bilder/uvsilicaDegradation.png>] [21 <./Bilder/uvsilicavergleich.pdf> <.
-/Bilder/uvsilicaVergleichSkaliert.pdf
+[19
+
+ <./Bilder/uvsilicaDegradation.png>]) (./Kapitel/AufbauVerbesserung.tex
+[20 <./Bilder/uvsilicavergleich.pdf> <./Bilder/uvsilicaVergleichSkaliert.pdf
 
 pdfTeX warning: pdflatex (file ./Bilder/uvsilicaVergleichSkaliert.pdf): PDF inc
 lusion: multiple pdfs with page group included in a single page
->]) (./Kapitel/AufbauVerbesserung.tex
-<Bilder/AuswertungNovemeberKorr1VergleichFilter.pdf, id=265, 673.51625pt x 590.
+>]
+<Bilder/AuswertungNovemeberKorr1VergleichFilter.pdf, id=165, 673.51625pt x 590.
 205pt>
 File: Bilder/AuswertungNovemeberKorr1VergleichFilter.pdf Graphic file (type pdf
 )
@@ -973,64 +930,113 @@ File: Bilder/AuswertungNovemeberKorr1VergleichFilter.pdf Graphic file (type pdf
 Package pdftex.def Info: Bilder/AuswertungNovemeberKorr1VergleichFilter.pdf use
 d on input line 10.
 (pdftex.def)             Requested size: 204.9466pt x 179.59349pt.
- [22 <./Bilder/AuswertungNovemeberKorr1VergleichFilter.pdf>]) (./Kapitel/Ergebn
-isse.tex
-[23] [24
+ [21 <./Bilder/AuswertungNovemeberKorr1VergleichFilter.pdf>])
+(./Kapitel/GrundlagenPLtrueIQE.tex
+<Bilder/AugerBei5K.pdf, id=183, 774.895pt x 593.21625pt>
+File: Bilder/AugerBei5K.pdf Graphic file (type pdf)
 
-]
-Kapitel 4.
-[25] <Bilder/TS4045Uebersicht.pdf, id=295, 774.895pt x 593.21625pt>
+<use Bilder/AugerBei5K.pdf>
+Package pdftex.def Info: Bilder/AugerBei5K.pdf used on input line 9.
+(pdftex.def)             Requested size: 204.9466pt x 156.8938pt.
+
+Underfull \hbox (badness 1515) in paragraph at lines 10--10
+[]\T1/cmr/m/n/12 Abbildung 4.4: |Die Gra-fik zeigt die
+ []
+
+
+Underfull \hbox (badness 1184) in paragraph at lines 10--10
+\T1/cmr/m/n/12 mi-scher Dar-stel-lung müss-te die in-te-
+ []
+
+<Bilder/NormierteKorrgierteIQE5K.pdf, id=184, 774.895pt x 593.21625pt>
+File: Bilder/NormierteKorrgierteIQE5K.pdf Graphic file (type pdf)
+
+<use Bilder/NormierteKorrgierteIQE5K.pdf>
+Package pdftex.def Info: Bilder/NormierteKorrgierteIQE5K.pdf used on input line
+ 16.
+(pdftex.def)             Requested size: 204.9466pt x 156.8938pt.
+ [22 <./Bilder/AugerBei5K.pdf> <./Bilder/NormierteKorrgierteIQE5K.pdf
+
+pdfTeX warning: pdflatex (file ./Bilder/NormierteKorrgierteIQE5K.pdf): PDF incl
+usion: multiple pdfs with page group included in a single page
+>] <Bilder/StandardIQE300K.pdf, id=222, 774.895pt x 593.21625pt>
+File: Bilder/StandardIQE300K.pdf Graphic file (type pdf)
+
+<use Bilder/StandardIQE300K.pdf>
+Package pdftex.def Info: Bilder/StandardIQE300K.pdf used on input line 40.
+(pdftex.def)             Requested size: 204.9466pt x 156.8938pt.
+
+<Bilder/KorrigierteIQE300K.pdf, id=223, 774.895pt x 593.21625pt>
+File: Bilder/KorrigierteIQE300K.pdf Graphic file (type pdf)
+
+<use Bilder/KorrigierteIQE300K.pdf>
+Package pdftex.def Info: Bilder/KorrigierteIQE300K.pdf used on input line 47.
+(pdftex.def)             Requested size: 204.9466pt x 156.8938pt.
+ [23 <./Bilder/StandardIQE300K.pdf> <./Bilder/KorrigierteIQE300K.pdf
+
+pdfTeX warning: pdflatex (file ./Bilder/KorrigierteIQE300K.pdf): PDF inclusion:
+ multiple pdfs with page group included in a single page
+>]) (./Kapitel/IQEmitDotierung.tex [24]
+
+LaTeX Warning: Reference `fig:abha1' on page 25 undefined on input line 46.
+
+) (./Kapitel/Ergebnisse.tex [25]
+<Bilder/TS4045Uebersicht.pdf, id=268, 774.895pt x 593.21625pt>
 File: Bilder/TS4045Uebersicht.pdf Graphic file (type pdf)
 
 <use Bilder/TS4045Uebersicht.pdf>
-Package pdftex.def Info: Bilder/TS4045Uebersicht.pdf used on input line 43.
+Package pdftex.def Info: Bilder/TS4045Uebersicht.pdf used on input line 34.
 (pdftex.def)             Requested size: 204.9466pt x 156.8938pt.
 
-<Bilder/TS4048Uebersicht.pdf, id=296, 774.895pt x 593.21625pt>
+<Bilder/TS4048Uebersicht.pdf, id=269, 774.895pt x 593.21625pt>
 File: Bilder/TS4048Uebersicht.pdf Graphic file (type pdf)
 
 <use Bilder/TS4048Uebersicht.pdf>
-Package pdftex.def Info: Bilder/TS4048Uebersicht.pdf used on input line 49.
+Package pdftex.def Info: Bilder/TS4048Uebersicht.pdf used on input line 40.
 (pdftex.def)             Requested size: 204.9466pt x 156.8938pt.
 ) (./Masterarbeit.bbl [26 <./Bilder/TS4045Uebersicht.pdf> <./Bilder/TS4048Ueber
 sicht.pdf
 
 pdfTeX warning: pdflatex (file ./Bilder/TS4048Uebersicht.pdf): PDF inclusion: m
 ultiple pdfs with page group included in a single page
->]) [27
+>] [27
 
-] (./Masterarbeit.aux) ) 
+]) [28] (./Masterarbeit.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
 Here is how much of TeX's memory you used:
- 7486 strings out of 493014
- 107947 string characters out of 6133350
- 208541 words of memory out of 5000000
+ 7491 strings out of 493014
+ 107965 string characters out of 6133350
+ 207557 words of memory out of 5000000
  10802 multiletter control sequences out of 15000+600000
  19703 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 59i,15n,94p,1511b,546s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/cm-
-super/cm-super-t1.enc}</usr/local/texlive/2016/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmex10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmmi12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmmi6.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmmi8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmr12.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmr6.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mr8.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
-10.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6
-.pfb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.p
-fb></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb
-></usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><
-/usr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></u
-sr/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr
-/local/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/l
-ocal/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/loc
-al/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local
-/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on Masterarbeit.pdf (27 pages, 1394287 bytes).
+ 59i,15n,94p,1515b,546s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
+</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
+/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></
+usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></us
+r/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/
+local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/lo
+cal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local
+/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/te
+xlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/tex
+live/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texli
+ve/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive
+/2016/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2
+016/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/201
+6/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2016/
+texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2016/te
+xmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2016/texm
+f-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2016/texmf-
+dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2016/texmf-di
+st/fonts/type1/public/cm-super/sfti1200.pfb>
+Output written on Masterarbeit.pdf (28 pages, 1390218 bytes).
 PDF statistics:
- 365 PDF objects out of 1000 (max. 8388607)
- 285 compressed objects within 3 object streams
+ 342 PDF objects out of 1000 (max. 8388607)
+ 262 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 91 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 86 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{ambacher2002}
 O.~Ambacher, J.~Majewski, C.~Miskys, M.~H. A.~Link, M.~Eickhoff, M.~Stutzmann,
@@ -7,11 +7,25 @@ O.~Ambacher, J.~Majewski, C.~Miskys, M.~H. A.~Link, M.~Eickhoff, M.~Stutzmann,
   structures.
 \newblock {\em Journal of Physics: Condensed Mater}, 82:075208(14:3399), 2002.
 
+\bibitem{doi:10.1063/1.4917540}
+Z.~Bryan, I.~Bryan, J.~Xie, S.~Mita, Z.~Sitar, and R.~Collazo.
+\newblock High internal quantum efficiency in algan multiple quantum wells
+  grown on bulk aln substrates.
+\newblock {\em Applied Physics Letters}, 106(14):142107, 2015.
+
 \bibitem{buchc}
 C.~Buchheim.
 \newblock {\em Dielektrische Funktion und elektrooptische Eigeschfaten von
   (Al,Ga)N/GaN - Heterostrukturen}.
 \newblock PhD thesis, Technische Universität Ilmenau, 2010.
+
+\bibitem{doi:10.1063/1.3100773}
+Q.~Dai, M.~F. Schubert, M.~H. Kim, J.~K. Kim, E.~F. Schubert, D.~D. Koleske,
+  M.~H. Crawford, S.~R. Lee, A.~J. Fischer, G.~Thaler, and M.~A. Banas.
+\newblock Internal quantum efficiency and nonradiative recombination
+  coefficient of gainn/gan multiple quantum wells with different dislocation
+  densities.
+\newblock {\em Applied Physics Letters}, 94(11):111109, 2009.
 
 \bibitem{fenaln}
 M.~Feneberg, R.~A.~R. Leute, B.~Neuschl, K.~Thonke, and M.~Bickermann.
