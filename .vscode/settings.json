@@ -1,0 +1,25 @@
+{
+    "workbench.colorTheme": "Visual Studio Dark",
+    "files.autoSave": "afterDelay",
+    "window.zoomLevel": 0,
+    "latex-workshop.view.pdf.viewer": "browser",
+    "git.enableSmartCommit": true,
+    "latex-workshop.latex.recipes": [
+        {
+            "name": "pdflatex -> bibtex -> pdflatex*2",
+            "tools": [
+                "pdflatex",
+                "bibtex",
+                "pdflatex",
+                "pdflatex"
+            ]
+        },
+        {
+            "name": "latexmk",
+            "tools": [
+                "latexmk"
+            ]
+        }
+        
+    ]
+}

@@ -9,9 +9,9 @@
 \contentsline {section}{\numberline {2.5}Bestimmung der IQE bei Raumtemperatur durch Fitting}{15}
 \contentsline {chapter}{\numberline {3}Aufbau}{17}
 \contentsline {section}{\numberline {3.1}Photolumineszenzaufbau}{17}
-\contentsline {chapter}{\numberline {4}Ergebnisse}{19}
-\contentsline {section}{\numberline {4.1}Bestimmung der Degradation des UV Quarzglases}{19}
-\contentsline {section}{\numberline {4.2}Aufbau: Erweiterung der Filterkombinationen}{21}
-\contentsline {section}{\numberline {4.3}Einfluss der Auger-Rekombination auf die IQE}{22}
-\contentsline {section}{\numberline {4.4}Einfluss der Siliziumdotierung auf die IQE}{24}
-\contentsline {section}{\numberline {4.5}Untersuchung optisch gepumpter Laserstrukturen auf unterschiedlichen Templates}{25}
+\contentsline {section}{\numberline {3.2}Bestimmung der Degradation des UV Quarzglases}{18}
+\contentsline {section}{\numberline {3.3}Erweiterung der Filterkombinationen}{20}
+\contentsline {chapter}{\numberline {4}Ergebnisse}{23}
+\contentsline {section}{\numberline {4.1}Einfluss der Auger-Rekombination auf die IQE}{23}
+\contentsline {section}{\numberline {4.2}Einfluss der Siliziumdotierung auf die IQE}{25}
+\contentsline {section}{\numberline {4.3}Untersuchung optisch gepumpter Laserstrukturen auf unterschiedlichen Templates}{26}
