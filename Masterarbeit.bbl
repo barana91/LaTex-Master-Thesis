@@ -46,6 +46,13 @@ S.~R. Lee, A.~F. Wright, M.~H. Crawford, G.~A. Petersen, J.~Han, and R.~M.
 \newblock The band-gap bowing of algan alloys.
 \newblock {\em Applied Physics Letters}, 74(22):3344--3346, 1999.
 
+\bibitem{doi:10.1063/1.3675451}
+J.~E. Northrup, C.~L. Chua, Z.~Yang, T.~Wunderer, M.~Kneissl, N.~M. Johnson,
+  and T.~Kolbe.
+\newblock Effect of strain and barrier composition on the polarization of light
+  emission from algan/aln quantum wells.
+\newblock {\em Applied Physics Letters}, 100(2):021101, 2012.
+
 \bibitem{pipr}
 J.~Piprek.
 \newblock {\em Nitride semiconductor devices: principles and simulation}.
@@ -72,5 +79,21 @@ W.~Risk, T.~Gosnell, and A.~Nurmikko.
 E.~F. Schubert.
 \newblock {\em Light Emitting Diodes, Second Edition}.
 \newblock Cambridge University Press, 2006.
+
+\bibitem{doi:10.1063/1.2840176}
+A.~Sedhain, J.~Y. Lin, and H.~X. Jiang.
+\newblock Valence band structure of aln probed by photoluminescence.
+\newblock {\em Applied Physics Letters}, 92(4):041114, 2008.
+
+\bibitem{doi:10.1063/1.3574025}
+Y.~Taniyasu and M.~Kasu.
+\newblock Origin of exciton emissions from an aln p-n junction light-emitting
+  diode.
+\newblock {\em Applied Physics Letters}, 98(13):131910, 2011.
+
+\bibitem{doi:10.1063/1.117689}
+S.~Wei and A.~Zunger.
+\newblock Valence band splittings and band offsets of aln, gan, and inn.
+\newblock {\em Applied Physics Letters}, 69(18):2719--2721, 1996.
 
 \end{thebibliography}

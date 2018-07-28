@@ -33,19 +33,11 @@ mit dem Maximum der Verhältnisse von integrierter PL-Intensität zu Anregungsle
     \label{eq:iplnorm}
 \end{equation}
 %
-\begin{figure}[tb]
-    \centering
+\begin{figure}[htb]
+\centering
     \begin{minipage}[t]{0.49\linewidth}
-        \centering
-        \includegraphics[width=\linewidth]{Bilder/StandardIQE300K.pdf}
-        \caption{Die Grafik zeigt die IQE bei Raumtemperatur nach der Methode, die die Auger-Rekombination bei Tieftemperatur als vernachlässigbar betrachtet.}
-        \label{fig:standiqe300k}
-    \end{minipage}% <- sonst wird hier ein Leerzeichen eingefügt
-    \hfill
-    \begin{minipage}[t]{0.49\linewidth}
-        \centering
         \includegraphics[width=\linewidth]{Bilder/KorrigierteIQE300K.pdf}
-        \caption{Die Grafik zeigt die korrigierte IQE bei 300K nach Gleichung [\ref{eq:iqetrue5k}] }
+        \caption{Die Grafik zeigt die korrigierte IQE bei 300K nach Gleichung [\ref{eq:iqetrue300k}] }
         \label{fig:trueiqe300k}
     \end{minipage}
 \end{figure}
@@ -56,7 +48,7 @@ Wobei $I_{pl}(P_{exc})$ die von der Anrengungsleistungsdichte $P_{exc}$ und Temp
 %
 \begin{equation}
     IQE_{corr}(T, A_{exc}) = \frac{IQE(T,A_{exc})}{IQE(5K,A_{exc})} \cdot IQE_{corr}(5K,A_{exc})
-    \label{eq:iqetrue300}
+    \label{eq:iqetrue300k}
 \end{equation}
 %
 Die IQE bei $5K$ dient hierbei also als Skalierungsfaktor, der den Einfluss der Auger-Rekombination bei Raumtemperatur korrigiert. Somit fällt im Vergleich insbesondere auf, dass die Skalierung bei den kleinsten Anregungsleistungsdichten am geringsten Einfluss hat und mit steigender Anregungsleistungsdichte kubisch steigt, so dass die nach dem alten Verfahren ermittelten IQE-Werte bei höheren Anregungsleistungsdichten deutlich nach unten korrigiert werden müssen. 
