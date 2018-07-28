@@ -3,6 +3,22 @@
 
 \thispagestyle{fancy}
 
+\begin{figure}[htb]
+    \centering
+    \begin{minipage}[t]{0.49\linewidth}
+        \centering
+        \includegraphics[width=\linewidth]{Bilder/raumtempMethodeBeispielFit.png}
+        \caption{Fit für die Generationsrate in Abhängigkeit der integrierten PL-Intensität für drei InGaN/GaN MQW Proben mit einer unterschiedlichen Versetzungsdichten aus \cite{doi:10.1063/1.3100773}.}
+    \end{minipage}% <- sonst wird hier ein Leerzeichen eingefügt
+    \hfill
+    \begin{minipage}[t]{0.49\linewidth}
+        \centering
+        \includegraphics[width=\linewidth]{Bilder/raumtempMethodeIQE.png}
+        \caption{Ergebnisse für die IQE in Abhängigkeit der Ladungsträgerdichte aus den durch die Fits extrahierten Werte ( \cite{doi:10.1063/1.3100773}). }
+        \label{fig:iqert}
+    \end{minipage}
+\end{figure}
+\raggedright
 In diesem Kapitel soll nun eine in \cite{doi:10.1063/1.3100773} und \cite{doi:10.1063/1.4917540} gezeigte Methode zur Bestimmung der IQE durch ein Fitting-Modell für die integrierte Intensität in Abhängigkeit der Ladungsträgerdichte vorgestellt werden. Das ist insbeondere von Vorteil, da so ein aufwändiges runterkühlen nicht mehr notwendig wäre, da die Spektren allein bei Raumtemperatur aufgenommen werden könnten. 
 \newline
 Angefangen mit der Rekombinationsrate, geht das Modell davon aus,
@@ -36,7 +52,7 @@ Dabei ist $P_{laser}$ die optische Leistung die auf der Probe landet, $R$ ist di
     G = \sqrt{B \eta} \cdot c_1\cdot n + (\sqrt{B} \cdot n)^2
     \label{eq:generationrateneu}
 \end{equation}  
-Durch lösen von Gleichung \ref{eq:generationrateneu}, für $(\sqrt{B} \cdot n)$ und einsetzen in Gleichung \ref{eq:iqe2}
+Durch lösen von Gleichung \ref{eq:generationrateneu}, für $(\sqrt{B} \cdot n)$ und einsetzen in Gleichung \ref{eq:iqe2} ist es so möglich die IQE basierend auf einem Fit durch Raumtemperaturmessung in Abhängigkeit der Anregungsleistungsdichten zu bestimmen (Abb. [\ref{fig:iqert}]).
 
 hallo
 

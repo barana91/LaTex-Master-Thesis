@@ -3,15 +3,15 @@
 \contentsline {chapter}{\numberline {1}Einleitung}{5}
 \contentsline {chapter}{\numberline {2}Grundlagen}{9}
 \contentsline {section}{\numberline {2.1}Bandstruktur von Gruppe-III Nitriden}{9}
-\contentsline {section}{\numberline {2.2}Polarisationsfeld und QCSE in III/V Halbleitern}{10}
-\contentsline {section}{\numberline {2.3}Rekombinationsmechanismen}{11}
-\contentsline {section}{\numberline {2.4}Bestimmung der internen Quanteneffizienz}{14}
-\contentsline {section}{\numberline {2.5}Bestimmung der IQE bei Raumtemperatur durch Fitting}{15}
-\contentsline {chapter}{\numberline {3}Aufbau}{17}
-\contentsline {section}{\numberline {3.1}Photolumineszenzaufbau}{17}
-\contentsline {section}{\numberline {3.2}Bestimmung der Degradation des UV Quarzglases}{18}
-\contentsline {section}{\numberline {3.3}Erweiterung der Filterkombinationen}{20}
-\contentsline {chapter}{\numberline {4}Ergebnisse}{23}
-\contentsline {section}{\numberline {4.1}Einfluss der Auger-Rekombination auf die IQE}{23}
-\contentsline {section}{\numberline {4.2}Einfluss der Siliziumdotierung auf die IQE}{25}
-\contentsline {section}{\numberline {4.3}Untersuchung optisch gepumpter Laserstrukturen auf unterschiedlichen Templates}{26}
+\contentsline {section}{\numberline {2.2}Polarisationsfeld und QCSE in III/V Halbleitern}{11}
+\contentsline {section}{\numberline {2.3}Rekombinationsmechanismen}{12}
+\contentsline {section}{\numberline {2.4}Bestimmung der internen Quanteneffizienz}{15}
+\contentsline {section}{\numberline {2.5}Bestimmung der IQE bei Raumtemperatur durch Fitting}{16}
+\contentsline {chapter}{\numberline {3}Aufbau}{19}
+\contentsline {section}{\numberline {3.1}Photolumineszenzaufbau}{19}
+\contentsline {section}{\numberline {3.2}Bestimmung der Degradation des UV Quarzglases}{20}
+\contentsline {section}{\numberline {3.3}Erweiterung der Filterkombinationen}{22}
+\contentsline {chapter}{\numberline {4}Ergebnisse}{25}
+\contentsline {section}{\numberline {4.1}Einfluss der Auger-Rekombination auf die IQE}{25}
+\contentsline {section}{\numberline {4.2}Einfluss der Siliziumdotierung auf die IQE}{27}
+\contentsline {section}{\numberline {4.3}Untersuchung optisch gepumpter Laserstrukturen auf unterschiedlichen Templates}{28}
