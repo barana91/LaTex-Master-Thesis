@@ -1,15 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.11.16)  29 JUL 2018 20:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2017.2.7)  30 JUL 2018 17:55
 entering extended mode
- restricted \write18 enabled.
- file:line:error style messages enabled.
- %&-line parsing enabled.
-**"/Users/ba/Desktop/Studium/Masterarbeit PL/Baran/Masterarbeit/Masterarbeit"
-(/Users/ba/Desktop/Studium/Masterarbeit PL/Baran/Masterarbeit/Masterarbeit.tex
-LaTeX2e <2016/03/31>
-Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
-(/usr/local/texlive/2016/texmf-dist/tex/latex/base/book.cls
+**./Masterarbeit.tex
+(Masterarbeit.tex
+LaTeX2e <2016/03/31> patch level 3
+Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\book.cls"
 Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2016/texmf-dist/tex/latex/base/bk12.clo
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\bk12.clo"
 File: bk12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -25,49 +22,46 @@ File: bk12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/adjustbox/adjustbox.sty
-Package: adjustbox 2012/05/21 v1.0 Adjusting TeX boxes (trim, clip, ...)
+(C:\Users\studi\AppData\Roaming\MiKTeX\2.9\tex\latex\adjustbox\adjustbox.sty
+Package: adjustbox 2018/04/08 v1.1 Adjusting TeX boxes (trim, clip, ...)
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
-(/usr/local/texlive/2016/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(/usr/local/texlive/2016/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex"
 \XKV@toks=\toks14
 \XKV@tempa@toks=\toks15
 
-(/usr/local/texlive/2016/texmf-dist/tex/generic/xkeyval/keyval.tex))
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\keyval.tex"))
 \XKV@depth=\count88
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-(/usr/local/texlive/2016/texmf-dist/tex/latex/adjustbox/adjcalc.sty
-Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
--ends (calc, etex, pgfmath)
+(C:\Users\studi\AppData\Roaming\MiKTeX\2.9\tex\latex\adjustbox\adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-ends (calc, etex, pgfmath)
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/adjustbox/trimclip.sty
-Package: trimclip 2012/05/16 v1.0 Trim and clip general TeX material
+(C:\Users\studi\AppData\Roaming\MiKTeX\2.9\tex\latex\adjustbox\trimclip.sty
+Package: trimclip 2018/04/08 v1.1 Trim and clip general TeX material
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphicx.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/trig.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
-)
-Package graphics Info: Driver file: pdftex.def on input line 96.
+Package graphics Info: Driver file: pdftex.def on input line 99.
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/pdftex-def/pdftex.def
-File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
 
-(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count89
@@ -75,7 +69,7 @@ Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/collectbox/collectbox.sty
+(C:\Users\studi\AppData\Roaming\MiKTeX\2.9\tex\latex\collectbox\collectbox.sty
 Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
 \collectedbox=\box26
 )
@@ -85,67 +79,72 @@ Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
 \tc@ury=\dimen108
 Package trimclip Info: Using driver 'tc-pdftex.def'.
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
-File: tc-pdftex.def 2012/05/13 v1.0 Clipping driver for pdftex
+(C:\Users\studi\AppData\Roaming\MiKTeX\2.9\tex\latex\adjustbox\tc-pdftex.def
+File: tc-pdftex.def 2018/04/08 v2.1 Clipping driver for pdftex
 ))
 \adjbox@Width=\dimen109
 \adjbox@Height=\dimen110
 \adjbox@Depth=\dimen111
 \adjbox@Totalheight=\dimen112
+\adjbox@pwidth=\dimen113
+\adjbox@pheight=\dimen114
+\adjbox@pdepth=\dimen115
+\adjbox@ptotalheight=\dimen116
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+(C:\Users\studi\AppData\Roaming\MiKTeX\2.9\tex\latex\ifoddpage\ifoddpage.sty
 Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
 \c@checkoddpage=\count90
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/varwidth/varwidth.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\varwidth.sty"
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box27
 \sift@deathcycles=\count91
-\@vwid@loff=\dimen113
-\@vwid@roff=\dimen114
-))
-(/usr/local/texlive/2016/texmf-dist/tex/generic/babel/babel.sty
+\@vwid@loff=\dimen117
+\@vwid@roff=\dimen118
+)) ("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
 Package: babel 2016/04/23 3.9r The Babel package
 
-(/usr/local/texlive/2016/texmf-dist/tex/generic/babel-english/english.ldf
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\studi\AppData\Roaming\MiKTeX\2.9\tex\latex\arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\babel-english\english.ldf"
 Language: english 2012/08/20 v3.3p English support from the babel system
 
-(/usr/local/texlive/2016/texmf-dist/tex/generic/babel/babel.def
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
 File: babel.def 2016/04/23 3.9r Babel common definitions
 \babel@savecnt=\count92
-\U@D=\dimen115
+\U@D=\dimen119
 )
 \l@canadian = a dialect from \language\l@american 
 \l@australian = a dialect from \language\l@british 
 \l@newzealand = a dialect from \language\l@british 
 )
-(/usr/local/texlive/2016/texmf-dist/tex/generic/babel-german/ngerman.ldf
-Language: ngerman 2013/12/13 v2.7 German support for babel (new orthography)
+("C:\Program Files\MiKTeX 2.9\tex\latex\babel-german\ngerman.ldf"
+Language: ngerman 2016/11/02 v2.9 German support for babel (new orthography)
 
-(/usr/local/texlive/2016/texmf-dist/tex/generic/babel-german/ngermanb.ldf
-Language: ngermanb 2013/12/13 v2.7 German support for babel (new orthography)
-\l@naustrian = a dialect from \language\l@ngerman 
-\l@nswissgerman = a dialect from \language\l@ngerman 
-Package babel Info: Making " an active character on input line 88.
+("C:\Program Files\MiKTeX 2.9\tex\latex\babel-german\ngermanb.ldf"
+Language: ngermanb 2016/11/02 v2.9 German support for babel (new orthography)
+Package babel Info: Making " an active character on input line 125.
 )))
-(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2016/03/10 v2.15b AMS math features
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2016/06/28 v2.15d AMS math features
 \@mathmargin=\skip43
 
 For additional information on amsmath, use the `?' option.
-(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amstext.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
 Package: amstext 2000/06/29 v2.01 AMS text
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsgen.sty
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks16
-\ex@=\dimen116
-))
-(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsbsy.sty
+\ex@=\dimen120
+)) ("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen117
+\pmbraise@=\dimen121
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/amsmath/amsopn.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count93
@@ -160,7 +159,7 @@ LaTeX Info: Redefining \dots on input line 397.
 LaTeX Info: Redefining \cdots on input line 518.
 \Mathstrutbox@=\box28
 \strutbox@=\box29
-\big@size=\dimen118
+\big@size=\dimen122
 LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
 \macc@depth=\count98
@@ -173,12 +172,12 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
 \column@=\count103
 \maxfields@=\count104
 \andhelp@=\toks18
-\eqnshift@=\dimen119
-\alignsep@=\dimen120
-\tagshift@=\dimen121
-\tagwidth@=\dimen122
-\totwidth@=\dimen123
-\lineht@=\dimen124
+\eqnshift@=\dimen123
+\alignsep@=\dimen124
+\tagshift@=\dimen125
+\tagwidth@=\dimen126
+\totwidth@=\dimen127
+\lineht@=\dimen128
 \@envbody=\toks19
 \multlinegap=\skip44
 \multlinetaggap=\skip45
@@ -186,23 +185,22 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
 LaTeX Info: Redefining \[ on input line 2739.
 LaTeX Info: Redefining \] on input line 2740.
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/url/url.sty
+(C:\Users\studi\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/base/inputenc.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
 Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks21
 \inpenc@posthook=\toks22
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/base/utf8.def
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
 File: utf8.def 2016/02/28 v1.1s UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/base/t1enc.dfu
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
 File: t1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -438,8 +436,7 @@ File: t1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
 )
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/base/ot1enc.dfu
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
 File: ot1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -480,7 +477,7 @@ File: ot1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/base/omsenc.dfu
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
 File: omsenc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -504,21 +501,21 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-(/usr/local/texlive/2016/texmf-dist/tex/latex/xcolor/xcolor.sty
+(C:\Users\studi\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/colortbl/colortbl.sty
-Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+(C:\Users\studi\AppData\Roaming\MiKTeX\2.9\tex\latex\colortbl\colortbl.sty
+Package: colortbl 2018/05/02 v1.0c Color table columns (DPC)
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/array.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
 Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
-\col@sep=\dimen125
-\extrarowheight=\dimen126
+\col@sep=\dimen129
+\extrarowheight=\dimen130
 \NC@list=\toks23
 \extratabsurround=\skip46
 \backup@length=\skip47
@@ -536,49 +533,45 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/dvipsnam.def
-File: dvipsnam.def 2015/12/30 v3.0k Driver-dependent file (DPC,SPQR)
-))
-(/usr/local/texlive/2016/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/base/t1enc.def
-File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\dvipsnam.def"
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+)) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2016/06/19 v1.99m Standard LaTeX package
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2016/06/19 v1.99m Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
-(/usr/local/texlive/2016/texmf-dist/tex/latex/import/import.sty
+(C:\Users\studi\AppData\Roaming\MiKTeX\2.9\tex\latex\import\import.sty
 Package: import 2009/03/23  v 5.1
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/caption/subcaption.sty
-Package: subcaption 2016/02/20 v1.1-142 Sub-captions (AR)
+(C:\Users\studi\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\subcaption.sty
+Package: subcaption 2018/05/01 v1.1-162 Sub-captions (AR)
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/caption/caption.sty
-Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+(C:\Users\studi\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption.sty
+Package: caption 2018/05/01 v3.3-147 Customizing captions (AR)
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
-Package caption3 Info: TeX engine: e-TeX on input line 67.
-\captionmargin=\dimen127
-\captionmargin@=\dimen128
-\captionwidth=\dimen129
-\caption@tempdima=\dimen130
-\caption@indent=\dimen131
-\caption@parindent=\dimen132
-\caption@hangindent=\dimen133
+(C:\Users\studi\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption3.sty
+Package: caption3 2018/05/27 v1.8a caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen131
+\captionmargin@=\dimen132
+\captionwidth=\dimen133
+\caption@tempdima=\dimen134
+\caption@indent=\dimen135
+\caption@parindent=\dimen136
+\caption@hangindent=\dimen137
 )
 \c@ContinuedFloat=\count106
 )
 \c@subfigure=\count107
 \c@subtable=\count108
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/tools/verbatim.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\verbatim.sty"
 Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks25
 \verbatim@line=\toks26
 \verbatim@in@stream=\read1
-)
-(/usr/local/texlive/2016/texmf-dist/tex/latex/float/float.sty
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count109
 \float@exts=\toks27
@@ -586,58 +579,60 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks28
 \@floatcapt=\box31
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/geometry/geometry.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
 Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
 )
-(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-(/usr/local/texlive/2016/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count110
 \Gm@cntv=\count111
 \c@Gm@tempcnt=\count112
-\Gm@bindingoffset=\dimen134
-\Gm@wd@mp=\dimen135
-\Gm@odd@mp=\dimen136
-\Gm@even@mp=\dimen137
-\Gm@layoutwidth=\dimen138
-\Gm@layoutheight=\dimen139
-\Gm@layouthoffset=\dimen140
-\Gm@layoutvoffset=\dimen141
+\Gm@bindingoffset=\dimen138
+\Gm@wd@mp=\dimen139
+\Gm@odd@mp=\dimen140
+\Gm@even@mp=\dimen141
+\Gm@layoutwidth=\dimen142
+\Gm@layoutheight=\dimen143
+\Gm@layouthoffset=\dimen144
+\Gm@layoutvoffset=\dimen145
 \Gm@dimlist=\toks29
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+(C:\Users\studi\AppData\Roaming\MiKTeX\2.9\tex\latex\fancyhdr\fancyhdr.sty
+Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footers
+\f@nch@headwidth=\skip49
+\f@nch@O@elh=\skip50
+\f@nch@O@erh=\skip51
+\f@nch@O@olh=\skip52
+\f@nch@O@orh=\skip53
+\f@nch@O@elf=\skip54
+\f@nch@O@erf=\skip55
+\f@nch@O@olf=\skip56
+\f@nch@O@orf=\skip57
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-\fancy@headwidth=\skip49
-\f@ncyO@elh=\skip50
-\f@ncyO@erh=\skip51
-\f@ncyO@olh=\skip52
-\f@ncyO@orh=\skip53
-\f@ncyO@elf=\skip54
-\f@ncyO@erf=\skip55
-\f@ncyO@olf=\skip56
-\f@ncyO@orf=\skip57
-)
-(/usr/local/texlive/2016/texmf-dist/tex/latex/subfiles/subfiles.sty
+(C:\Users\studi\AppData\Roaming\MiKTeX\2.9\tex\latex\subfiles\subfiles.sty
 Package: subfiles 2012/05/23 Federico Garcia
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/germbib/bibgerm.sty
+(C:\Users\studi\AppData\Roaming\MiKTeX\2.9\tex\latex\germbib\bibgerm.sty
 Package: bibgerm 2000/08/18 v0.1 Support for mixed language bibliographies
 
 ** Macros for german `BibTeX'ing added to Style Option `german' 20 Apr 1993 **
 ** idea and languages `german' and `USenglish' implemented by M. Wallmeier **
 ** Modified for LaTeX 2e and german.sty 2.5b by A. Scherer 1 Nov 1995 **
 ** Modified for ngerman.sty and babel.sty by H. Harders 21 August 2000 **)
-(/usr/local/texlive/2016/texmf-dist/tex/latex/csquotes/csquotes.sty
-Package: csquotes 2016/01/31 v5.1g context-sensitive quotations (JAW)
+(C:\Users\studi\AppData\Roaming\MiKTeX\2.9\tex\latex\csquotes\csquotes.sty
+Package: csquotes 2018/04/13 v5.2d context-sensitive quotations (JAW)
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
+(C:\Users\studi\AppData\Roaming\MiKTeX\2.9\tex\latex\etoolbox\etoolbox.sty
+Package: etoolbox 2018/02/11 v2.5e e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count113
 )
 \csq@reset=\count114
@@ -648,13 +643,13 @@ Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
 \csq@tshold=\count119
 \csq@ltx@everypar=\toks30
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/csquotes/csquotes.def
-File: csquotes.def 2016/01/31 v5.1g csquotes generic definitions (JAW)
+(C:\Users\studi\AppData\Roaming\MiKTeX\2.9\tex\latex\csquotes\csquotes.def
+File: csquotes.def 2018/04/13 v5.2d csquotes generic definitions (JAW)
 )
 Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
 Package csquotes Info: ... configuration file loaded successfully.
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/csquotes/csquotes.cfg
+(C:\Users\studi\AppData\Roaming\MiKTeX\2.9\tex\latex\csquotes\csquotes.cfg
 File: csquotes.cfg 
 )
 Package csquotes Info: Option 'babel' depreciated.
@@ -664,13 +659,18 @@ Package csquotes Info: Redefining alias 'german' -> 'german/guillemets'.
 )
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
-
-(./Masterarbeit.aux
+ (Masterarbeit.aux
 
 LaTeX Warning: Label `eq:iqe2' multiply defined.
 
 
 LaTeX Warning: Label `fig:wurtz' multiply defined.
+
+
+LaTeX Warning: Label `fig:auger5k' multiply defined.
+
+
+LaTeX Warning: Label `fig:trueiqe' multiply defined.
 
 )
 \openout1 = `Masterarbeit.aux'.
@@ -687,24 +687,23 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
 LaTeX Font Info:    ... okay on input line 53.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
 LaTeX Font Info:    ... okay on input line 53.
- (/usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+ (C:\Users\studi\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count120
-\scratchdimen=\dimen142
+\scratchdimen=\dimen146
 \scratchbox=\box32
 \nofMPsegments=\count121
 \nofMParguments=\count122
 \everyMPshowfont=\toks31
 \MPscratchCnt=\count123
-\MPscratchDim=\dimen143
+\MPscratchDim=\dimen147
 \MPnumerator=\count124
 \makeMPintoPDFobject=\count125
 \everyMPtoPDFconversion=\toks32
-) (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO
-)
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO)
 
-(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
@@ -713,37 +712,33 @@ Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/grfext.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
-(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 ))
-(/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-(/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 )))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 438.
 Package grfext Info: Graphics extension search list:
-(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPEG,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
-
-(/usr/local/texlive/2016/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-))
+)
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
@@ -785,21 +780,19 @@ Package caption Info: End \AtBeginDocument code.
 
 bibgerm.sty: babel.sty detected
 
-(./Kapitel/Titelseite.tex
+(Kapitel/Titelseite.tex
 
-pdfTeX warning: pdflatex (file ./Bilder/TU-Berlin-Logo.pdf): PDF inclusion: fou
-nd PDF version <1.7>, but at most version <1.5> allowed
+pdfTeX warning: pdflatex.exe (file ./Bilder/TU-Berlin-Logo.pdf): PDF inclusion: found PDF version <1.7>, but at most ver
+sion <1.5> allowed
 <Bilder/TU-Berlin-Logo.pdf, id=1, 301.125pt x 220.825pt>
 File: Bilder/TU-Berlin-Logo.pdf Graphic file (type pdf)
-
-<use Bilder/TU-Berlin-Logo.pdf>
+ <use Bilder/TU-Berlin-Logo.pdf>
 Package pdftex.def Info: Bilder/TU-Berlin-Logo.pdf used on input line 16.
 (pdftex.def)             Requested size: 83.64944pt x 61.342pt.
  [1
 
 
-{/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./Bilde
-r/TU-Berlin-Logo.pdf>])
+{C:/Users/studi/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Bilder/TU-Berlin-Logo.pdf>])
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 24.64995pt.
@@ -808,23 +801,21 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [2
 
-] (./Masterarbeit.toc)
+] (Masterarbeit.toc)
 \tf@toc=\write3
 \openout3 = `Masterarbeit.toc'.
 
- (./Kapitel/Einleitung.tex [3] [4
+ (Kapitel/Einleitung.tex [3] [4
 
 ]
 Kapitel 1.
-<Bilder/SpectralEmissionPower_Wavelength.png, id=25, 432.1746pt x 317.988pt>
+<Bilder/SpectralEmissionPower_Wavelength.png, id=24, 432.1746pt x 317.988pt>
 File: Bilder/SpectralEmissionPower_Wavelength.png Graphic file (type png)
 
 <use Bilder/SpectralEmissionPower_Wavelength.png>
-Package pdftex.def Info: Bilder/SpectralEmissionPower_Wavelength.png used on in
-put line 17.
+Package pdftex.def Info: Bilder/SpectralEmissionPower_Wavelength.png used on input line 17.
 (pdftex.def)             Requested size: 204.9466pt x 150.79355pt.
-
-<Bilder/Schichten.png, id=27, 2747.4645pt x 2885.0184pt>
+ <Bilder/Schichten.png, id=26, 2747.4645pt x 2885.0184pt>
 File: Bilder/Schichten.png Graphic file (type png)
 
 <use Bilder/Schichten.png>
@@ -835,113 +826,143 @@ Underfull \hbox (badness 3769) in paragraph at lines 25--25
 []\T1/cmr/m/n/12 Abbildung 1.2: |Auf-bau ei-ner LED-
  []
 
-[5] [6 <./Bilder/SpectralEmissionPower_Wavelength.png> <./Bilder/Schichten.png>
-]) [7] [8
+[5] [6 <./Bilder/SpectralEmissionPower_Wavelength.png> <./Bilder/Schichten.png>]) [7] [8
 
 ]
 Kapitel 2.
-(./Kapitel/Grundlagen.tex
-<Bilder/Wurtzite.png, id=46, 1783.8645pt x 1132.4709pt>
+(Kapitel/Grundlagen.tex <Bilder/Wurtzite.png, id=45, 1783.8645pt x 1132.4709pt>
 File: Bilder/Wurtzite.png Graphic file (type png)
-
-<use Bilder/Wurtzite.png>
+ <use Bilder/Wurtzite.png>
 Package pdftex.def Info: Bilder/Wurtzite.png used on input line 9.
 (pdftex.def)             Requested size: 292.77629pt x 185.86467pt.
- [9 <./Bilder/Wurtzite.png>] [10]
-<Bilder/QCSE.pdf, id=59, 1198.74854pt x 666.85838pt>
+ [9 <./Bilder/Wurtzite.png>] [10] <Bilder/QCSE.pdf, id=58, 1198.74854pt x 666.85838pt>
 File: Bilder/QCSE.pdf Graphic file (type pdf)
  <use Bilder/QCSE.pdf>
 Package pdftex.def Info: Bilder/QCSE.pdf used on input line 44.
 (pdftex.def)             Requested size: 292.77629pt x 162.86787pt.
-
-[11 <./Bilder/QCSE.pdf>]) (./Kapitel/GrundlagenPL.tex
-<Bilder/nonradRekomb.png, id=108, 1611.1392pt x 1076.3412pt>
+ [11 <./Bilder/QCSE.pdf>])
+(Kapitel/GrundlagenPL.tex <Bilder/nonradRekomb.png, id=107, 1611.1392pt x 1076.3412pt>
 File: Bilder/nonradRekomb.png Graphic file (type png)
-
-<use Bilder/nonradRekomb.png>
+ <use Bilder/nonradRekomb.png>
 Package pdftex.def Info: Bilder/nonradRekomb.png used on input line 11.
 (pdftex.def)             Requested size: 204.9466pt x 136.90732pt.
 
-<Bilder/radRekomb.png, id=109, 1611.1392pt x 1076.3412pt>
+<Bilder/radRekomb.png, id=108, 1611.1392pt x 1076.3412pt>
 File: Bilder/radRekomb.png Graphic file (type png)
-
-<use Bilder/radRekomb.png>
+ <use Bilder/radRekomb.png>
 Package pdftex.def Info: Bilder/radRekomb.png used on input line 17.
 (pdftex.def)             Requested size: 204.9466pt x 136.90732pt.
 
-<Bilder/rekbomChannels.png, id=110, 1785.7917pt x 1067.187pt>
+<Bilder/rekbomChannels.png, id=109, 1785.7917pt x 1067.187pt>
 File: Bilder/rekbomChannels.png Graphic file (type png)
-
-<use Bilder/rekbomChannels.png>
+ <use Bilder/rekbomChannels.png>
 Package pdftex.def Info: Bilder/rekbomChannels.png used on input line 30.
 (pdftex.def)             Requested size: 313.69025pt x 187.46072pt.
- [12 <./Bilder/nonradRekomb.png> <./Bilder/radRekomb.png>] [13 <./Bilder/rekbom
-Channels.png>]) (./Kapitel/GrundlagenPLIQE.tex
-[14]
-<Bilder/IQEohneDotierungVerschAParams.pdf, id=124, 745.78625pt x 584.1825pt>
+ [12 <./Bilder/nonradRekomb.png> <./Bilder/radRekomb.png>] [13 <./Bilder/rekbomChannels.png>]) (Kapitel/GrundlagenPLIQE.
+tex [14]
+<Bilder/IQEohneDotierungVerschAParams.pdf, id=123, 745.78625pt x 584.1825pt>
 File: Bilder/IQEohneDotierungVerschAParams.pdf Graphic file (type pdf)
 
 <use Bilder/IQEohneDotierungVerschAParams.pdf>
-Package pdftex.def Info: Bilder/IQEohneDotierungVerschAParams.pdf used on input
- line 8.
+Package pdftex.def Info: Bilder/IQEohneDotierungVerschAParams.pdf used on input line 8.
 (pdftex.def)             Requested size: 204.9466pt x 160.53033pt.
 
 
-LaTeX Font Warning: Command \footnotesize invalid in math mode on input line 19
-.
+LaTeX Font Warning: Command \footnotesize invalid in math mode on input line 19.
 
 
-LaTeX Font Warning: Command \footnotesize invalid in math mode on input line 19
-.
+LaTeX Font Warning: Command \footnotesize invalid in math mode on input line 19.
 
-[15 <./Bilder/IQEohneDotierungVerschAParams.pdf>])
-(./Kapitel/RaumTempMethGrund.tex
+[15 <./Bilder/IQEohneDotierungVerschAParams.pdf>]) (Kapitel/RaumTempMethGrund.tex
 Overfull \hbox (18.30457pt too wide) in paragraph at lines 2--2
 []\T1/cmr/bx/n/17.28 Bestimmung der IQE bei Raum-tem-pe-ra-tur durch
  []
 
-<Bilder/raumtempMethodeBeispielFit.png, id=147, 602.25pt x 408.77719pt>
+<Bilder/raumtempMethodeBeispielFit.png, id=146, 602.25pt x 408.77719pt>
 File: Bilder/raumtempMethodeBeispielFit.png Graphic file (type png)
-
-<use Bilder/raumtempMethodeBeispielFit.png>
-Package pdftex.def Info: Bilder/raumtempMethodeBeispielFit.png used on input li
-ne 10.
+ <use Bilder/raumtempMethodeBeispielFit.png>
+Package pdftex.def Info: Bilder/raumtempMethodeBeispielFit.png used on input line 10.
 (pdftex.def)             Requested size: 204.9466pt x 139.10715pt.
 
-<Bilder/raumtempMethodeIQE.png, id=148, 668.4975pt x 440.39531pt>
+<Bilder/raumtempMethodeIQE.png, id=147, 668.4975pt x 440.39531pt>
 File: Bilder/raumtempMethodeIQE.png Graphic file (type png)
-
-<use Bilder/raumtempMethodeIQE.png>
+ <use Bilder/raumtempMethodeIQE.png>
 Package pdftex.def Info: Bilder/raumtempMethodeIQE.png used on input line 16.
 (pdftex.def)             Requested size: 204.9466pt x 135.01587pt.
- [16 <./Bilder/raumtempMethodeBeispielFit.png> <./Bilder/raumtempMethodeIQE.png
->]) (./Kapitel/GrundlagenPolarisation.tex
-[17]) (./Kapitel/Aufbau.tex [18]
-Kapitel 3.
-<Bilder/aufbauPL.png, id=161, 1803.8592pt x 1086.459pt>
-File: Bilder/aufbauPL.png Graphic file (type png)
+ [16 <./Bilder/raumtempMethodeBeispielFit.png> <./Bilder/raumtempMethodeIQE.png>]) (Kapitel/GrundlagenPolarisation.tex
+<Bilder/vancebandPlot.png, id=153, 390.7398pt x 316.0608pt>
+File: Bilder/vancebandPlot.png Graphic file (type png)
+ <use Bilder/vancebandPlot.png>
+Package pdftex.def Info: Bilder/vancebandPlot.png used on input line 9.
+(pdftex.def)             Requested size: 204.9466pt x 165.77525pt.
 
-<use Bilder/aufbauPL.png>
+<Bilder/martinTETM.png, id=154, 477.4638pt x 198.5016pt>
+File: Bilder/martinTETM.png Graphic file (type png)
+ <use Bilder/martinTETM.png>
+Package pdftex.def Info: Bilder/martinTETM.png used on input line 16.
+(pdftex.def)             Requested size: 204.9466pt x 85.2056pt.
+ [17]
+
+LaTeX Warning: Citation `doi:10.1063/1.241024' on page 18 undefined on input line 28.
+
+<Bilder/christophPolarisationSimu.png, id=159, 526.6074pt x 394.1124pt>
+File: Bilder/christophPolarisationSimu.png Graphic file (type png)
+ <use Bilder/christophPolarisationSimu.png>
+Package pdftex.def Info: Bilder/christophPolarisationSimu.png used on input line 34.
+(pdftex.def)             Requested size: 204.9466pt x 153.38448pt.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 36.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 36.
+
+Underfull \hbox (badness 1755) in paragraph at lines 36--36
+\T1/cmr/m/n/12 des Po-la-ri-sa-ti-ons-gra-des in Ab-hän-gig-
+ []
+
+
+Underfull \hbox (badness 1275) in paragraph at lines 36--36
+\T1/cmr/m/n/12 keit der Alu-mi-ni-um-kon-zen-tra-ti-on der
+ []
+
+
+Underfull \hbox (badness 1112) in paragraph at lines 36--36
+\T1/cmr/m/n/12 auf dem k\OMS/cmsy/m/n/12 \T1/cmr/m/n/12 p-Modell, für AlGaN-QW
+ []
+
+<Bilder/christophPolarisationSimu1.png, id=160, 443.7378pt x 498.663pt>
+File: Bilder/christophPolarisationSimu1.png Graphic file (type png)
+ <use Bilder/christophPolarisationSimu1.png>
+Package pdftex.def Info: Bilder/christophPolarisationSimu1.png used on input line 42.
+(pdftex.def)             Requested size: 204.9466pt x 230.30844pt.
+
+[18 <./Bilder/vancebandPlot.png> <./Bilder/martinTETM.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [19]) (Kapitel/Aufbau.tex [20 <./Bilder/christophPolarisationSimu.png> <./Bilder/christophPolarisationSimu1.png>]
+Kapitel 3.
+<Bilder/aufbauPL.png, id=175, 1803.8592pt x 1086.459pt>
+File: Bilder/aufbauPL.png Graphic file (type png)
+ <use Bilder/aufbauPL.png>
 Package pdftex.def Info: Bilder/aufbauPL.png used on input line 12.
 (pdftex.def)             Requested size: 418.25368pt x 251.90283pt.
- [19
+ [21
 
  <./Bilder/aufbauPL.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [20])
-(./Kapitel/AufbauWeiteres.tex
-<Bilder/uvsilicaDegradation.png, id=170, 448.074pt x 284.56313pt>
+ [22]) (Kapitel/AufbauWeiteres.tex
+<Bilder/uvsilicaDegradation.png, id=183, 448.074pt x 284.56313pt>
 File: Bilder/uvsilicaDegradation.png Graphic file (type png)
-
-<use Bilder/uvsilicaDegradation.png>
+ <use Bilder/uvsilicaDegradation.png>
 Package pdftex.def Info: Bilder/uvsilicaDegradation.png used on input line 10.
 (pdftex.def)             Requested size: 204.9466pt x 130.15813pt.
 
-<Bilder/uvsilicavergleich.pdf, id=171, 630.355pt x 502.87875pt>
+<Bilder/uvsilicavergleich.pdf, id=184, 630.355pt x 502.87875pt>
 File: Bilder/uvsilicavergleich.pdf Graphic file (type pdf)
-
-<use Bilder/uvsilicavergleich.pdf>
+ <use Bilder/uvsilicavergleich.pdf>
 Package pdftex.def Info: Bilder/uvsilicavergleich.pdf used on input line 25.
 (pdftex.def)             Requested size: 150.56798pt x 120.11786pt.
 
@@ -949,38 +970,32 @@ Underfull \hbox (badness 2173) in paragraph at lines 26--26
 []\T1/cmr/m/n/10.95 (a) |PL In-ten-si-tät in Ab-hän-gig-
  []
 
-<Bilder/uvsilicaVergleichSkaliert.pdf, id=172, 751.80875pt x 580.1675pt>
+<Bilder/uvsilicaVergleichSkaliert.pdf, id=185, 751.80875pt x 580.1675pt>
 File: Bilder/uvsilicaVergleichSkaliert.pdf Graphic file (type pdf)
-
-<use Bilder/uvsilicaVergleichSkaliert.pdf>
-Package pdftex.def Info: Bilder/uvsilicaVergleichSkaliert.pdf used on input lin
-e 32.
+ <use Bilder/uvsilicaVergleichSkaliert.pdf>
+Package pdftex.def Info: Bilder/uvsilicaVergleichSkaliert.pdf used on input line 32.
 (pdftex.def)             Requested size: 150.56798pt x 116.19078pt.
 
 Underfull \hbox (badness 1571) in paragraph at lines 33--33
 []\T1/cmr/m/n/10.95 (b) |Die An-re-gungs-leis-tungs-dich-te
  []
 
-[21 <./Bilder/uvsilicaDegradation.png>]) (./Kapitel/AufbauVerbesserung.tex
-<Bilder/AuswertungNovemeberKorr1VergleichFilter.pdf, id=177, 673.51625pt x 590.
-205pt>
-File: Bilder/AuswertungNovemeberKorr1VergleichFilter.pdf Graphic file (type pdf
-)
- <use Bilder/AuswertungNovemeberKorr1VergleichFilter.pdf>
-Package pdftex.def Info: Bilder/AuswertungNovemeberKorr1VergleichFilter.pdf use
-d on input line 10.
+[23 <./Bilder/uvsilicaDegradation.png>]) (Kapitel/AufbauVerbesserung.tex
+<Bilder/AuswertungNovemeberKorr1VergleichFilter.pdf, id=190, 673.51625pt x 590.205pt>
+File: Bilder/AuswertungNovemeberKorr1VergleichFilter.pdf Graphic file (type pdf)
+
+<use Bilder/AuswertungNovemeberKorr1VergleichFilter.pdf>
+Package pdftex.def Info: Bilder/AuswertungNovemeberKorr1VergleichFilter.pdf used on input line 10.
 (pdftex.def)             Requested size: 204.9466pt x 179.59349pt.
- [22 <./Bilder/uvsilicavergleich.pdf> <./Bilder/uvsilicaVergleichSkaliert.pdf
+ [24 <./Bilder/uvsilicavergleich.pdf> <./Bilder/uvsilicaVergleichSkaliert.pdf
 
-pdfTeX warning: pdflatex (file ./Bilder/uvsilicaVergleichSkaliert.pdf): PDF inc
-lusion: multiple pdfs with page group included in a single page
->] [23 <./Bilder/AuswertungNovemeberKorr1VergleichFilter.pdf>])
-(./Kapitel/GrundlagenPLtrueIQE.tex [24]
+pdfTeX warning: pdflatex.exe (file ./Bilder/uvsilicaVergleichSkaliert.pdf): PDF inclusion: multiple pdfs with page group
+ included in a single page
+>] [25 <./Bilder/AuswertungNovemeberKorr1VergleichFilter.pdf>]) (Kapitel/GrundlagenPLtrueIQE.tex [26]
 Kapitel 4.
-<Bilder/AugerBei5K.pdf, id=207, 774.895pt x 593.21625pt>
+<Bilder/AugerBei5K.pdf, id=220, 774.895pt x 593.21625pt>
 File: Bilder/AugerBei5K.pdf Graphic file (type pdf)
-
-<use Bilder/AugerBei5K.pdf>
+ <use Bilder/AugerBei5K.pdf>
 Package pdftex.def Info: Bilder/AugerBei5K.pdf used on input line 9.
 (pdftex.def)             Requested size: 204.9466pt x 156.8938pt.
 
@@ -993,52 +1008,46 @@ Underfull \hbox (badness 1184) in paragraph at lines 10--10
 \T1/cmr/m/n/12 mi-scher Dar-stel-lung müss-te die in-te-
  []
 
-<Bilder/NormierteKorrgierteIQE5K.pdf, id=208, 774.895pt x 593.21625pt>
+<Bilder/NormierteKorrgierteIQE5K.pdf, id=221, 774.895pt x 593.21625pt>
 File: Bilder/NormierteKorrgierteIQE5K.pdf Graphic file (type pdf)
-
-<use Bilder/NormierteKorrgierteIQE5K.pdf>
-Package pdftex.def Info: Bilder/NormierteKorrgierteIQE5K.pdf used on input line
- 16.
+ <use Bilder/NormierteKorrgierteIQE5K.pdf>
+Package pdftex.def Info: Bilder/NormierteKorrgierteIQE5K.pdf used on input line 16.
 (pdftex.def)             Requested size: 204.9466pt x 156.8938pt.
- [25
+
+[27
 
  <./Bilder/AugerBei5K.pdf> <./Bilder/NormierteKorrgierteIQE5K.pdf
 
-pdfTeX warning: pdflatex (file ./Bilder/NormierteKorrgierteIQE5K.pdf): PDF incl
-usion: multiple pdfs with page group included in a single page
->] <Bilder/KorrigierteIQE300K.pdf, id=246, 774.895pt x 593.21625pt>
+pdfTeX warning: pdflatex.exe (file ./Bilder/NormierteKorrgierteIQE5K.pdf): PDF inclusion: multiple pdfs with page group 
+included in a single page
+>] <Bilder/KorrigierteIQE300K.pdf, id=258, 774.895pt x 593.21625pt>
 File: Bilder/KorrigierteIQE300K.pdf Graphic file (type pdf)
-
-<use Bilder/KorrigierteIQE300K.pdf>
+ <use Bilder/KorrigierteIQE300K.pdf>
 Package pdftex.def Info: Bilder/KorrigierteIQE300K.pdf used on input line 39.
 (pdftex.def)             Requested size: 204.9466pt x 156.8938pt.
- [26 <./Bilder/KorrigierteIQE300K.pdf>])
-(./Kapitel/IQEmitDotierung.tex [27]
+ [28 <./Bilder/KorrigierteIQE300K.pdf>]) (Kapitel/IQEmitDotierung.tex [29]
 
-LaTeX Warning: Reference `fig:abha1' on page 28 undefined on input line 46.
+LaTeX Warning: Reference `fig:abha1' on page 30 undefined on input line 46.
 
-) (./Kapitel/Ergebnisse.tex [28]
-<Bilder/TS4045Uebersicht.pdf, id=270, 774.895pt x 593.21625pt>
+) (Kapitel/Ergebnisse.tex [30] <Bilder/TS4045Uebersicht.pdf, id=282, 774.895pt x 593.21625pt>
 File: Bilder/TS4045Uebersicht.pdf Graphic file (type pdf)
 
 <use Bilder/TS4045Uebersicht.pdf>
 Package pdftex.def Info: Bilder/TS4045Uebersicht.pdf used on input line 34.
 (pdftex.def)             Requested size: 204.9466pt x 156.8938pt.
-
-<Bilder/TS4048Uebersicht.pdf, id=271, 774.895pt x 593.21625pt>
+ <Bilder/TS4048Uebersicht.pdf, id=283, 774.895pt x 593.21625pt>
 File: Bilder/TS4048Uebersicht.pdf Graphic file (type pdf)
 
 <use Bilder/TS4048Uebersicht.pdf>
 Package pdftex.def Info: Bilder/TS4048Uebersicht.pdf used on input line 40.
 (pdftex.def)             Requested size: 204.9466pt x 156.8938pt.
-) (./Masterarbeit.bbl [29 <./Bilder/TS4045Uebersicht.pdf> <./Bilder/TS4048Ueber
-sicht.pdf
+) (Masterarbeit.bbl [31 <./Bilder/TS4045Uebersicht.pdf> <./Bilder/TS4048Uebersicht.pdf
 
-pdfTeX warning: pdflatex (file ./Bilder/TS4048Uebersicht.pdf): PDF inclusion: m
-ultiple pdfs with page group included in a single page
->] [30
+pdfTeX warning: pdflatex.exe (file ./Bilder/TS4048Uebersicht.pdf): PDF inclusion: multiple pdfs with page group included
+ in a single page
+>] [32
 
-] [31]) [32] (./Masterarbeit.aux)
+] [33]) [34] (Masterarbeit.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -1047,36 +1056,28 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 7526 strings out of 493014
- 108815 string characters out of 6133350
- 209677 words of memory out of 5000000
- 10830 multiletter control sequences out of 15000+600000
- 19703 words of font info for 49 fonts, out of 8000000 for 9000
+ 7845 strings out of 493333
+ 114224 string characters out of 3139195
+ 215363 words of memory out of 3000000
+ 11127 multiletter control sequences out of 15000+200000
+ 19703 words of font info for 49 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 59i,15n,94p,1511b,546s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2016/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
-</usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
-/usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></
-usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></us
-r/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/
-local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/lo
-cal/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local
-/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/te
-xlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/tex
-live/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texli
-ve/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive
-/2016/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2
-016/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/201
-6/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/local/texlive/2016/
-texmf-dist/fonts/type1/public/cm-super/sfbx2488.pfb></usr/local/texlive/2016/te
-xmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2016/texm
-f-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2016/texmf-
-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2016/texmf-di
-st/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on Masterarbeit.pdf (32 pages, 6319927 bytes).
+ 59i,15n,94p,1686b,551s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\studi\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1200.pk> <C:\Users\studi\AppData\Loca
+l\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1095.pk> <C:\Users\studi\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jk
+nappen\ec\dpi600\ecrm1000.pk> <C:\Users\studi\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1728.pk> <
+C:\Users\studi\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users\studi\AppData\Local\Mi
+KTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2488.pk> <C:\Users\studi\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknapp
+en\ec\dpi600\ecrm1200.pk> <C:\Users\studi\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
+s/cm/cmmi12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.
+pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmsy6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on Masterarbeit.pdf (34 pages, 6708877 bytes).
 PDF statistics:
- 348 PDF objects out of 1000 (max. 8388607)
- 252 compressed objects within 3 object streams
+ 685 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 106 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 126 words of extra memory for PDF output out of 10000 (max. 10000000)
 

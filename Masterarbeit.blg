@@ -1,46 +1,5 @@
-This is BibTeX, Version 0.99d (TeX Live 2016)
-Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
-The top-level auxiliary file: Masterarbeit.aux
+This is BibTeX, Version 0.99dThe top-level auxiliary file: Masterarbeit.aux
 The style file: abbrv.bst
 Database file #1: Bibliographie.bib
-You've used 15 entries,
-            2118 wiz_defined-function locations,
-            585 strings with 6357 characters,
-and the built_in function-call counts, 5170 in all, are:
-= -- 464
-> -- 345
-< -- 0
-+ -- 138
-- -- 122
-* -- 413
-:= -- 934
-add.period$ -- 46
-call.type$ -- 15
-change.case$ -- 101
-chr.to.int$ -- 0
-cite$ -- 15
-duplicate$ -- 158
-empty$ -- 341
-format.name$ -- 122
-if$ -- 1016
-int.to.chr$ -- 0
-int.to.str$ -- 15
-missing$ -- 15
-newline$ -- 78
-num.names$ -- 30
-pop$ -- 100
-preamble$ -- 1
-purify$ -- 91
-quote$ -- 0
-skip$ -- 103
-stack$ -- 0
-substring$ -- 220
-swap$ -- 15
-text.length$ -- 0
-text.prefix$ -- 0
-top$ -- 0
-type$ -- 54
-warning$ -- 0
-while$ -- 37
-width$ -- 17
-write$ -- 164
+Warning--I didn't find a database entry for "doi:10.1063/1.241024"
+(There was 1 warning)

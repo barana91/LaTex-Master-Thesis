@@ -8,11 +8,11 @@
 \contentsline {section}{\numberline {2.4}Bestimmung der internen Quanteneffizienz}{15}
 \contentsline {section}{\numberline {2.5}Bestimmung der IQE bei Raumtemperatur durch Fitting}{16}
 \contentsline {section}{\numberline {2.6}Optische Polarisation und Valenzbandstuktur}{18}
-\contentsline {chapter}{\numberline {3}Aufbau}{19}
-\contentsline {section}{\numberline {3.1}Photolumineszenzaufbau}{19}
-\contentsline {section}{\numberline {3.2}Bestimmung der Degradation des UV Quarzglases}{21}
-\contentsline {section}{\numberline {3.3}Erweiterung der Filterkombinationen}{23}
-\contentsline {chapter}{\numberline {4}Ergebnisse}{25}
-\contentsline {section}{\numberline {4.1}Einfluss der Auger-Rekombination auf die IQE}{25}
-\contentsline {section}{\numberline {4.2}Einfluss der Siliziumdotierung auf die IQE}{27}
-\contentsline {section}{\numberline {4.3}Untersuchung optisch gepumpter Laserstrukturen auf unterschiedlichen Templates}{28}
+\contentsline {chapter}{\numberline {3}Aufbau}{21}
+\contentsline {section}{\numberline {3.1}Photolumineszenzaufbau}{21}
+\contentsline {section}{\numberline {3.2}Bestimmung der Degradation des UV Quarzglases}{23}
+\contentsline {section}{\numberline {3.3}Erweiterung der Filterkombinationen}{25}
+\contentsline {chapter}{\numberline {4}Ergebnisse}{27}
+\contentsline {section}{\numberline {4.1}Einfluss der Auger-Rekombination auf die IQE}{27}
+\contentsline {section}{\numberline {4.2}Einfluss der Siliziumdotierung auf die IQE}{29}
+\contentsline {section}{\numberline {4.3}Untersuchung optisch gepumpter Laserstrukturen auf unterschiedlichen Templates}{30}
