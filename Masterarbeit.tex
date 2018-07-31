@@ -4,7 +4,6 @@
 	\usepackage[english,ngerman]{babel}
 	\usepackage{amsmath, url}
 	\usepackage[utf8]{inputenc}
-	\usepackage[dvipsnames]{xcolor}
 	\usepackage[T1]{fontenc}
 	\usepackage{import}
 	\usepackage{graphicx}
@@ -15,13 +14,15 @@
 	\usepackage{fancyhdr}
 	\usepackage{subfiles}
 	\usepackage{float}
-    \usepackage{amsmath}
-	
-
+	\usepackage[table,xcdraw,dvipsnames]{xcolor}
+  \usepackage{amsmath}
+	\usepackage{wrapfig}
+\usepackage[rightcaption]{sidecap}
+\usepackage[font=small,labelfont=bf,tableposition=top]{caption}
 	%  Bibliographie
 	\usepackage{bibgerm} % Umlaute in BibTeX
 %\usepackage[style=authortitle-icomp]{biblatex}
-\bibliographystyle{abbrv} 
+\bibliographystyle{ieeetr} 
 \usepackage[babel,german=guillemets]{csquotes}
 
 	
@@ -53,7 +54,7 @@
 \begin{document}
 	\input{Kapitel/Titelseite.tex}
 	\tableofcontents\thispagestyle{fancy}
-	%\input{Kapitel/Einleitung.tex}
+	\input{Kapitel/Einleitung.tex}
 	\input{Kapitel/Grundlagen.tex}
 	%\input{Kapitel/GrundlagenPL.tex}
 	%\input{Kapitel/GrundlagenPLIQE.tex}
@@ -62,9 +63,10 @@
 	%\input{Kapitel/Aufbau.tex}
 	%\input{Kapitel/AufbauWeiteres.tex}
 	%\input{Kapitel/AufbauVerbesserung.tex}
-	%\input{Kapitel/GrundlagenPLtrueIQE.tex}
+	\input{Kapitel/GrundlagenPLtrueIQE.tex}
 	
 	%\input{Kapitel/IQEmitDotierung}
+	\input{Kapitel/ErgebnissePolarisation}
 	%\input{Kapitel/Ergebnisse.tex}
 	
 

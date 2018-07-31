@@ -1,88 +1,85 @@
 \begin{thebibliography}{10}
 
-\bibitem{ambacher2002}
-O.~Ambacher, J.~Majewski, C.~Miskys, M.~H. A.~Link, M.~Eickhoff, M.~Stutzmann,
-  F.~B. Matthias, V.~Fiorentini, V.~Tilak, B.~Schaff, and L.~Eastmann.
-\newblock Pyroelectric properties of al(in)gan/gan hetero- and quantum well
-  structures.
-\newblock {\em Journal of Physics: Condensed Mater}, 82:075208(14:3399), 2002.
+\bibitem{risk}
+W.~Risk, T.~Gosnell, and A.~Nurmikko, {\em Compact Blue-Green Lasers}.
+\newblock Cambridge studies in modern optics, Cambridge University Press, 2003.
+
+\bibitem{semreich}
+C.~Reich. Persönliche Kommunikation.
 
 \bibitem{buchc}
-C.~Buchheim.
-\newblock {\em Dielektrische Funktion und elektrooptische Eigeschfaten von
+C.~Buchheim, {\em Dielektrische Funktion und elektrooptische Eigeschfaten von
   (Al,Ga)N/GaN - Heterostrukturen}.
 \newblock PhD thesis, Technische Universität Ilmenau, 2010.
 
 \bibitem{fenaln}
-M.~Feneberg, R.~A.~R. Leute, B.~Neuschl, K.~Thonke, and M.~Bickermann.
-\newblock High-excitation and high-resolution photoluminescence spectra of bulk
-  aln.
-\newblock {\em Phys. Rev. B}, 82:075208(2), 2000.
+M.~Feneberg, R.~A.~R. Leute, B.~Neuschl, K.~Thonke, and M.~Bickermann.,
+  ``High-excitation and high-resolution photoluminescence spectra of bulk
+  aln,'' {\em Phys. Rev. B}, vol.~82:075208, no.~2, 2000.
 
-\bibitem{PhysRevB.87.235209}
-M.~Feneberg, M.~F. Romero, M.~R\"oppischer, C.~Cobet, N.~Esser, B.~Neuschl,
-  K.~Thonke, M.~Bickermann, and R.~Goldhahn.
-\newblock Anisotropic absorption and emission of bulk $(1\overline{1}00)$ aln.
-\newblock {\em Phys. Rev. B}, 87:235209, Jun 2013.
-
-\bibitem{martingut}
-M.~Guttmann.
-\newblock Persönliche Kommunikation.
-
-\bibitem{PhysRevB.81.155202}
-R.~Ishii, A.~Kaneta, M.~Funato, Y.~Kawakami, and A.~A. Yamaguchi.
-\newblock All deformation potentials in gan determined by reflectance
-  spectroscopy under uniaxial stress: Definite breakdown of the quasicubic
-  approximation.
-\newblock {\em Phys. Rev. B}, 81:155202, Apr 2010.
-
-\bibitem{doi:10.1063/1.2410242}
-H.~Kawanishi, E.~Niikura, M.~Yamamoto, and S.~Takeda.
-\newblock Experimental energy difference between heavy- or light-hole valence
-  band and crystal-field split-off-hole.
-\newblock {\em Applied Physics Letters}, 89(25):251107, 2006.
+\bibitem{pipr}
+J.~Piprek, {\em Nitride semiconductor devices: principles and simulation}.
+\newblock John Wiley \& Sons, 2007.
 
 \bibitem{doi:10.1063/1.123339}
 S.~R. Lee, A.~F. Wright, M.~H. Crawford, G.~A. Petersen, J.~Han, and R.~M.
-  Biefeld.
-\newblock The band-gap bowing of algan alloys.
-\newblock {\em Applied Physics Letters}, 74(22):3344--3346, 1999.
+  Biefeld, ``The band-gap bowing of algan alloys,'' {\em Applied Physics
+  Letters}, vol.~74, no.~22, pp.~3344--3346, 1999.
 
-\bibitem{doi:10.1063/1.3675451}
-J.~E. Northrup, C.~L. Chua, Z.~Yang, T.~Wunderer, M.~Kneissl, N.~M. Johnson,
-  and T.~Kolbe.
-\newblock Effect of strain and barrier composition on the polarization of light
-  emission from algan/aln quantum wells.
-\newblock {\em Applied Physics Letters}, 100(2):021101, 2012.
+\bibitem{ambacher2002}
+O.~Ambacher, J.~Majewski, C.~Miskys, M.~H. A.~Link, M.~Eickhoff, M.~Stutzmann,
+  F.~B. Matthias, V.~Fiorentini, V.~Tilak, B.~Schaff, and L.~Eastmann,
+  ``Pyroelectric properties of al(in)gan/gan hetero- and quantum well
+  structures,'' {\em Journal of Physics: Condensed Mater}, vol.~82:075208,
+  no.~14:3399, 2002.
 
-\bibitem{pipr}
-J.~Piprek.
-\newblock {\em Nitride semiconductor devices: principles and simulation}.
-\newblock John Wiley \& Sons, 2007.
+\bibitem{martingut}
+M.~Guttmann. Persönliche Kommunikation.
+
+\bibitem{doi:10.1063/1.117689}
+S.~Wei and A.~Zunger, ``Valence band splittings and band offsets of aln, gan,
+  and inn,'' {\em Applied Physics Letters}, vol.~69, no.~18, pp.~2719--2721,
+  1996.
+
+\bibitem{PhysRevB.87.235209}
+M.~Feneberg, M.~F. Romero, M.~R\"oppischer, C.~Cobet, N.~Esser, B.~Neuschl,
+  K.~Thonke, M.~Bickermann, and R.~Goldhahn, ``Anisotropic absorption and
+  emission of bulk $(1\overline{1}00)$ aln,'' {\em Phys. Rev. B}, vol.~87,
+  p.~235209, Jun 2013.
+
+\bibitem{PhysRevB.81.155202}
+R.~Ishii, A.~Kaneta, M.~Funato, Y.~Kawakami, and A.~A. Yamaguchi, ``All
+  deformation potentials in gan determined by reflectance spectroscopy under
+  uniaxial stress: Definite breakdown of the quasicubic approximation,'' {\em
+  Phys. Rev. B}, vol.~81, p.~155202, Apr 2010.
+
+\bibitem{doi:10.1063/1.3574025}
+Y.~Taniyasu and M.~Kasu, ``Origin of exciton emissions from an aln p-n junction
+  light-emitting diode,'' {\em Applied Physics Letters}, vol.~98, no.~13,
+  p.~131910, 2011.
 
 \bibitem{doi:10.1063/1.4932651}
 C.~Reich, M.~Guttmann, M.~Feneberg, T.~Wernicke, F.~Mehnke, C.~Kuhn, J.~Rass,
   M.~Lapeyrade, S.~Einfeldt, A.~Knauer, V.~Kueller, M.~Weyers, R.~Goldhahn, and
-  M.~Kneissl.
-\newblock Strongly transverse-electric-polarized emission from deep ultraviolet
-  algan quantum well light emitting diodes.
-\newblock {\em Applied Physics Letters}, 107(14):142101, 2015.
+  M.~Kneissl, ``Strongly transverse-electric-polarized emission from deep
+  ultraviolet algan quantum well light emitting diodes,'' {\em Applied Physics
+  Letters}, vol.~107, no.~14, p.~142101, 2015.
+
+\bibitem{doi:10.1063/1.3675451}
+J.~E. Northrup, C.~L. Chua, Z.~Yang, T.~Wunderer, M.~Kneissl, N.~M. Johnson,
+  and T.~Kolbe, ``Effect of strain and barrier composition on the polarization
+  of light emission from algan/aln quantum wells,'' {\em Applied Physics
+  Letters}, vol.~100, no.~2, p.~021101, 2012.
+
+\bibitem{doi:10.1063/1.2410242}
+H.~Kawanishi, E.~Niikura, M.~Yamamoto, and S.~Takeda, ``Experimental energy
+  difference between heavy- or light-hole valence band and crystal-field
+  split-off-hole,'' {\em Applied Physics Letters}, vol.~89, no.~25, p.~251107,
+  2006.
 
 \bibitem{PhysRevB.84.035305}
-T.~K. Sharma, D.~Naveh, and E.~Towe.
-\newblock Strain-driven light-polarization switching in deep ultraviolet
-  nitride emitters.
-\newblock {\em Phys. Rev. B}, 84:035305, Jul 2011.
-
-\bibitem{doi:10.1063/1.3574025}
-Y.~Taniyasu and M.~Kasu.
-\newblock Origin of exciton emissions from an aln p-n junction light-emitting
-  diode.
-\newblock {\em Applied Physics Letters}, 98(13):131910, 2011.
-
-\bibitem{doi:10.1063/1.117689}
-S.~Wei and A.~Zunger.
-\newblock Valence band splittings and band offsets of aln, gan, and inn.
-\newblock {\em Applied Physics Letters}, 69(18):2719--2721, 1996.
+T.~K. Sharma, D.~Naveh, and E.~Towe, ``Strain-driven light-polarization
+  switching in deep ultraviolet nitride emitters,'' {\em Phys. Rev. B},
+  vol.~84, p.~035305, Jul 2011.
 
 \end{thebibliography}
