@@ -4,13 +4,7 @@
     "window.zoomLevel": 0,
     "latex-workshop.view.pdf.viewer": "browser",
     "git.enableSmartCommit": true,
-    "latex-workshop.latex.recipes": [
-        {
-            "name": "latexmk",
-            "tools": [
-                "latexmk"
-            ]
-        },
+    "latex-workshop.latex.recipes": [  
         {
             "name": "pdflatex -> bibtex -> pdflatex*2",
             "tools": [
@@ -19,7 +13,14 @@
                 "pdflatex",
                 "pdflatex"
             ]
+        },
+        {
+            "name": "latexmk",
+            "tools": [
+                "latexmk"
+            ]
         }
+        
         
     ]
 }

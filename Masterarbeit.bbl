@@ -7,25 +7,11 @@ O.~Ambacher, J.~Majewski, C.~Miskys, M.~H. A.~Link, M.~Eickhoff, M.~Stutzmann,
   structures.
 \newblock {\em Journal of Physics: Condensed Mater}, 82:075208(14:3399), 2002.
 
-\bibitem{doi:10.1063/1.4917540}
-Z.~Bryan, I.~Bryan, J.~Xie, S.~Mita, Z.~Sitar, and R.~Collazo.
-\newblock High internal quantum efficiency in algan multiple quantum wells
-  grown on bulk aln substrates.
-\newblock {\em Applied Physics Letters}, 106(14):142107, 2015.
-
 \bibitem{buchc}
 C.~Buchheim.
 \newblock {\em Dielektrische Funktion und elektrooptische Eigeschfaten von
   (Al,Ga)N/GaN - Heterostrukturen}.
 \newblock PhD thesis, Technische Universität Ilmenau, 2010.
-
-\bibitem{doi:10.1063/1.3100773}
-Q.~Dai, M.~F. Schubert, M.~H. Kim, J.~K. Kim, E.~F. Schubert, D.~D. Koleske,
-  M.~H. Crawford, S.~R. Lee, A.~J. Fischer, G.~Thaler, and M.~A. Banas.
-\newblock Internal quantum efficiency and nonradiative recombination
-  coefficient of gainn/gan multiple quantum wells with different dislocation
-  densities.
-\newblock {\em Applied Physics Letters}, 94(11):111109, 2009.
 
 \bibitem{fenaln}
 M.~Feneberg, R.~A.~R. Leute, B.~Neuschl, K.~Thonke, and M.~Bickermann.
@@ -50,6 +36,12 @@ R.~Ishii, A.~Kaneta, M.~Funato, Y.~Kawakami, and A.~A. Yamaguchi.
   approximation.
 \newblock {\em Phys. Rev. B}, 81:155202, Apr 2010.
 
+\bibitem{doi:10.1063/1.2410242}
+H.~Kawanishi, E.~Niikura, M.~Yamamoto, and S.~Takeda.
+\newblock Experimental energy difference between heavy- or light-hole valence
+  band and crystal-field split-off-hole.
+\newblock {\em Applied Physics Letters}, 89(25):251107, 2006.
+
 \bibitem{doi:10.1063/1.123339}
 S.~R. Lee, A.~F. Wright, M.~H. Crawford, G.~A. Petersen, J.~Han, and R.~M.
   Biefeld.
@@ -68,16 +60,6 @@ J.~Piprek.
 \newblock {\em Nitride semiconductor devices: principles and simulation}.
 \newblock John Wiley \& Sons, 2007.
 
-\bibitem{semreich}
-C.~Reich.
-\newblock Persönliche Kommunikation.
-
-\bibitem{creich}
-C.~Reich.
-\newblock {\em Photolumineszenzspektroskopie an (In)AlGaN-Heterostrukturen für
-  UV-Emitter}.
-\newblock PhD thesis, Technische Universität Berlin, 2011.
-
 \bibitem{doi:10.1063/1.4932651}
 C.~Reich, M.~Guttmann, M.~Feneberg, T.~Wernicke, F.~Mehnke, C.~Kuhn, J.~Rass,
   M.~Lapeyrade, S.~Einfeldt, A.~Knauer, V.~Kueller, M.~Weyers, R.~Goldhahn, and
@@ -85,16 +67,6 @@ C.~Reich, M.~Guttmann, M.~Feneberg, T.~Wernicke, F.~Mehnke, C.~Kuhn, J.~Rass,
 \newblock Strongly transverse-electric-polarized emission from deep ultraviolet
   algan quantum well light emitting diodes.
 \newblock {\em Applied Physics Letters}, 107(14):142101, 2015.
-
-\bibitem{risk}
-W.~Risk, T.~Gosnell, and A.~Nurmikko.
-\newblock {\em Compact Blue-Green Lasers}.
-\newblock Cambridge studies in modern optics. Cambridge University Press, 2003.
-
-\bibitem{schub}
-E.~F. Schubert.
-\newblock {\em Light Emitting Diodes, Second Edition}.
-\newblock Cambridge University Press, 2006.
 
 \bibitem{PhysRevB.84.035305}
 T.~K. Sharma, D.~Naveh, and E.~Towe.
