@@ -6,19 +6,12 @@
     \centering
     \begin{minipage}[t]{\linewidth}
         \centering
-        \includegraphics[width=0.7\linewidth]{Bilder/Wurtzite.png}
-        \caption{Einheitzelle der hexagonale Wurtzitstruktur. Die schwarzen Kreise stellen die Position der Stickstoffatome im Gitter dar. Die Gitterposition der Gruppe-III-Metallatome stellen sind als graue Kreise dargestellt. A und B bezeichnen die Stapelebene.  }
+        \includegraphics[width=0.5\linewidth]{Bilder/bandluecke.pdf}
+        \caption{Die Bandlücke von $Al_{x}Ga_{1-x}N$ variiert mit dem Aluminiumgehalt x zwischen den Bandlücken von AlN ($E_{g}(T = 300 K) = 6,213 eV$) und GaN ($E_{g}(T = 300 K) = 3,437 eV$) ~\cite{pipr}. Die Abweichung von der Linearität beschreibt der Bowing-Paramater $b_{AlGaN} = 0,7 eV$} 
         \label{fig:wurtz}
     \end{minipage}% <- sonst wird hier ein Leerzeichen eingefügt
 \end{figure}
-\vspace{1cm}
 \raggedright
-
-
-Die wichtige Gruppe der III-Nitridhalbleiter setzt sich aus den Metallen
-der dritten Hauptgruppe Aluminium (Al), Gallium (Ga) und Indium (In) zusammen.
-Anschaulich bedeutet dies, dass ausgehend von der hexagonal dichtesten Kugelpackung in Doppellagen, die Gruppe-III-Metallen und Stickstoff (N) sich entlang der c-Achse in der Abfolge A-B-A-B anordnen~\cite{buchc} wie in Abb. [\ref{fig:wurtz}] dargestellt ist. 
-Diese kristallisieren bevorzugt in der hexagonalen Wurtzitstruktur Abb. [\ref{fig:wurtz}].
 Der Schwerpunkt dieser Arbeit liegt auf dem AlGaN-Materialsystem mit hohen Al-Konzentration. Das Mischverhältnis bestimmt hierbei die Bandlückenergie des Verbindungshalbleiters. Durch die unterschiedlichen Bandlückenergien von Aluminium mit $6,03 \thinspace eV$ ~\cite{fenaln} und GaN mit $3,4 \thinspace eV$ ~\cite{pipr} eignet sich AlGaN besonders für die Emission im Wellenlängenbereich von UV-A bis UV-C. 
 Die Bandlückenenergie von AlGaN lässt sich durch Interpolation der binären Energien von GaN und AlN in Abhängigkeit des Kompositionsverhältnisses x berechnen, wobei ein zusätzlicher Bowing-Parameter für die nichtlineare Abweichung hinzugefügt wird. 
 %
@@ -27,9 +20,49 @@ Die Bandlückenenergie von AlGaN lässt sich durch Interpolation der binären En
 \end{equation}
 %
 Die Gruppe um Lee et al. gibt nach Auswertung der in der Literatur vorkommenden unterschiedlichen Bowing-Parameter für $Al_{x}Ga_{1-x}N$ einen Wert von $b_{AlGaN} = 0,62\thinspace(\pm \thinspace 0,45)\thinspace eV$ und geben weiter an, das hohe Wachstumstemperaturen zu großen Bowing-Parametern führen ~\cite{doi:10.1063/1.123339}.
-Vurgaftman et al. empfiehlen unter Berücksichtigung weiterer Veröffentlichungen für $b_{AlGaN} =  0,7 \thinspace eV$ 
+Vurgaftman et al. empfiehlen unter Berücksichtigung weiterer Veröffentlichungen für $b_{AlGaN} =  0,7 \thinspace eV$ .
+
+
+
+\section{Wurtzitstruktur}
+
+\begin{figure}[!htb]
+    \centering
+    \begin{minipage}[t]{\linewidth}
+        \centering
+        \includegraphics[width=0.6\linewidth]{Bilder/Wurtzite.png}
+        \caption{Einheitzelle der hexagonale Wurtzitstruktur. Die schwarzen Kreise stellen die Position der Stickstoffatome im Gitter dar. Die Gitterposition der Gruppe-III-Metallatome stellen sind als graue Kreise dargestellt. A und B bezeichnen die Stapelebene.  }
+        \label{fig:wurtz}
+    \end{minipage}% <- sonst wird hier ein Leerzeichen eingefügt
+\end{figure}
+\raggedright
+
+Die wichtige Gruppe der III-Nitridhalbleiter setzt sich aus den Metallen
+der dritten Hauptgruppe Aluminium (Al), Gallium (Ga) und Indium (In) zusammen.
+Diese kristallisieren bevorzugt in der hexagonalen Wurtzitstruktur Abb. [\ref{fig:wurtz}].
+Anschaulich bedeutet dies, dass ausgehend von der hexagonal dichtesten Kugelpackung in Doppellagen, die Gruppe-III-Metallen und Stickstoff (N) sich entlang der c-Achse in der Abfolge A-B-A-B anordnen~\cite{buchc} wie in Abb. [\ref{fig:wurtz}] dargestellt ist. Die Einheitszelle wird durch Gitterparameter $a$ und $c$. Die Gitterkonstante zeigen eine lineare Abhängigkeit vom Konzentrationsverhältnis x und kann mit dem Vegard'schen Gesetz berechnet werden.
 %
-\newpage
+\begin{align}
+\begin{split}
+    a_{Al_{x}Ga{1-x}N} &= a_{AlN} \cdot x + A_{GaN} \cdot (1-x)  ,
+    \\
+    c_{Al_{x}Ga{1-x}N} &= c_{AlN} \cdot x + A_{GaN} \cdot (1-x) 
+\end{split}
+\end{align}
+%
+Die Tabelle \ref{table:tab1} zeigt die typischen Gitterkonstanten.
+ \begin{table}[]
+\centering
+\begin{tabular}{|c|c|c|c|}
+\hline
+\multicolumn{1}{|l|}{Gitterkonstante} & AlN & GaN & Saphir \\ \hline \hline
+a & 3,112 & 3,192 & 4,758 \\ \hline
+c & 4,980 & 5,196 & 12,99 \\ \hline
+\end{tabular}
+\caption{Übersicht der Gitterkonstanten der binären Halbleiter AlN, GaN und $Al_{2}O_{3}$ (Saphir). ~\cite{pohl} }
+\label{table:tab1}
+\end{table}
+
 \section{Polarisationsfeld und QCSE in III/V Halbleitern}
 
 Aufgrund der fehlenden Inversionssymmetrie und stark unterschiedlichen Elektronegativitäten des Stickstoffs und der entsprechenden Gruppe III-Metalle bilden sich Polarisationsfelder aus, die entlang der auf der Basalebende stehenden c-Achse verlaufen. Hier unterscheidet man zwischen zwei Arten von Polarisationsfeldern, die spontane Polarisation $ \vec{P}^{sp} $ und die piezoelektrische Polarisation $ \vec{P}^{pz} $.
@@ -39,7 +72,7 @@ Dipolmomente im AlGaN sind die unterschiedlichen Elektronegativitäten zwischen 
 %
 \begin{figure}[htb]
     \centering
-    \begin{minipage}[t]{0.7\linewidth}
+    \begin{minipage}[t]{0.6\linewidth}
         \centering
         \includegraphics[width=\linewidth]{Bilder/QCSE.pdf}
         \caption{Einluss der spontanen und piezolektrischen Polarisation auf Valenz- und Leitungsband einer Quantenfilm-Heterostruktur. Die Aufenthaltswahrscheinlichkeiten von Elektronen und Löchern werden verschoben.}
