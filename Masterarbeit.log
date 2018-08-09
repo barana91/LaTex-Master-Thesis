@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2017.2.7)  4 AUG 2018 18:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2017.2.7)  7 AUG 2018 16:46
 entering extended mode
 **./Masterarbeit.tex
 (Masterarbeit.tex
@@ -696,9 +696,6 @@ LaTeX Warning: Label `fig:degra' multiply defined.
 
 LaTeX Warning: Label `fig:auger5k' multiply defined.
 
-
-LaTeX Warning: Label `fig:trueiqe' multiply defined.
-
 )
 \openout1 = `Masterarbeit.aux'.
 
@@ -903,33 +900,61 @@ File: Bilder/QCSE.pdf Graphic file (type pdf)
  <use Bilder/QCSE.pdf>
 Package pdftex.def Info: Bilder/QCSE.pdf used on input line 77.
 (pdftex.def)             Requested size: 250.95476pt x 139.59666pt.
- [11]) (Kapitel/GrundlagenPL.tex
-<Bilder/nonradRekomb.png, id=81, 1611.1392pt x 1076.3412pt>
-File: Bilder/nonradRekomb.png Graphic file (type png)
- <use Bilder/nonradRekomb.png>
-Package pdftex.def Info: Bilder/nonradRekomb.png used on input line 11.
-(pdftex.def)             Requested size: 204.9466pt x 136.90732pt.
-
-<Bilder/radRekomb.png, id=82, 1611.1392pt x 1076.3412pt>
-File: Bilder/radRekomb.png Graphic file (type png)
- <use Bilder/radRekomb.png>
-Package pdftex.def Info: Bilder/radRekomb.png used on input line 17.
-(pdftex.def)             Requested size: 204.9466pt x 136.90732pt.
-
+ [11]) (Kapitel/GrundlagenMOVPE.tex
 Underfull \vbox (badness 4805) has occurred while \output is active []
 
  [12 <./Bilder/QCSE.pdf>]
-<Bilder/rekbomChannels.png, id=131, 1785.7917pt x 1067.187pt>
-File: Bilder/rekbomChannels.png Graphic file (type png)
- <use Bilder/rekbomChannels.png>
-Package pdftex.def Info: Bilder/rekbomChannels.png used on input line 30.
-(pdftex.def)             Requested size: 313.69025pt x 187.46072pt.
+<Bilder/IQEthreadingdisl.png, id=129, 22.7622pt x 19.56126pt>
+File: Bilder/IQEthreadingdisl.png Graphic file (type png)
+ <use Bilder/IQEthreadingdisl.png>
+Package pdftex.def Info: Bilder/IQEthreadingdisl.png used on input line 16.
+(pdftex.def)             Requested size: 209.12683pt x 179.81406pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[13 <./Bilder/nonradRekomb.png> <./Bilder/radRekomb.png>]) (Kapitel/GrundlagenPLIQE.tex [14 <./Bilder/rekbomChannels.png
->] [15] <Bilder/IQEohneDotierungVerschAParams.pdf, id=145, 745.78625pt x 584.1825pt>
+[13]) (Kapitel/GrundlagenPL.tex <Bilder/bandrekomb.png, id=134, 1065.5007pt x 763.1712pt>
+File: Bilder/bandrekomb.png Graphic file (type png)
+ <use Bilder/bandrekomb.png>
+Package pdftex.def Info: Bilder/bandrekomb.png used on input line 12.
+(pdftex.def)             Requested size: 334.60422pt x 239.66656pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package caption Warning: \label without proper reference on input line 33.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `fig:rekombphonon' on page 14 undefined on input line 19.
+
+<Bilder/nonradRekomb.png, id=135, 1611.1392pt x 1076.3412pt>
+File: Bilder/nonradRekomb.png Graphic file (type png)
+ <use Bilder/nonradRekomb.png>
+Package pdftex.def Info: Bilder/nonradRekomb.png used on input line 24.
+(pdftex.def)             Requested size: 204.9466pt x 136.90732pt.
+
+<Bilder/radRekomb.png, id=136, 1611.1392pt x 1076.3412pt>
+File: Bilder/radRekomb.png Graphic file (type png)
+ <use Bilder/radRekomb.png>
+Package pdftex.def Info: Bilder/radRekomb.png used on input line 30.
+(pdftex.def)             Requested size: 204.9466pt x 136.90732pt.
+
+<Bilder/rekbomChannels.png, id=137, 1785.7917pt x 1067.187pt>
+File: Bilder/rekbomChannels.png Graphic file (type png)
+ <use Bilder/rekbomChannels.png>
+Package pdftex.def Info: Bilder/rekbomChannels.png used on input line 42.
+(pdftex.def)             Requested size: 313.69025pt x 187.46072pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [14 <./Bilder/IQEthreadingdisl.png>]
+Underfull \vbox (badness 2368) has occurred while \output is active []
+
+ [15 <./Bilder/bandrekomb.png>] [16 <./Bilder/nonradRekomb.png> <./Bilder/radRekomb.png> <./Bilder/rekbomChannels.png>])
+ (Kapitel/GrundlagenPLIQE.tex [17]
+<Bilder/IQEohneDotierungVerschAParams.pdf, id=154, 745.78625pt x 584.1825pt>
 File: Bilder/IQEohneDotierungVerschAParams.pdf Graphic file (type pdf)
 
 <use Bilder/IQEohneDotierungVerschAParams.pdf>
@@ -946,40 +971,36 @@ LaTeX Font Warning: Command \footnotesize invalid in math mode on input line 19.
 
 LaTeX Font Warning: Command \footnotesize invalid in math mode on input line 19.
 
-[16 <./Bilder/IQEohneDotierungVerschAParams.pdf>]) (Kapitel/RaumTempMethGrund.tex
-<Bilder/raumtempMethodeBeispielFit.png, id=168, 602.25pt x 408.77719pt>
+[18 <./Bilder/IQEohneDotierungVerschAParams.pdf>]) (Kapitel/RaumTempMethGrund.tex
+<Bilder/raumtempMethodeBeispielFit.png, id=177, 602.25pt x 408.77719pt>
 File: Bilder/raumtempMethodeBeispielFit.png Graphic file (type png)
  <use Bilder/raumtempMethodeBeispielFit.png>
 Package pdftex.def Info: Bilder/raumtempMethodeBeispielFit.png used on input line 10.
 (pdftex.def)             Requested size: 204.9466pt x 139.10715pt.
 
-Underfull \hbox (badness 1215) in paragraph at lines 11--11
-[]\T1/cmr/bx/n/10.95 Abbildung 2.8: |\T1/cmr/m/n/10.95 Fit für die Ge-ne-ra-ti-
- []
-
-<Bilder/raumtempMethodeIQE.png, id=169, 668.4975pt x 440.39531pt>
+<Bilder/raumtempMethodeIQE.png, id=178, 668.4975pt x 440.39531pt>
 File: Bilder/raumtempMethodeIQE.png Graphic file (type png)
  <use Bilder/raumtempMethodeIQE.png>
 Package pdftex.def Info: Bilder/raumtempMethodeIQE.png used on input line 16.
 (pdftex.def)             Requested size: 204.9466pt x 135.01587pt.
- [17 <./Bilder/raumtempMethodeBeispielFit.png> <./Bilder/raumtempMethodeIQE.png>]) (Kapitel/GrundlagenPolarisation.tex
-<Bilder/vancebandPlot.png, id=175, 390.7398pt x 316.0608pt>
+ [19 <./Bilder/raumtempMethodeBeispielFit.png> <./Bilder/raumtempMethodeIQE.png>]) (Kapitel/GrundlagenPolarisation.tex
+<Bilder/vancebandPlot.png, id=185, 390.7398pt x 316.0608pt>
 File: Bilder/vancebandPlot.png Graphic file (type png)
  <use Bilder/vancebandPlot.png>
 Package pdftex.def Info: Bilder/vancebandPlot.png used on input line 11.
 (pdftex.def)             Requested size: 204.9466pt x 165.77525pt.
 
-<Bilder/martinTETM.png, id=176, 477.4638pt x 198.5016pt>
+<Bilder/martinTETM.png, id=186, 477.4638pt x 198.5016pt>
 File: Bilder/martinTETM.png Graphic file (type png)
  <use Bilder/martinTETM.png>
 Package pdftex.def Info: Bilder/martinTETM.png used on input line 18.
 (pdftex.def)             Requested size: 204.9466pt x 85.2056pt.
- [18]
-<Bilder/christophPolarisationSimu.png, id=181, 526.6074pt x 394.1124pt>
+ [20]
+<Bilder/christophPolarisationSimu.png, id=191, 526.6074pt x 394.1124pt>
 File: Bilder/christophPolarisationSimu.png Graphic file (type png)
  <use Bilder/christophPolarisationSimu.png>
 Package pdftex.def Info: Bilder/christophPolarisationSimu.png used on input line 34.
-(pdftex.def)             Requested size: 209.12683pt x 156.51158pt.
+(pdftex.def)             Requested size: 250.95476pt x 187.8127pt.
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 38.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
@@ -988,93 +1009,104 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 38.
 
-Underfull \hbox (badness 10000) in paragraph at lines 38--38
-[][]\T1/cmr/bx/n/10.95 : |\T1/cmr/m/n/10.95 Si-mu-la-ti-ons-er-geb-nis-se
+Underfull \hbox (badness 4927) in paragraph at lines 38--38
+\T1/cmr/m/n/10.95 in Ab-hän-gig-keit der Alu-mi-ni-
  []
 
 
-Underfull \hbox (badness 4518) in paragraph at lines 38--38
-\T1/cmr/m/n/10.95 des Po-la-ri-sa-ti-ons-gra-des in Ab-hän-gig-keit
+Underfull \hbox (badness 4765) in paragraph at lines 38--38
+\T1/cmr/m/n/10.95 um-kon-zen-tra-ti-on der Bar-rie-ren
  []
 
 
-Underfull \hbox (badness 7888) in paragraph at lines 38--38
-\T1/cmr/m/n/10.95 für AlGaN-QW mit $\OT1/cmr/m/n/10.95 1\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 5\OML/cmm/m/it/10.95 nm$
-\T1/cmr/m/n/10.95 -Dicke, die
+Underfull \hbox (badness 2772) in paragraph at lines 38--38
+\T1/cmr/m/n/10.95 und QWs, ba-sie-rend auf dem
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 38--38
-\T1/cmr/m/n/10.95 pseu-do-morph auf ELO-AlN ge-wach-sen
+Underfull \hbox (badness 4132) in paragraph at lines 38--38
+\OT1/cmr/m/n/10.95 1\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/10.95 5\OML/cmm/m/it/10.95 nm$\T1/cmr/m/n/10.95 -Dicke, die pseu-d
+o-morph
  []
 
-<Bilder/christophPolarisationSimu1.png, id=182, 443.7378pt x 498.663pt>
+<Bilder/christophPolarisationSimu1.png, id=192, 443.7378pt x 498.663pt>
 File: Bilder/christophPolarisationSimu1.png Graphic file (type png)
  <use Bilder/christophPolarisationSimu1.png>
-Package pdftex.def Info: Bilder/christophPolarisationSimu1.png used on input line 43.
-(pdftex.def)             Requested size: 209.12683pt x 235.01079pt.
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 50.
+Package pdftex.def Info: Bilder/christophPolarisationSimu1.png used on input line 44.
+(pdftex.def)             Requested size: 250.95476pt x 282.01903pt.
 
-<Bilder/exemplPolGraph.png, id=183, 506.8536pt x 301.6068pt>
+Underfull \hbox (badness 1701) in paragraph at lines 47--47
+\T1/cmr/m/n/10.95 Si-mu-la-ti-on für die Po-la-ri-sa-ti-on
+ []
+
+
+Underfull \hbox (badness 1565) in paragraph at lines 47--47
+\T1/cmr/m/n/10.95 in Ab-hän-gig-keit von der QW-
+ []
+
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 52.
+<Bilder/exemplPolGraph.png, id=193, 506.8536pt x 301.6068pt>
 File: Bilder/exemplPolGraph.png Graphic file (type png)
  <use Bilder/exemplPolGraph.png>
-Package pdftex.def Info: Bilder/exemplPolGraph.png used on input line 56.
-(pdftex.def)             Requested size: 334.60422pt x 199.11171pt.
- [19 <./Bilder/vancebandPlot.png> <./Bilder/martinTETM.png>]
+Package pdftex.def Info: Bilder/exemplPolGraph.png used on input line 57.
+(pdftex.def)             Requested size: 250.95476pt x 149.33034pt.
+ [21 <./Bilder/vancebandPlot.png> <./Bilder/martinTETM.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [20 <./Bilder/christophPolarisationSimu.png>])
-(Kapitel/Aufbau.tex [21 <./Bilder/christophPolarisationSimu1.png>] [22 <./Bilder/exemplPolGraph.png>]
+ [22 <./Bilder/christophPolarisationSimu.png>])
+(Kapitel/Aufbau.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [23 <./Bilder/christophPolarisationSimu1.png>]
+[24 <./Bilder/exemplPolGraph.png>]
 Kapitel 3.
-<Bilder/aufbauPL.png, id=202, 1803.8592pt x 1086.459pt>
+<Bilder/aufbauPL.png, id=211, 1803.8592pt x 1086.459pt>
 File: Bilder/aufbauPL.png Graphic file (type png)
  <use Bilder/aufbauPL.png>
 Package pdftex.def Info: Bilder/aufbauPL.png used on input line 12.
 (pdftex.def)             Requested size: 418.25368pt x 251.90283pt.
- [23
+ [25
 
  <./Bilder/aufbauPL.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [24]) (Kapitel/AufbauWeiteres.tex
-<Bilder/uvsilicaDegradation.png, id=210, 448.074pt x 284.56313pt>
+ [26]) (Kapitel/AufbauWeiteres.tex
+<Bilder/uvsilicaDegradation.png, id=220, 448.074pt x 284.56313pt>
 File: Bilder/uvsilicaDegradation.png Graphic file (type png)
  <use Bilder/uvsilicaDegradation.png>
 Package pdftex.def Info: Bilder/uvsilicaDegradation.png used on input line 10.
 (pdftex.def)             Requested size: 204.9466pt x 130.15813pt.
 
-<Bilder/uvsilicavergleich.pdf, id=211, 630.355pt x 502.87875pt>
+<Bilder/uvsilicavergleich.pdf, id=221, 630.355pt x 502.87875pt>
 File: Bilder/uvsilicavergleich.pdf Graphic file (type pdf)
  <use Bilder/uvsilicavergleich.pdf>
-Package pdftex.def Info: Bilder/uvsilicavergleich.pdf used on input line 25.
+Package pdftex.def Info: Bilder/uvsilicavergleich.pdf used on input line 24.
 (pdftex.def)             Requested size: 150.56798pt x 120.11786pt.
 
-<Bilder/uvsilicaVergleichSkaliert.pdf, id=212, 751.80875pt x 580.1675pt>
+<Bilder/uvsilicaVergleichSkaliert.pdf, id=222, 751.80875pt x 580.1675pt>
 File: Bilder/uvsilicaVergleichSkaliert.pdf Graphic file (type pdf)
  <use Bilder/uvsilicaVergleichSkaliert.pdf>
-Package pdftex.def Info: Bilder/uvsilicaVergleichSkaliert.pdf used on input line 32.
+Package pdftex.def Info: Bilder/uvsilicaVergleichSkaliert.pdf used on input line 31.
 (pdftex.def)             Requested size: 150.56798pt x 116.19078pt.
 
-[25 <./Bilder/uvsilicaDegradation.png>]) (Kapitel/AufbauVerbesserung.tex
-<Bilder/AuswertungNovemeberKorr1VergleichFilter.pdf, id=218, 673.51625pt x 590.205pt>
+[27]
+Underfull \vbox (badness 2277) has occurred while \output is active []
+
+ [28 <./Bilder/uvsilicaDegradation.png> <./Bilder/uvsilicavergleich.pdf> <./Bilder/uvsilicaVergleichSkaliert.pdf
+
+pdfTeX warning: pdflatex.exe (file ./Bilder/uvsilicaVergleichSkaliert.pdf): PDF inclusion: multiple pdfs with page group
+ included in a single page
+>]) (Kapitel/AufbauVerbesserung.tex
+<Bilder/AuswertungNovemeberKorr1VergleichFilter.pdf, id=233, 673.51625pt x 590.205pt>
 File: Bilder/AuswertungNovemeberKorr1VergleichFilter.pdf Graphic file (type pdf)
 
 <use Bilder/AuswertungNovemeberKorr1VergleichFilter.pdf>
 Package pdftex.def Info: Bilder/AuswertungNovemeberKorr1VergleichFilter.pdf used on input line 10.
 (pdftex.def)             Requested size: 204.9466pt x 179.59349pt.
-) (Kapitel/GrundlagenPLtrueIQE.tex
-Underfull \vbox (badness 6284) has occurred while \output is active []
-
- [26 <./Bilder/uvsilicavergleich.pdf> <./Bilder/uvsilicaVergleichSkaliert.pdf
-
-pdfTeX warning: pdflatex.exe (file ./Bilder/uvsilicaVergleichSkaliert.pdf): PDF inclusion: multiple pdfs with page group
- included in a single page
->] [27 <./Bilder/AuswertungNovemeberKorr1VergleichFilter.pdf>] [28
-
-]
+) (Kapitel/GrundlagenPLtrueIQE.tex [29 <./Bilder/AuswertungNovemeberKorr1VergleichFilter.pdf>] [30]
 Kapitel 4.
-<Bilder/AugerBei5K.pdf, id=247, 774.895pt x 593.21625pt>
+<Bilder/AugerBei5K.pdf, id=255, 774.895pt x 593.21625pt>
 File: Bilder/AugerBei5K.pdf Graphic file (type pdf)
  <use Bilder/AugerBei5K.pdf>
 Package pdftex.def Info: Bilder/AugerBei5K.pdf used on input line 9.
@@ -1084,48 +1116,50 @@ Underfull \hbox (badness 2302) in paragraph at lines 10--10
 \T1/cmr/m/n/10.95 in Ab-hän-gig-keit der An-re-gungs-leis-tung-
  []
 
-<Bilder/NormierteKorrgierteIQE5K.pdf, id=248, 774.895pt x 593.21625pt>
+<Bilder/NormierteKorrgierteIQE5K.pdf, id=256, 774.895pt x 593.21625pt>
 File: Bilder/NormierteKorrgierteIQE5K.pdf Graphic file (type pdf)
  <use Bilder/NormierteKorrgierteIQE5K.pdf>
 Package pdftex.def Info: Bilder/NormierteKorrgierteIQE5K.pdf used on input line 16.
 (pdftex.def)             Requested size: 204.9466pt x 156.8938pt.
 
-[29 <./Bilder/AugerBei5K.pdf> <./Bilder/NormierteKorrgierteIQE5K.pdf
+[31
+
+ <./Bilder/AugerBei5K.pdf> <./Bilder/NormierteKorrgierteIQE5K.pdf
 
 pdfTeX warning: pdflatex.exe (file ./Bilder/NormierteKorrgierteIQE5K.pdf): PDF inclusion: multiple pdfs with page group 
 included in a single page
->] <Bilder/KorrigierteIQE300K.pdf, id=285, 774.895pt x 593.21625pt>
+>] <Bilder/KorrigierteIQE300K.pdf, id=294, 774.895pt x 593.21625pt>
 File: Bilder/KorrigierteIQE300K.pdf Graphic file (type pdf)
  <use Bilder/KorrigierteIQE300K.pdf>
 Package pdftex.def Info: Bilder/KorrigierteIQE300K.pdf used on input line 39.
 (pdftex.def)             Requested size: 204.9466pt x 156.8938pt.
- [30 <./Bilder/KorrigierteIQE300K.pdf>]) (Kapitel/IQEmitDotierung.tex [31]
+ [32 <./Bilder/KorrigierteIQE300K.pdf>]) (Kapitel/IQEmitDotierung.tex [33]
 
-LaTeX Warning: Reference `fig:abha1' on page 32 undefined on input line 46.
+LaTeX Warning: Reference `fig:abha1' on page 34 undefined on input line 46.
 
-) (Kapitel/ErgebnissePolarisation.tex <Bilder/spektrenAlvariation.pdf, id=307, 653.44125pt x 554.07pt>
+) (Kapitel/ErgebnissePolarisation.tex <Bilder/spektrenAlvariation.pdf, id=315, 653.44125pt x 554.07pt>
 File: Bilder/spektrenAlvariation.pdf Graphic file (type pdf)
 
 <use Bilder/spektrenAlvariation.pdf>
 Package pdftex.def Info: Bilder/spektrenAlvariation.pdf used on input line 17.
 (pdftex.def)             Requested size: 204.9466pt x 173.77208pt.
- <Bilder/polarisationAlvariation.pdf, id=308, 658.46pt x 514.92375pt>
+ <Bilder/polarisationAlvariation.pdf, id=316, 658.46pt x 514.92375pt>
 File: Bilder/polarisationAlvariation.pdf Graphic file (type pdf)
 
 <use Bilder/polarisationAlvariation.pdf>
 Package pdftex.def Info: Bilder/polarisationAlvariation.pdf used on input line 24.
 (pdftex.def)             Requested size: 204.9466pt x 160.26898pt.
- [32] [33 <./Bilder/spektrenAlvariation.pdf> <./Bilder/polarisationAlvariation.pdf
+ [34] [35 <./Bilder/spektrenAlvariation.pdf> <./Bilder/polarisationAlvariation.pdf
 
 pdfTeX warning: pdflatex.exe (file ./Bilder/polarisationAlvariation.pdf): PDF inclusion: multiple pdfs with page group i
 ncluded in a single page
->] <Bilder/spektrenQWvariation.pdf, id=357, 707.64375pt x 563.10374pt>
+>] <Bilder/spektrenQWvariation.pdf, id=365, 707.64375pt x 563.10374pt>
 File: Bilder/spektrenQWvariation.pdf Graphic file (type pdf)
  <use Bilder/spektrenQWvariation.pdf>
 Package pdftex.def Info: Bilder/spektrenQWvariation.pdf used on input line 41.
 (pdftex.def)             Requested size: 204.9466pt x 163.0811pt.
 
-<Bilder/polarisationDickenvariation.pdf, id=358, 653.44125pt x 506.89375pt>
+<Bilder/polarisationDickenvariation.pdf, id=366, 653.44125pt x 506.89375pt>
 File: Bilder/polarisationDickenvariation.pdf Graphic file (type pdf)
 
 <use Bilder/polarisationDickenvariation.pdf>
@@ -1134,29 +1168,29 @@ Package pdftex.def Info: Bilder/polarisationDickenvariation.pdf used on input li
 ) (Kapitel/Ergebnisse.tex
 Underfull \vbox (badness 3009) has occurred while \output is active []
 
- [34 <./Bilder/spektrenQWvariation.pdf> <./Bilder/polarisationDickenvariation.pdf
+ [36 <./Bilder/spektrenQWvariation.pdf> <./Bilder/polarisationDickenvariation.pdf
 
 pdfTeX warning: pdflatex.exe (file ./Bilder/polarisationDickenvariation.pdf): PDF inclusion: multiple pdfs with page gro
 up included in a single page
->] [35] <Bilder/TS4045Uebersicht.pdf, id=395, 774.895pt x 593.21625pt>
+>] [37] <Bilder/TS4045Uebersicht.pdf, id=404, 774.895pt x 593.21625pt>
 File: Bilder/TS4045Uebersicht.pdf Graphic file (type pdf)
  <use Bilder/TS4045Uebersicht.pdf>
 Package pdftex.def Info: Bilder/TS4045Uebersicht.pdf used on input line 34.
 (pdftex.def)             Requested size: 204.9466pt x 156.8938pt.
 
-<Bilder/TS4048Uebersicht.pdf, id=396, 774.895pt x 593.21625pt>
+<Bilder/TS4048Uebersicht.pdf, id=405, 774.895pt x 593.21625pt>
 File: Bilder/TS4048Uebersicht.pdf Graphic file (type pdf)
  <use Bilder/TS4048Uebersicht.pdf>
 Package pdftex.def Info: Bilder/TS4048Uebersicht.pdf used on input line 40.
 (pdftex.def)             Requested size: 204.9466pt x 156.8938pt.
 ) (Masterarbeit.bbl
-[36 <./Bilder/TS4045Uebersicht.pdf> <./Bilder/TS4048Uebersicht.pdf
+[38 <./Bilder/TS4045Uebersicht.pdf> <./Bilder/TS4048Uebersicht.pdf
 
 pdfTeX warning: pdflatex.exe (file ./Bilder/TS4048Uebersicht.pdf): PDF inclusion: multiple pdfs with page group included
  in a single page
->] [37
+>] [39
 
-] [38]) [39] (Masterarbeit.aux)
+] [40]) [41] (Masterarbeit.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -1165,13 +1199,13 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 8155 strings out of 493333
- 119580 string characters out of 3139195
- 220839 words of memory out of 3000000
- 11407 multiletter control sequences out of 15000+200000
+ 8180 strings out of 493333
+ 120101 string characters out of 3139195
+ 219956 words of memory out of 3000000
+ 11427 multiletter control sequences out of 15000+200000
  23170 words of font info for 56 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 59i,15n,94p,1639b,575s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 59i,15n,94p,1909b,575s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\studi\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1200.pk> <C:\Users\studi\AppData\Loca
 l\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1000.pk> <C:\Users\studi\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jk
 nappen\ec\dpi600\ecrm1000.pk> <C:\Users\studi\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1728.pk> <
@@ -1187,9 +1221,9 @@ rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Fil
 s/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/ty
 pe1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program File
 s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on Masterarbeit.pdf (39 pages, 6857091 bytes).
+Output written on Masterarbeit.pdf (41 pages, 7123721 bytes).
 PDF statistics:
- 907 PDF objects out of 1000 (max. 8388607)
+ 923 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 156 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 166 words of extra memory for PDF output out of 10000 (max. 10000000)
 
