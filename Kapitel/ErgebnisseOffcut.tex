@@ -2,10 +2,11 @@
 
 \section{Untersuchung optisch gepumpter Laserstrukturen auf unterschiedlichen Templates}
 
-Dieses Kapitel widmet sich der Untersuchung zweier Probenreihen von optisch gepumpten Laserstrukturen, die aus Rezepten aus zwei unterschiedlichen Serien stammen. Die beiden Serien unterscheiden sich im wesentlichen dadurch, dass sie mit(Serie 2) und ohne Übergitter(Serie 1)gewachsen wurden. 
-Die Proben weisen untereinander Unterschiede in ihren Substraten auf, so sind zwei Proben der Serie 1 auf AlN-Bulk zweier unterschiedlicher Hersteller (HexaTech, IKZ) gewachsen und alle anderen Proben auf ELO AlN/Sapphire mit jeweils 3 unterschiedlichen "Offcut"-Winkeln. Tabellarisch sieht die Zusammenstellung wie folgt aus: 
-
+Dieses Kapitel widmet sich der Untersuchung zweier Probenreihen von optisch gepumpten Laserstrukturen, die aus Rezepten aus zwei unterschiedlichen Serien stammen. Die beiden Serien unterscheiden sich im wesentlichen dadurch, dass sie mit(Serie 2) und ohne Übergitter(Serie 1)gewachsen wurden. Sie haben alle eine aktive Zone, die sich zusammen setzt aus zwei $5$nm dicken und siliziumdotierten $ Al_{0.8}Ga_{0.3}N$-Barrieren zwischen den drei $2.2$nm dicken $ Al_{0.56}Ga_{0.44}N$ QWs. Die aktive Zonne befindet sich zwischen einem $30 \thinspace nm$ dicken $ Al_{0.70}Ga_{0.30}N$ und einem $85 \thinspace nm$ dicken Waveguide als oberste Schicht. Der Wellenleiter hat den Zweck, die optische Mode einzuschließen, daher ist ein hoher Brechungsindexsprung zwischen den Barrieren der aktiven Region und der darüberliegenden Schichten notwendig.
+Dieser Block an Schichten bildet die unveränderte Grundlage für alle in diesem Kapitel untersuchten Proben.
+Die Proben weisen untereinander Unterschiede in ihren Substraten auf, so sind zwei Proben der Serie 1 auf AlN-Bulk zweier unterschiedlicher Hersteller (HexaTech, IKZ) gewachsen und alle anderen Proben auf ELO AlN/Sapphire mit jeweils 3 unterschiedlichen  Fehlschnitt-Winkeln. Tabellarisch sieht die Zusammenstellung wie folgt aus: 
 \vspace{1cm}
+\newline
 \setlength{\arrayrulewidth}{0.05mm}
 \setlength{\tabcolsep}{2.5mm}
 \renewcommand{\arraystretch}{1}
@@ -37,28 +38,38 @@ Der Fehlschnitt-Winkel $\alpha$ ist die Winkel-Differenz zwischen Oberflächenno
 \raggedright
 \vspace{1cm}
 %
-Die Makrostufen können allerdings zu einer Reduktion der TDD beitragen, die wiederum in der IQE sichtbar ist \ref{fig:IQEthreadingdisl}. Bei Proben mit einem geringen Fehlschnitt von $\alpha = 0,12 $ verlaufen die Versetzungen senkrecht zur Kristalloberfläche. Bei Proben mit einem großen Fehlschnitt von $\alpha = 0,16 $ verlaufen die Versetzungen diagonal. Bei diesen Versetzungen handelt es sich um sogenannten Koaleszenzkorngrenzen die an der Oberfläche als Makrostufen zu erkennen sind \cite{MOGILATENKO2014222}. 
+Die Makrostufen können allerdings zu einer Reduktion der TDD beitragen, die wiederum in der IQE sichtbar ist wie Abb. [\ref{fig:IQEthreadingdisl}] zeigt. Bei Proben mit einem geringen Fehlschnitt von $\alpha = 0,12 $ verlaufen die Versetzungen senkrecht zur Kristalloberfläche. Bei Proben mit einem großen Fehlschnitt von $\alpha = 0,16 $ verlaufen die Versetzungen diagonal wie Abb. [\ref{fig:schraubenvers}] zeigt. Bei diesen Versetzungen handelt es sich um sogenannten Koaleszenzkorngrenzen die an der Oberfläche als Makrostufen zu erkennen sind \cite{MOGILATENKO2014222}. 
 %
 \begin{figure}[htb]
   \centering
   \begin{minipage}[t]{0.49\textwidth}
     \centering
-    \includegraphics[width=\textwidth]{Bilder/offcutsenkrecht.png}
+    \includegraphics[width=0.6\textwidth]{Bilder/offcutsenkrecht.png}
     \label{}
   \end{minipage}
 	\hfill
   \begin{minipage}[t]{0.49\textwidth}
     \centering
-    \includegraphics[width=\linewidth]{Bilder/offcutdiagonal.png}
+    \includegraphics[width=0.6\linewidth]{Bilder/offcutdiagonal.png}
     \label{}
   \end{minipage}
 	\caption{Querschnitts-TEM-Aufnahmen mit den sichtbaren senkrecht und diagonal verlaufenden Schraubenversetzungen}
+	\label{schraubenvers}
 \end{figure}
 %
-Bei Schichtdicken $ \geq 10 \mu m $ kreuzen diese diagonal verlaufenden Makrostufen die versetzungsreichen Gebiete zwischen den geätzten Gräben im ELO oft genug um diese fast vollständig zu annhilieren \cite{fmehnke}. Bei den hier verwendeten Schichtdicken von $ \geq 1 \thinspace \mu m $ ist nur eine teilweise Annihilation und damit eine Defektreduktion von $1\cdot 10^{10} \thinspace cm^{-2}$ auf $5\cdot 10^9 \thinspace cm^{-2}$ zu erwarten \cite{fmehnke}. Weiter beachtet werden muss, dass bei den darauf folgenden Schichten eine Planarisierung stattfinden muss, um möglichst ebene aktive Zone zu haben. 
-
+Bei Schichtdicken $ \geq 10 \mu m $ kreuzen diese diagonal verlaufenden Makrostufen die versetzungsreichen Gebiete zwischen den geätzten Gräben im ELO oft genug um diese fast vollständig zu annhilieren \cite{fmehnke}. Solche Dicken sind aber schwierig zu realisieren durch das schwierige Wachstum und der entstehenden Krümmung des Wafers. Bei den hier verwendeten Schichtdicken von $ \geq 1 \thinspace \mu m $ ist nur eine teilweise Annihilation und damit eine Defektreduktion von $1\cdot 10^{10} \thinspace cm^{-2}$ auf $5\cdot 10^9 \thinspace cm^{-2}$ zu erwarten \cite{fmehnke}. Weiter beachtet werden muss, dass bei den darauf folgenden Schichten eine Planarisierung stattfinden muss, um eine möglichst ebene aktive Zone zu haben. 
 
 \subsection{UVC-Laser Strukturen auf ELO ohne Übergitter}
+%
+\begin{figure}[htb]
+\includegraphics[width=\linewidth]{Bilder/TS4045/ts4045.png}
+\caption{Schichtstruktur der untersuchten Proben.}
+\label{fig:schichtenelo}
+\end{figure}
+\raggedright
+\vspace{1cm}
+%
+Die drei untersuchten Proben A-ELO, B-ELO und C-ELO setzen sich zusammen aus der oben genannten aktiven Zone. Das Substrat ist ELO AlN/Saphir und darauf aufgewachsen wurde eine $1200 \thinspace nm$ dicke $ Al_{0.8}Ga_{0.2}N$-Bufferschicht (Abb. [\ref{fig:schichtenelo}]). Die zentrale Wellenlänge der Proben befindet sich bei $(271 \pm 1) \thinspace nm$ wie in Abb. [\ref{fig:spectraselo}] zu sehen ist. Durch die nicht resonante Anregung ist der QW-Peak und auch der QB-Peak bei Tieftemperatur bei allen Proben zu sehen, der Anteil des QB-Peaks sinkt aber mit steigender Temperatur durch die steigende kinetische Energie der Elektronen, die bevorzugt in die Leitungsbandminima (den QWs) wandern (thermisches Diffundieren).
 %
 \begin{figure}[htb]
   \centering
@@ -77,30 +88,26 @@ Bei Schichtdicken $ \geq 10 \mu m $ kreuzen diese diagonal verlaufenden Makrostu
     \includegraphics[width=\linewidth]{Bilder/TS4045/celo.pdf}
   \end{minipage}
 	\caption{Aufnahme der Spektren der Proben A-ELO mit einem Fehlschnittwinkel von $0.1$ in die Standard m-Richtung, Probe B-ELO mit einem Fehlschnittwinkel von $0.1$ die andere m-Richtung und Probe C-ELO mit einem Fehlschnittwinkel von $0.2$ in die standard m-Richtung. }
+	\label{fig:spectraselo}
 \end{figure}
 %
-Die untersuchten Proben haben alle eine aktive Zone, die sich zusammen setzt aus zwei $5$nm dicken und siliziumdotierten $ Al_{0.8}Ga_{0.3}N$-Barrieren und drei $2.2$nm dicken $ Al_{0.56}Ga_{0.44}N$ QWs zusammen mit 
-%
-\begin{figure}[htb]
-\includegraphics[width=\linewidth]{Bilder/TS4045/ts4045.png}
-\caption{Schichtstruktur der untersuchten Proben.}
-\label{fig:offcut}
-\end{figure}
-\raggedright
-\vspace{1cm}
+Die Probe C-ELO zeigt bei $5K$ ein abweichendes Verhalten bezüglich der Verteilung der Intensität auf QB-Peak und QW-Peak. Ein möglicher Grund könnte die Fokussierung sein oder der oberste Waveguide der den gleichen Al-Gehalt hat wie die QBs, absorbiert einen Großteil des Lichtes bevor es in die QWs gelangt. 
+Anhand der Intensitäten allein, ist noch kein Rückschluss auf die IQE der Proben zu schliessen, durch die unterschiedliche Positionierung der Proben und Fokussierung. Dennoch ist hier bereits auffällig, dass die Probe C-ELO (grün) eine deutlich geringere Intensität bei RT und TT hat. Dies bestätigt sich in den Abbildungen [\ref{fig:elointrt}] und [\ref{fig:elointtt}] für die integrierte Intensität in Abhängigkeit der Ladungsträgerdichte für RT und TT. Die Proben A-ELO und B-ELO zeigen keinen siginifikaten Unterschied zueinander in den Intensitäten, der Rückschlüsse auf unterschiedliche IQEs erlaubt, aber bei Probe C-ELO ist durch den drastischen Unterschied zu erwarten, dass sie die geringste IQE haben müsste, da sie mit signifikantem Abstand am schwächsten leuchtet.
+Dennoch zeigt die IQE bei
+RT (Abb.
 %
 \begin{figure}[htb]
   \centering
   \begin{minipage}[t]{0.49\textwidth}
     \centering
     \includegraphics[width=\textwidth]{Bilder/TS4045/iqeRT.pdf}
-    \label{}
+    \label{eloiqeRT}
   \end{minipage}
 	\hfill
   \begin{minipage}[t]{0.49\textwidth}
     \centering
     \includegraphics[width=\linewidth]{Bilder/TS4045/corrIQERT.pdf}
-    \label{}
+    \label{elocorriqeRT}
   \end{minipage}
 	\caption{Die Standard-IQE und die korrigierte IQE bei Raumtemperatur. Die korrigierte IQE fällt deutlich geringer aus für alle Proben.}
 \end{figure}
@@ -111,14 +118,14 @@ Die untersuchten Proben haben alle eine aktive Zone, die sich zusammen setzt aus
   \begin{minipage}[t]{0.49\textwidth}
     \centering
     \includegraphics[width=\textwidth]{Bilder/TS4045/intRT.pdf}
-    \label{}
+    \label{fig:elointrt}
   \end{minipage}
 	\hfill
   \begin{minipage}[t]{0.49\textwidth}
     \centering
     \includegraphics[width=\linewidth]{Bilder/TS4045/intTT.pdf}
-    \label{}
+    \label{fig:elointtt}
   \end{minipage}
-	\caption{Die integrierte Intensität in Abhängigkeit der Anregungsleistungsdichte bei Raum- und Tieftemperatur. }
+	\caption{Die integrierte Intensität in Abhängigkeit der Anregungsleistungsdichte bei Raum- und Tieftemperatur in doppelt-logarithmischer Darstellung. }
 \end{figure}
 %
