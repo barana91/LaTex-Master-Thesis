@@ -17,7 +17,7 @@ Class=LaTeXView
 Document=Masterarbeit.tex
 
 [Frame0_View0,0]
-TopLine=47
+TopLine=46
 Cursor=2231
 
 [SessionInfo]

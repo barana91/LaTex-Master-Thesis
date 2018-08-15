@@ -1,4 +1,4 @@
-\begin{thebibliography}{10}
+\begin{thebibliography}{1}
 
 \bibitem{risk}
 W.~Risk, T.~Gosnell, and A.~Nurmikko, {\em Compact Blue-Green Lasers}.
@@ -6,49 +6,6 @@ W.~Risk, T.~Gosnell, and A.~Nurmikko, {\em Compact Blue-Green Lasers}.
 
 \bibitem{semreich}
 C.~Reich. Persönliche Kommunikation.
-
-\bibitem{pipr}
-J.~Piprek, {\em Nitride semiconductor devices: principles and simulation}.
-\newblock John Wiley \& Sons, 2007.
-
-\bibitem{fenaln}
-M.~Feneberg, R.~A.~R. Leute, B.~Neuschl, K.~Thonke, and M.~Bickermann.,
-  ``High-excitation and high-resolution photoluminescence spectra of bulk
-  aln,'' {\em Phys. Rev. B}, vol.~82:075208, no.~2, 2000.
-
-\bibitem{doi:10.1063/1.123339}
-S.~R. Lee, A.~F. Wright, M.~H. Crawford, G.~A. Petersen, J.~Han, and R.~M.
-  Biefeld, ``The band-gap bowing of algan alloys,'' {\em Applied Physics
-  Letters}, vol.~74, no.~22, pp.~3344--3346, 1999.
-
-\bibitem{buchc}
-C.~Buchheim, {\em Dielektrische Funktion und elektrooptische Eigeschfaten von
-  (Al,Ga)N/GaN - Heterostrukturen}.
-\newblock PhD thesis, Technische Universität Ilmenau, 2010.
-
-\bibitem{pohl}
-U.~W. Pohl, {\em Epitaxy of Semiconductors: Introduction to Physical
-  Principles}.
-\newblock Graduate Texts in Physics, Springer Berlin Heidelberg, 2013.
-
-\bibitem{ambacher2002}
-O.~Ambacher, J.~Majewski, C.~Miskys, M.~H. A.~Link, M.~Eickhoff, M.~Stutzmann,
-  F.~B. Matthias, V.~Fiorentini, V.~Tilak, B.~Schaff, and L.~Eastmann,
-  ``Pyroelectric properties of al(in)gan/gan hetero- and quantum well
-  structures,'' {\em Journal of Physics: Condensed Mater}, vol.~82:075208,
-  no.~14:3399, 2002.
-
-\bibitem{problem}
-J.~Takatsu, R.~Fuji, J.~Tatebayashi, D.~Timmerman, A.~Lesage, T.~Gregorkiewicz,
-  and Y.~Fujiwara, ``Growth and optical characteristics of tm-doped algan layer
-  grown by organometallic vapor phase epitaxy,'' {\em Journal of Applied
-  Physics}, vol.~123, no.~16, p.~161406, 2018.
-
-\bibitem{0268-1242-26-1-014036}
-M.~Kneissl, T.~Kolbe, C.~Chua, V.~Kueller, N.~Lobo, J.~Stellmach, A.~Knauer,
-  H.~Rodriguez, S.~Einfeldt, Z.~Yang, N.~M. Johnson, and M.~Weyers, ``Advances
-  in group iii-nitride-based deep uv light-emitting diode technology,'' {\em
-  Semiconductor Science and Technology}, vol.~26, no.~1, p.~014036, 2011.
 
 \bibitem{zeimeru}
 U.~Zeimer, V.~Kueller, A.~Knauer, A.~Mogilatenko, M.~Weyers, and M.~Kneissl,
@@ -60,94 +17,6 @@ A.~Mogilatenko, V.~Küller, A.~Knauer, J.~Jeschke, U.~Zeimer, M.~Weyers, and
   G.~Tränkle, ``Defect analysis in algan layers on aln templates obtained by
   epitaxial lateral overgrowth,'' {\em Journal of Crystal Growth}, vol.~402,
   pp.~222 -- 229, 2014.
-
-\bibitem{vkueller}
-V.~Küller, {\em Versetzungsreduzierte AlN-und AlGaN-Schichten als Basis für
-  UV LEDs}.
-\newblock PhD thesis, Technische Universität Berlin, 2014.
-
-\bibitem{IMURA2007257}
-M.~Imura, K.~Nakano, G.~Narita, N.~Fujimoto, N.~Okada, K.~Balakrishnan,
-  M.~Iwaya, S.~Kamiyama, H.~Amano, I.~Akasaki, T.~Noro, T.~Takagi, and
-  A.~Bandoh, ``Epitaxial lateral overgrowth of aln on trench-patterned aln
-  layers,'' {\em Journal of Crystal Growth}, vol.~298, pp.~257 -- 260, 2007.
-\newblock Thirteenth International Conference on Metal Organic Vapor Phase
-  Epitaxy (ICMOVPE XIII).
-
-\bibitem{schub}
-E.~F. Schubert, {\em Light Emitting Diodes, Second Edition}.
-\newblock Cambridge University Press, 2006.
-
-\bibitem{doi:10.1063/1.3100773}
-Q.~Dai, M.~F. Schubert, M.~H. Kim, J.~K. Kim, E.~F. Schubert, D.~D. Koleske,
-  M.~H. Crawford, S.~R. Lee, A.~J. Fischer, G.~Thaler, and M.~A. Banas,
-  ``Internal quantum efficiency and nonradiative recombination coefficient of
-  gainn/gan multiple quantum wells with different dislocation densities,'' {\em
-  Applied Physics Letters}, vol.~94, no.~11, p.~111109, 2009.
-
-\bibitem{doi:10.1063/1.4917540}
-Z.~Bryan, I.~Bryan, J.~Xie, S.~Mita, Z.~Sitar, and R.~Collazo, ``High internal
-  quantum efficiency in algan multiple quantum wells grown on bulk aln
-  substrates,'' {\em Applied Physics Letters}, vol.~106, no.~14, p.~142107,
-  2015.
-
-\bibitem{martingut}
-M.~Guttmann. Persönliche Kommunikation.
-
-\bibitem{doi:10.1063/1.117689}
-S.~Wei and A.~Zunger, ``Valence band splittings and band offsets of aln, gan,
-  and inn,'' {\em Applied Physics Letters}, vol.~69, no.~18, pp.~2719--2721,
-  1996.
-
-\bibitem{PhysRevB.87.235209}
-M.~Feneberg, M.~F. Romero, M.~R\"oppischer, C.~Cobet, N.~Esser, B.~Neuschl,
-  K.~Thonke, M.~Bickermann, and R.~Goldhahn, ``Anisotropic absorption and
-  emission of bulk $(1\overline{1}00)$ aln,'' {\em Phys. Rev. B}, vol.~87,
-  p.~235209, Jun 2013.
-
-\bibitem{PhysRevB.81.155202}
-R.~Ishii, A.~Kaneta, M.~Funato, Y.~Kawakami, and A.~A. Yamaguchi, ``All
-  deformation potentials in gan determined by reflectance spectroscopy under
-  uniaxial stress: Definite breakdown of the quasicubic approximation,'' {\em
-  Phys. Rev. B}, vol.~81, p.~155202, Apr 2010.
-
-\bibitem{doi:10.1063/1.3574025}
-Y.~Taniyasu and M.~Kasu, ``Origin of exciton emissions from an aln p-n junction
-  light-emitting diode,'' {\em Applied Physics Letters}, vol.~98, no.~13,
-  p.~131910, 2011.
-
-\bibitem{doi:10.1063/1.4932651}
-C.~Reich, M.~Guttmann, M.~Feneberg, T.~Wernicke, F.~Mehnke, C.~Kuhn, J.~Rass,
-  M.~Lapeyrade, S.~Einfeldt, A.~Knauer, V.~Kueller, M.~Weyers, R.~Goldhahn, and
-  M.~Kneissl, ``Strongly transverse-electric-polarized emission from deep
-  ultraviolet algan quantum well light emitting diodes,'' {\em Applied Physics
-  Letters}, vol.~107, no.~14, p.~142101, 2015.
-
-\bibitem{doi:10.1063/1.3675451}
-J.~E. Northrup, C.~L. Chua, Z.~Yang, T.~Wunderer, M.~Kneissl, N.~M. Johnson,
-  and T.~Kolbe, ``Effect of strain and barrier composition on the polarization
-  of light emission from algan/aln quantum wells,'' {\em Applied Physics
-  Letters}, vol.~100, no.~2, p.~021101, 2012.
-
-\bibitem{doi:10.1063/1.2410242}
-H.~Kawanishi, E.~Niikura, M.~Yamamoto, and S.~Takeda, ``Experimental energy
-  difference between heavy- or light-hole valence band and crystal-field
-  split-off-hole,'' {\em Applied Physics Letters}, vol.~89, no.~25, p.~251107,
-  2006.
-
-\bibitem{PhysRevB.84.035305}
-T.~K. Sharma, D.~Naveh, and E.~Towe, ``Strain-driven light-polarization
-  switching in deep ultraviolet nitride emitters,'' {\em Phys. Rev. B},
-  vol.~84, p.~035305, Jul 2011.
-
-\bibitem{creich}
-C.~Reich, {\em Photolumineszenzspektroskopie an (In)AlGaN-Heterostrukturen für
-  UV-Emitter}.
-\newblock PhD thesis, Technische Universität Berlin, 2011.
-
-\bibitem{0950-7671-25-12-304}
-J.~F. Archard and A.~M. Taylor, ``Improved glan-foucault prism,'' {\em Journal
-  of Scientific Instruments}, vol.~25, no.~12, p.~407, 1948.
 
 \bibitem{fmehnke}
 F.~Mehnke., {\em Design, Epitaxie und Charakterisierung AlGaN-basierter
