@@ -6,12 +6,12 @@
 \contentsline {section}{\numberline {2.2}Wurtzitstruktur}{10}
 \contentsline {section}{\numberline {2.3}Polarisationsfeld und QCSE in III/V Halbleitern}{11}
 \contentsline {section}{\numberline {2.4}Metallorganische Gasphasenepitaxie von AlGaN}{13}
-\contentsline {section}{\numberline {2.5}Substrat}{14}
+\contentsline {section}{\numberline {2.5}Substrat}{13}
 \contentsline {section}{\numberline {2.6}Defektreduktion durch ELO/AlN-Saphir}{15}
-\contentsline {section}{\numberline {2.7}Rekombinationsmechanismen}{16}
-\contentsline {section}{\numberline {2.8}Bestimmung der internen Quanteneffizienz}{19}
-\contentsline {section}{\numberline {2.9}Bestimmung der IQE bei Raumtemperatur durch Fitting}{20}
-\contentsline {section}{\numberline {2.10}Optische Polarisation und Valenzbandstuktur}{23}
+\contentsline {section}{\numberline {2.7}Rekombinationsmechanismen}{15}
+\contentsline {section}{\numberline {2.8}Bestimmung der internen Quanteneffizienz}{18}
+\contentsline {section}{\numberline {2.9}Bestimmung der IQE bei Raumtemperatur durch Fitting}{19}
+\contentsline {section}{\numberline {2.10}Optische Polarisation und Valenzbandstuktur}{22}
 \contentsline {chapter}{\numberline {3}Aufbau}{27}
 \contentsline {section}{\numberline {3.1}Photolumineszenzaufbau}{27}
 \contentsline {section}{\numberline {3.2}Messaufbau Lichtpolarisation}{29}
@@ -24,4 +24,4 @@
 \contentsline {subsection}{\numberline {4.3.1}Variation des Al-Gehalts in den QWs}{37}
 \contentsline {subsection}{\numberline {4.3.2}Variation der QW-Dicke}{39}
 \contentsline {section}{\numberline {4.4}Untersuchung optisch gepumpter Laserstrukturen auf unterschiedlichen Templates}{40}
-\contentsline {subsection}{\numberline {4.4.1}UVC-Laser Strukturen auf ELO ohne \IeC {\"U}bergitter}{42}
+\contentsline {subsection}{\numberline {4.4.1}UVC-Laser Strukturen auf ELO ohne \IeC {\"U}bergitter}{43}
