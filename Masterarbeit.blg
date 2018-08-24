@@ -1,7 +1,50 @@
-This is BibTeX, Version 0.99dThe top-level auxiliary file: Masterarbeit.aux
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Masterarbeit.aux
 The style file: ieeetr.bst
 Database file #1: Bibliographie.bib
 Warning--empty journal in zeimeru
 Warning--empty year in doi:10.1002/pssa.201800005
 Warning--empty year in doi:10.1002/pssa.201870032
+You've used 35 entries,
+            1876 wiz_defined-function locations,
+            676 strings with 10639 characters,
+and the built_in function-call counts, 10007 in all, are:
+= -- 920
+> -- 620
+< -- 0
++ -- 222
+- -- 187
+* -- 713
+:= -- 1494
+add.period$ -- 48
+call.type$ -- 35
+change.case$ -- 23
+chr.to.int$ -- 0
+cite$ -- 38
+duplicate$ -- 535
+empty$ -- 752
+format.name$ -- 187
+if$ -- 2414
+int.to.chr$ -- 0
+int.to.str$ -- 35
+missing$ -- 33
+newline$ -- 119
+num.names$ -- 35
+pop$ -- 89
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 427
+stack$ -- 0
+substring$ -- 348
+swap$ -- 276
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 3
+while$ -- 60
+width$ -- 37
+write$ -- 356
 (There were 3 warnings)
