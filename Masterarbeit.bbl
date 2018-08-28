@@ -1,7 +1,7 @@
 \begin{thebibliography}{10}
 
 \bibitem{kneissl}
-J.~R. M.~Kneissl, {\em III-Nitride Ultraviolet Emitters}.
+M.~Kneissl and J.~Rass, {\em III-Nitride Ultraviolet Emitters}.
 \newblock Springer Series in Materials Science, Springer International
   Publishing, 2016.
 
@@ -99,6 +99,13 @@ Z.~Bryan, I.~Bryan, J.~Xie, S.~Mita, Z.~Sitar, and R.~Collazo, ``High internal
 \bibitem{martingut}
 M.~Guttmann. Persönliche Kommunikation.
 
+\bibitem{doi:10.1063/1.4932651}
+C.~Reich, M.~Guttmann, M.~Feneberg, T.~Wernicke, F.~Mehnke, C.~Kuhn, J.~Rass,
+  M.~Lapeyrade, S.~Einfeldt, A.~Knauer, V.~Kueller, M.~Weyers, R.~Goldhahn, and
+  M.~Kneissl, ``Strongly transverse-electric-polarized emission from deep
+  ultraviolet algan quantum well light emitting diodes,'' {\em Applied Physics
+  Letters}, vol.~107, no.~14, p.~142101, 2015.
+
 \bibitem{doi:10.1063/1.117689}
 S.~Wei and A.~Zunger, ``Valence band splittings and band offsets of aln, gan,
   and inn,'' {\em Applied Physics Letters}, vol.~69, no.~18, pp.~2719--2721,
@@ -120,13 +127,6 @@ R.~Ishii, A.~Kaneta, M.~Funato, Y.~Kawakami, and A.~A. Yamaguchi, ``All
 Y.~Taniyasu and M.~Kasu, ``Origin of exciton emissions from an aln p-n junction
   light-emitting diode,'' {\em Applied Physics Letters}, vol.~98, no.~13,
   p.~131910, 2011.
-
-\bibitem{doi:10.1063/1.4932651}
-C.~Reich, M.~Guttmann, M.~Feneberg, T.~Wernicke, F.~Mehnke, C.~Kuhn, J.~Rass,
-  M.~Lapeyrade, S.~Einfeldt, A.~Knauer, V.~Kueller, M.~Weyers, R.~Goldhahn, and
-  M.~Kneissl, ``Strongly transverse-electric-polarized emission from deep
-  ultraviolet algan quantum well light emitting diodes,'' {\em Applied Physics
-  Letters}, vol.~107, no.~14, p.~142101, 2015.
 
 \bibitem{doi:10.1063/1.3675451}
 J.~E. Northrup, C.~L. Chua, Z.~Yang, T.~Wunderer, M.~Kneissl, N.~M. Johnson,

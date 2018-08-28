@@ -20,10 +20,12 @@
 \contentsline {chapter}{\numberline {4}Ergebnisse}{35}
 \contentsline {section}{\numberline {4.1}Einfluss der Auger-Rekombination auf die IQE}{35}
 \contentsline {section}{\numberline {4.2}Einfluss der Siliziumdotierung auf die IQE}{38}
-\contentsline {section}{\numberline {4.3}Untersuchung der optischen Polarisation an AlGaN MQWs mit Photolumineszenzspektroskopie}{39}
+\contentsline {section}{\numberline {4.3}Untersuchung der optischen Polarisation an AlGaN MQWs mit Photolumineszenzspektroskopie}{40}
 \contentsline {subsection}{\numberline {4.3.1}Variation des Al-Gehalts in den QWs}{40}
-\contentsline {subsection}{\numberline {4.3.2}Variation der QW-Dicke}{41}
-\contentsline {section}{\numberline {4.4}Untersuchung optisch gepumpter Laserstrukturen auf unterschiedlichen Templates}{42}
+\contentsline {subsection}{\numberline {4.3.2}Variation der QW-Dicke}{42}
+\contentsline {section}{\numberline {4.4}Untersuchung optisch gepumpter Laserstrukturen auf unterschiedlichen Templates}{43}
 \contentsline {subsection}{\numberline {4.4.1}UVC-Laser Strukturen auf ELO ohne \IeC {\"U}bergitter}{45}
 \contentsline {subsection}{\numberline {4.4.2}UVC-Laser Strukturen auf ELO mit \IeC {\"U}bergitter}{51}
-\contentsline {subsection}{\numberline {4.4.3}Zusammenfassung}{56}
+\contentsline {subsection}{\numberline {4.4.3}Zusammenfassung}{57}
+\contentsline {section}{\numberline {4.5}Untersuchung des MQW-Designs von AlGaN-Heterostrukturen}{58}
+\contentsline {subsection}{\numberline {4.5.1}Zusammenfassung}{63}
