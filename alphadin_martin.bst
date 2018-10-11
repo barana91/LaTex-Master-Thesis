@@ -364,8 +364,8 @@ FUNCTION {emphasize}
 FUNCTION { capitalize }
  { duplicate$ empty$
     { pop$ "" }
-    %{ "\textsc{" swap$ * "}" * } %, geändert Bretschneider, nimmt zuviel Platz weg
-	{ "{" swap$ * "}" * } %, geändert Bretschneider, nimmt zuviel Platz weg
+    %{ "\textsc{" swap$ * "}" * } %, geï¿½ndert Bretschneider, nimmt zuviel Platz weg
+	{ "{" swap$ * "}" * } %, geï¿½ndert Bretschneider, nimmt zuviel Platz weg
   if$
 }
 
@@ -406,14 +406,14 @@ FUNCTION {format.names}
       t  v  *  fkt  *  't :=
       nameptr #1 >
          { namesleft #1 >
-             { "; " * t * } %% Leerzeichen vor Semikolon gelöscht, martin
+             { "; " * t * } %% Leerzeichen vor Semikolon gelï¿½scht, martin
              { numnames #2 >
                   { "" * } %% martin
                   'skip$
                if$
                t "\textsc{others}" = t "\textsc{others} (Hrsg.)" = or
                   { ua.etal * }
-                  { "; " * t * } %% Leerzeichen vor Semikolon gelöscht
+                  { "; " * t * } %% Leerzeichen vor Semikolon gelï¿½scht
                if$
                }
             if$  %% Ende der namesleft-Pruefung
