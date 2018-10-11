@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2017.2.7)  11 OCT 2018 11:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2017.2.7)  11 OCT 2018 11:46
 entering extended mode
 **./Masterarbeit.tex
 (Masterarbeit.tex
@@ -793,18 +793,18 @@ LaTeX Warning: Label `fig:dotiertSpektrum' multiply defined.
 )
 \openout1 = `Masterarbeit.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 56.
+LaTeX Font Info:    ... okay on input line 56.
  (C:\Users\studi\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count147
@@ -898,15 +898,15 @@ Package caption Info: End \AtBeginDocument code.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 58.
-LaTeX Info: Redefining \celsius on input line 58.
-Package gensymb Info: Faking symbols for \degree and \celsius on input line 58.
+LaTeX Info: Redefining \selectfont on input line 56.
+LaTeX Info: Redefining \celsius on input line 56.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 56.
 
 
 Package gensymb Warning: Not defining \perthousand.
 
-LaTeX Info: Redefining \ohm on input line 58.
-Package gensymb Info: Using \Omega for \ohm on input line 58.
+LaTeX Info: Redefining \ohm on input line 56.
+Package gensymb Info: Using \Omega for \ohm on input line 56.
 
 Package gensymb Warning: Not defining \micro.
 
@@ -922,20 +922,27 @@ File: Bilder/TU-Berlin-Logo.pdf Graphic file (type pdf)
  <use Bilder/TU-Berlin-Logo.pdf>
 Package pdftex.def Info: Bilder/TU-Berlin-Logo.pdf used on input line 4.
 (pdftex.def)             Requested size: 83.64944pt x 61.342pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
  [1
 
 
-{C:/Users/studi/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Bilder/TU-Berlin-Logo.pdf>]
+{C:/Users/studi/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./Bilder/TU-Berlin-Logo.pdf>]) (Kapitel/Eid.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--16
+
+ []
+
+)
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 24.64995pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[2]) (Masterarbeit.toc [3
+[2] (Masterarbeit.toc [3
 
 ])
 \tf@toc=\write3
@@ -1703,8 +1710,8 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 9182 strings out of 493333
- 139250 string characters out of 3139195
+ 9185 strings out of 493333
+ 139283 string characters out of 3139195
  247112 words of memory out of 3000000
  12348 multiletter control sequences out of 15000+200000
  23857 words of font info for 57 fonts, out of 3000000 for 9000
@@ -1726,9 +1733,9 @@ ype1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
 /MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.p
 fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
 /amsfonts/cm/cmsy8.pfb>
-Output written on Masterarbeit.pdf (69 pages, 13582131 bytes).
+Output written on Masterarbeit.pdf (69 pages, 13486174 bytes).
 PDF statistics:
- 1310 PDF objects out of 1440 (max. 8388607)
+ 1309 PDF objects out of 1440 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  436 words of extra memory for PDF output out of 10000 (max. 10000000)
 
