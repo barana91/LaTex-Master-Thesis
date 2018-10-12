@@ -115,7 +115,70 @@ Die Ergebnisse der IQE bei Raumtemperatur für die Proben ohne und mit dotierten
 \ref{fig:undotiertIQE} und \ref{fig:dotiertIQE} zu sehen. Für beide Probenserien zeigt sich, dass aufgrund des QCSE die IQE für weite QWs 
 ($3.0 -4.0  nm$) geringer ausfällt und für besonders geringe Dicken ($0.5\thinspace nm$), wahrscheinlich durch den schlechteren Ladungsträgereinschluss, ebenfalls. Die höchste IQE wird für QW-Dicken von $1.0 \thinspace nm- 2.2 \thinspace nm$ gemessen. Die Proben ohne dotierte Barrieren haben eine IQE ca. $0,145$ bei höchster Anregungsleistungsdichte für die Proben mit QW-Dicken von $1.0 \thinspace nm$ und $2.0\thinspace nm$. 
 Die Proben mit dotierten Barrieren haben eine IQE von ca. $0,121$ bei höchster Anregungsleistungsdichte für die Proben mit QW-Dicken von $1.0 \thinspace nm$ und $2.2\thinspace nm$. Anhand der Ergebnisse für die Proben mit dotierten Barrieren ist zu erkennen, dass die Si-dotierung einen deutlichen Einfluss auf den Verlauf der IQE hat, so ist die Ordinate der IQEs für diese Proben deutlich höher, wie Abbildung \ref{fig:dotiertIQE} zeigt. Die Dotierung führt sichtbar zu höheren IQEs bei geringen Anregungsleistungsdichten die Steigung mit steigender Anreungsleistungsdichte ist aber im Vergleich geringer, sodass die IQEs für beide Serien ungefähr den selben Wert einnehmen.
+Nun soll kurz auf den Ursprung der höheren Ordinate eingegangen werden.
 %
+\begin{figure}[H]
+    \centering
+    \begin{minipage}[t]{0.49\linewidth}
+        \centering
+        \includegraphics[width=\linewidth]{Bilder/IQEohneDotierungVerschAParams.pdf}
+        \caption{Die Grafik zeigt}
+        \label{fig:iqenorm}
+    \end{minipage}% <- sonst wird hier ein Leerzeichen eingefügt
+    \hfill
+    \begin{minipage}[t]{0.49\linewidth}
+        \centering
+        \includegraphics[width=\linewidth]{Bilder/IQEmitDotierungVerschAParams.pdf}
+        \caption{Die Grafik zeigt  }
+        \label{fig:iqedot}
+    \end{minipage}
+\end{figure}
+\vspace{0.1cm}
+\noindent
+Das ABC-Modell stellt nur eine Vereinfachung dar und berücksichtigt nicht alle vorkommenden Effekte wie beispielsweise Lokalisierung, Screening durch Ladungsträger und Dotierung. 
+Der Effekt der Dotierung spielt dabei eine besonders wichtige Rolle, da eine Silizumdotierung üblich in UV-LEDs ist und einen großen Einfluss hat.
+Nach \cite{schub} kann gezeigt werden, dass die Ratengleichungen, mit der Annahme einer Dotierung für die 
+die Radiative Rekombination sich ändert und soll nun hergeleitet werden:
+\\newline
+Jeder dotierte oder undotiere Halbleiter hat zwei Arten von Ladungsträgern, Elektronen und Löcher.
+Im Gleichgewicht, bedeutet ohne externe Anregung durch Absorption von Licht oder Injektion von Elektronen, ist das Produkt von Elektronen- und Lochkonzentration eine konstante Größe.
+\begin{equation}
+    n_0 \cdot p_0 = n_i^2
+    \label{eq:constant}
+\end{equation}
+Hierbei sind $n_0$ und $p_0$ die Elektron- und Lochkonzentration unter Gleichgewichtsbedingung und $n_{i}$ damit die intrinsische Ladungsträgerkonzentration.
+Werden zusätzlich die durch Anregung erzeugten Ladungsträger betrachtet, so ist die Gesamtladungsträgerkonzentration gegeben als Summe der Anregungs- und Gleichgewichtsladungsträger. 
+\begin{equation}
+    n_{ges} = n_0 + n \medspace \text{und} \medspace  p_{ges} = p_0 +  n 
+\end{equation}
+Hierbei sind $ n$ und $p$ die Anregungsladungsträger. 
+Die Anzahl der stattfindenden Rekombination zwischen Elektronen und Löchern sind direkt proportional zur Elektronen-und Ladungsträgerkonzentration, so gilt, $R \propto n \cdot p $. Mit einer Proportionalitätkonstante, wird die Rekombinationrate pro Zeit und Volumen definiert als
+\begin{equation}
+    R = - \frac{dn_{ges}}{dt} = - \frac{dp_{ges}}{dt} = B \cdot n_{ges} \cdot p_{ges}
+\end{equation}
+Weil Elektronen und Löcher bei Anregung paarweise erzeugt werden und verschwinden (durch Rekombination), gilt
+\begin{equation}
+    \label{eq:gleich}
+    n(t) =  p(t)
+\end{equation}
+Die radiative Rekombinationrate wird dann mit $p_{0} = 0$ und Gleichung [\ref{eq:gleich}] zu
+\begin{align}
+\begin{split}
+    R_{rad} &= B \cdot (n_0 + n)  \cdot (p_0 + p) ,
+    \\
+    R_{rad} &= B \cdot (n_0 + n) \cdot (n) ,
+    \\
+    R_{rad} &= B \cdot n^2 \cdot n \cdot n_0
+\end{split}
+\end{align}
+Dabei beschreibt $n_{0}$ die Ladungsträgerkonzentration durch die Silizumdotierung. 
+Somit wird die IQE zu:
+\begin{equation}
+    IQE = \frac{B \cdot n^2 + B \cdot n \cdot n_{0}}{A \cdot n + B \cdot n^2  + B \cdot n \cdot n_{0}+ C \cdot n^3} 
+    \label{eq:dopediqe}
+\end{equation}
+Und hat einen enormen Einfluss auf die Ordinate, wie in Abb. \ref{fig:iqedot} zu sehen ist.
+
 \begin{figure}[H]
   \centering
   \begin{minipage}[t]{0.49\textwidth}
