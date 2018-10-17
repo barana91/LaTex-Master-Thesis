@@ -11,26 +11,28 @@
 \contentsline {section}{\numberline {2.7}Rekombinationsmechanismen}{15}{section.2.7}
 \contentsline {section}{\numberline {2.8}Bestimmung der internen Quanteneffizienz}{19}{section.2.8}
 \contentsline {section}{\numberline {2.9}Bestimmung der IQE bei Raumtemperatur durch Fitting}{20}{section.2.9}
-\contentsline {chapter}{\numberline {3}Optische Polarisation und Valenzbandstuktur}{23}{chapter.3}
-\contentsline {chapter}{\numberline {4}Aufbau}{29}{chapter.4}
-\contentsline {section}{\numberline {4.1}Photolumineszenzaufbau}{29}{section.4.1}
-\contentsline {section}{\numberline {4.2}Messaufbau Lichtpolarisation}{31}{section.4.2}
-\contentsline {section}{\numberline {4.3}Bestimmung der Degradation des UV Quarzglases}{32}{section.4.3}
-\contentsline {section}{\numberline {4.4}Erweiterung der Filterkombinationen}{34}{section.4.4}
-\contentsline {chapter}{\numberline {5}Einfluss der Auger-Rekombination auf die IQE}{37}{chapter.5}
-\contentsline {chapter}{\numberline {6}Untersuchung des MQW-Designs von AlGaN-Heterostrukturen}{41}{chapter.6}
-\contentsline {section}{\numberline {6.1}Einleitung}{41}{section.6.1}
-\contentsline {section}{\numberline {6.2}Messergebnisse}{42}{section.6.2}
-\contentsline {section}{\numberline {6.3}Einfluss der Silizium-Dotierung}{45}{section.6.3}
-\contentsline {section}{\numberline {6.4}Vergleich mit Simulationen}{48}{section.6.4}
-\contentsline {section}{\numberline {6.5}Zusammenfassung}{48}{section.6.5}
-\contentsline {chapter}{\numberline {7}Untersuchung optisch gepumpter Laserstrukturen auf unterschiedlichen Templates}{51}{chapter.7}
-\contentsline {section}{\numberline {7.1}Einleitung}{51}{section.7.1}
-\contentsline {section}{\numberline {7.2}UVC-Laser Strukturen auf ELO ohne \IeC {\"U}bergitter}{54}{section.7.2}
-\contentsline {section}{\numberline {7.3}UVC-Laser Strukturen auf ELO mit \IeC {\"U}bergitter}{60}{section.7.3}
-\contentsline {section}{\numberline {7.4}Zusammenfassung}{66}{section.7.4}
-\contentsline {chapter}{\numberline {8}Untersuchung der optischen Polarisation an AlGaN MQWs mit Photolumineszenzspektroskopie}{69}{chapter.8}
-\contentsline {section}{\numberline {8.1}Einleitung}{69}{section.8.1}
-\contentsline {section}{\numberline {8.2}Variation des Al-Gehalts in den QWs}{69}{section.8.2}
-\contentsline {section}{\numberline {8.3}Variation der QW-Dicke}{71}{section.8.3}
-\contentsline {section}{\numberline {8.4}Bestimmung der IQE bei Raumtemperatur}{71}{section.8.4}
+\contentsline {section}{\numberline {2.10}Optische Polarisation und Valenzbandstuktur}{22}{section.2.10}
+\contentsline {chapter}{\numberline {3}Aufbau}{27}{chapter.3}
+\contentsline {section}{\numberline {3.1}Photolumineszenzaufbau}{27}{section.3.1}
+\contentsline {section}{\numberline {3.2}Messaufbau Lichtpolarisation}{29}{section.3.2}
+\contentsline {section}{\numberline {3.3}Bestimmung der Degradation des UV Quarzglases}{30}{section.3.3}
+\contentsline {section}{\numberline {3.4}Erweiterung der Filterkombinationen}{32}{section.3.4}
+\contentsline {chapter}{\numberline {4}Einfluss der Auger-Rekombination auf die IQE}{35}{chapter.4}
+\contentsline {chapter}{\numberline {5}Untersuchung des MQW-Designs von AlGaN-Heterostrukturen}{39}{chapter.5}
+\contentsline {section}{\numberline {5.1}Einleitung}{39}{section.5.1}
+\contentsline {section}{\numberline {5.2}Messergebnisse}{40}{section.5.2}
+\contentsline {section}{\numberline {5.3}Einfluss der Silizium-Dotierung}{43}{section.5.3}
+\contentsline {section}{\numberline {5.4}Vergleich mit Simulationen}{46}{section.5.4}
+\contentsline {section}{\numberline {5.5}Zusammenfassung}{46}{section.5.5}
+\contentsline {chapter}{\numberline {6}Untersuchung optisch gepumpter Laserstrukturen auf unterschiedlichen Templates}{49}{chapter.6}
+\contentsline {section}{\numberline {6.1}Einleitung}{49}{section.6.1}
+\contentsline {section}{\numberline {6.2}UVC-Laser Strukturen auf ELO ohne \IeC {\"U}bergitter}{52}{section.6.2}
+\contentsline {section}{\numberline {6.3}UVC-Laser Strukturen auf ELO mit \IeC {\"U}bergitter}{58}{section.6.3}
+\contentsline {section}{\numberline {6.4}Zusammenfassung}{64}{section.6.4}
+\contentsline {chapter}{\numberline {7}Untersuchung der optischen Polarisation an AlGaN MQWs mit Photolumineszenzspektroskopie}{67}{chapter.7}
+\contentsline {section}{\numberline {7.1}Einleitung}{67}{section.7.1}
+\contentsline {section}{\numberline {7.2}Variation des Al-Gehalts in den QWs}{67}{section.7.2}
+\contentsline {section}{\numberline {7.3}Variation der QW-Dicke}{69}{section.7.3}
+\contentsline {chapter}{\numberline {8}Bestimmung der IQE bei Raumtemperatur}{71}{chapter.8}
+\contentsline {chapter}{\numberline {9}Bestimmung der IQE bei Raumtemperatur}{73}{chapter.9}
+\contentsline {chapter}{\numberline {10}Zusammenfassung}{75}{chapter.10}

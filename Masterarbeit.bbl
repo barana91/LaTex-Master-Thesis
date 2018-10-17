@@ -1,5 +1,11 @@
 \begin{thebibliography}{10}
 
+\bibitem{nobelp}
+``Presse veröffentlichlung der königlich schwedische akademie der
+  wissenschaften.''
+  \url{https://www.nobelprize.org/prizes/physics/2014/press-release/}.
+\newblock Accessed: 2018-10-08.
+
 \bibitem{kneissl}
 M.~Kneissl and J.~Rass, {\em III-Nitride Ultraviolet Emitters}.
 \newblock Springer Series in Materials Science, Springer International
@@ -8,6 +14,19 @@ M.~Kneissl and J.~Rass, {\em III-Nitride Ultraviolet Emitters}.
 \bibitem{risk}
 W.~Risk, T.~Gosnell, and A.~Nurmikko, {\em Compact Blue-Green Lasers}.
 \newblock Cambridge studies in modern optics, Cambridge University Press, 2003.
+
+\bibitem{Shuji1999CandelaclassHI}
+Shuji, Nakamura, Takashi, and Mukai, ``Candela-class high-brightness ingan /
+  aigan double-heterostructure bluelight-emitting,'' 1999.
+
+\bibitem{10007979421}
+I.~Akasaki, ``High efficiency blue led utilizing gan film with aln buffer layer
+  grown by movpe,'' {\em Inst. Phys. Conf. Ser.}, vol.~91, pp.~633--636, 1988.
+
+\bibitem{Vilhunen2009}
+S.~Vilhunen, H.~S{\"a}rkk{\"a}, and M.~Sillanp{\"a}{\"a}, ``Ultraviolet
+  light-emitting diodes in water disinfection,'' {\em Environmental Science and
+  Pollution Research}, vol.~16, pp.~439--442, Jun 2009.
 
 \bibitem{0268-1242-26-1-014036}
 M.~Kneissl, T.~Kolbe, C.~Chua, V.~Kueller, N.~Lobo, J.~Stellmach, A.~Knauer,
@@ -55,6 +74,12 @@ O.~Ambacher, J.~Majewski, C.~Miskys, M.~H. A.~Link, M.~Eickhoff, M.~Stutzmann,
   structures,'' {\em Journal of Physics: Condensed Mater}, vol.~82:075208,
   no.~14:3399, 2002.
 
+\bibitem{PhysRevLett.53.2173}
+D.~A.~B. Miller, D.~S. Chemla, T.~C. Damen, A.~C. Gossard, W.~Wiegmann, T.~H.
+  Wood, and C.~A. Burrus, ``Band-edge electroabsorption in quantum well
+  structures: The quantum-confined stark effect,'' {\em Phys. Rev. Lett.},
+  vol.~53, pp.~2173--2176, Nov 1984.
+
 \bibitem{problem}
 J.~Takatsu, R.~Fuji, J.~Tatebayashi, D.~Timmerman, A.~Lesage, T.~Gregorkiewicz,
   and Y.~Fujiwara, ``Growth and optical characteristics of tm-doped algan layer
@@ -85,6 +110,50 @@ M.~Imura, K.~Nakano, G.~Narita, N.~Fujimoto, N.~Okada, K.~Balakrishnan,
 \newblock Thirteenth International Conference on Metal Organic Vapor Phase
   Epitaxy (ICMOVPE XIII).
 
+\bibitem{1882-0786-4-9-092101}
+T.~Wunderer, C.~L. Chua, Z.~Yang, J.~E. Northrup, N.~M. Johnson, G.~A. Garrett,
+  H.~Shen, and M.~Wraback, ``Pseudomorphically grown ultraviolet c photopumped
+  lasers on bulk aln substrates,'' {\em Applied Physics Express}, vol.~4,
+  no.~9, p.~092101, 2011.
+
+\bibitem{doi:10.1002/pssc.201100424}
+T.~Wunderer, C.~L. Chua, J.~E. Northrup, Z.~Yang, N.~M. Johnson, M.~Kneissl,
+  G.~A. Garrett, H.~Shen, M.~Wraback, B.~Moody, H.~S. Craft, R.~Schlesser,
+  R.~F. Dalmau, and Z.~Sitar, ``Optically pumped uv lasers grown on bulk aln
+  substrates,'' {\em physica status solidi c}, vol.~9, no.~3‐4, pp.~822--825.
+
+\bibitem{1882-0786-8-2-022104}
+J.~Yun, J.-I. Shim, and H.~Hirayama, ``Analysis of efficiency droop in 280-nm
+  algan multiple-quantum-well light-emitting diodes based on carrier rate
+  equation,'' {\em Applied Physics Express}, vol.~8, no.~2, p.~022104, 2015.
+
+\bibitem{1882-0786-4-5-052101}
+K.~Ban, J.~ichi Yamamoto, K.~Takeda, K.~Ide, M.~Iwaya, T.~Takeuchi,
+  S.~Kamiyama, I.~Akasaki, and H.~Amano, ``Internal quantum efficiency of
+  whole-composition-range algan multiquantum wells,'' {\em Applied Physics
+  Express}, vol.~4, no.~5, p.~052101, 2011.
+
+\bibitem{8b1c5cf85d5a45e0ae9acca7b03dc349}
+J.~Hader, J.~Moloney, B.~Pasenow, S.~Koch, M.~Sabathil, N.~Linder, and
+  S.~Lutgen, ``On the importance of radiative and auger losses in gan-based
+  quantum wells,'' {\em Applied Physics Letters}, vol.~92, no.~26, 2008.
+
+\bibitem{doi:10.1063/1.2785135}
+Y.~C. Shen, G.~O. Mueller, S.~Watanabe, N.~F. Gardner, A.~Munkholm, and M.~R.
+  Krames, ``Auger recombination in ingan measured by photoluminescence,'' {\em
+  Applied Physics Letters}, vol.~91, no.~14, p.~141101, 2007.
+
+\bibitem{doi:10.1002/pssc.200880950}
+A.~Laubsch, M.~Sabathil, W.~Bergbauer, M.~Strassburg, H.~Lugauer, M.~Peter,
+  S.~Lutgen, N.~Linder, K.~Streubel, J.~Hader, J.~V. Moloney, B.~Pasenow, and
+  S.~W. Koch, ``On the origin of iqe-‘droop’ in ingan leds,'' {\em physica
+  status solidi c}, vol.~6, no.~S2, pp.~S913--S916.
+
+\bibitem{doi:10.1063/1.3570656}
+E.~Kioupakis, P.~Rinke, K.~T. Delaney, and C.~G. Van~de Walle, ``Indirect auger
+  recombination as a cause of efficiency droop in nitride light-emitting
+  diodes,'' {\em Applied Physics Letters}, vol.~98, no.~16, p.~161107, 2011.
+
 \bibitem{schub}
 E.~F. Schubert, {\em Light Emitting Diodes, Second Edition}.
 \newblock Cambridge University Press, 2006.
@@ -102,15 +171,15 @@ Z.~Bryan, I.~Bryan, J.~Xie, S.~Mita, Z.~Sitar, and R.~Collazo, ``High internal
   substrates,'' {\em Applied Physics Letters}, vol.~106, no.~14, p.~142107,
   2015.
 
-\bibitem{martingut}
-M.~Guttmann. Persönliche Kommunikation.
-
 \bibitem{doi:10.1063/1.4932651}
 C.~Reich, M.~Guttmann, M.~Feneberg, T.~Wernicke, F.~Mehnke, C.~Kuhn, J.~Rass,
   M.~Lapeyrade, S.~Einfeldt, A.~Knauer, V.~Kueller, M.~Weyers, R.~Goldhahn, and
   M.~Kneissl, ``Strongly transverse-electric-polarized emission from deep
   ultraviolet algan quantum well light emitting diodes,'' {\em Applied Physics
   Letters}, vol.~107, no.~14, p.~142101, 2015.
+
+\bibitem{martingut}
+M.~Guttmann. Persönliche Kommunikation.
 
 \bibitem{doi:10.1063/1.117689}
 S.~Wei and A.~Zunger, ``Valence band splittings and band offsets of aln, gan,
