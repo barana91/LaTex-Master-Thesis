@@ -42,9 +42,9 @@ Diese kristallisieren, wie in Abbildung \ref{fig:wurtz} zu sehen, bevorzugt in d
 %
 \begin{align}
 \begin{split}
-    a_{Al_{x}Ga{1-x}N} &= a_{AlN} \cdot x + A_{GaN} \cdot (1-x)  ,
+    a_{Al_{x}Ga{1-x}N} &= a_{AlN} \cdot x + a_{GaN} \cdot (1-x)  ,
     \\
-    c_{Al_{x}Ga{1-x}N} &= c_{AlN} \cdot x + A_{GaN} \cdot (1-x) 
+    c_{Al_{x}Ga{1-x}N} &= c_{AlN} \cdot x + c_{GaN} \cdot (1-x) 
 \end{split}
 \end{align}
 %
@@ -53,11 +53,11 @@ Die Tabelle \ref{table:tab1} zeigt die typischen Gitterkonstanten.
 \centering
 \begin{tabular}{|c|c|c|c|}
 \hline
-\multicolumn{1}{|l|}{Gitterkonstante} & AlN & GaN & Saphir \\ \hline \hline
+\multicolumn{1}{|l|}{Gitterkonstante} & AlN[\AA] & GaN[\AA] & Saphir[\AA] \\ \hline \hline
 a & 3,112 & 3,192 & 4,758 \\ \hline
 c & 4,980 & 5,196 & 12,99 \\ \hline
 \end{tabular}
-\caption{Übersicht der Gitterkonstanten der binären Halbleiter AlN, GaN und $Al_{2}O_{3}$ (Saphir). ~\cite{pohl} }
+\caption{Übersicht der Gitterkonstanten der binären Halbleiter AlN, GaN und $Al_{2}O_{3}$ (Saphir) \cite{pohl}. }
 \label{table:tab1}
 \end{figure}
 
@@ -76,12 +76,12 @@ Dipolmomente im AlGaN sind die unterschiedlichen Elektronegativitäten zwischen 
         \label{fig:qcse}
 \end{figure}
 \noindent
-Die Ursache für die piezoelektrische Polarisation sind die Verspannungen zwischen den in (0001)-Richtung gewachsenen Schichten, welche durch die unterschiedlichen thermischen Ausdehnungskoeffizienten und die Gitterfehlanpassung beim pseudomorphen Wachstum entstehen. Sie wird berechnet nach
+Die Ursache für die piezoelektrische Polarisation sind die Verzerrungen zwischen den in (0001)-Richtung gewachsenen Schichten, welche durch die unterschiedlichen thermischen Ausdehnungskoeffizienten und die Gitterfehlanpassung beim pseudomorphen Wachstum entstehen. Sie wird berechnet nach
 %
 \begin{equation}
-    \vec{P}^{pz} = e \cdot \epsilon
+    \vec{P}^{pz} = \vec{e} \cdot \epsilon
 \end{equation}
 %
 mit Dehnung $\epsilon$ und dem piezolektrischen Tensor $\vec{e}$ (Tensor dritter Stufe).
 \newline
-In Heterostrukturen führt der Wechsel der Gesamtpolarisation $\vec{P}^{gesamt} = \vec{P}^{pz} + \vec{P}^{sp}$ zwischen den einzelnen Schichten zur Ansammlung von Ladungsträgern an den Grenzflächen. Dies ist insbesondere für die Effizienz von Leucht-und Laserdioden von Nachteil. Denn in diesen erzeugen die induzierten Grenzflächenladungen ein elektrisches Feld, das zur einer Bandverbiegung führt (siehe Abb. \ref{fig:qcse}). Mit dem Einfluss der Polarisation sammeln sich die Elektronen und Löcher im Quantenfilm somit auf gegenüberliegenden Seiten. Dies führt dazu, dass der räumliche Überlapp der Wellenfunktionen von Elektronen und Löchern abnimmt. Durch das verringerte Überlappintegral der Wellenfunktionen sinkt nach Fermis Goldener Regel auch die strahlende Rekombinationsrate. Dieser Effekt wird als "Quantum Confined Stark Effekt" (QCSE) \cite{PhysRevLett.53.2173} bezeichnet. Des Weiteren sinkt die effektive Bandlücke und ist im Spektrum durch eine Rotverschiebung der Emission zu erkennen. Bei hohen Ladungsträgerdichten im Quantenfilm kommt es zur Abschirmung (engl. screening) der Grenzflächenladungen, welche die Auswirkungen des Effektes abschwächen.
+In Heterostrukturen führt der Wechsel der Gesamtpolarisation $\vec{P}^{gesamt} = \vec{P}^{pz} + \vec{P}^{sp}$ zwischen den einzelnen Schichten zur Ansammlung von Ladungsträgern an den Grenzflächen. Dies ist insbesondere für die Effizienz von Leucht-und Laserdioden von Nachteil. Denn in diesen erzeugen die induzierten Grenzflächenladungen ein elektrisches Feld, das zu einer Bandverbiegung führt (siehe Abb. \ref{fig:qcse}). Mit dem Einfluss der Polarisation sammeln sich die Elektronen und Löcher im Quantenfilm somit auf gegenüberliegenden Seiten. Dies führt dazu, dass der räumliche Überlapp der Wellenfunktionen von Elektronen und Löchern abnimmt. Durch das verringerte Überlappintegral der Wellenfunktionen sinkt nach Fermis Goldener Regel auch die strahlende Rekombinationsrate. Des Weiteren sinkt die effektive Bandlücke und ist im Spektrum durch eine Rotverschiebung der Emission zu erkennen. Dieser Effekt wird als "Quantum Confined Stark Effekt" (QCSE) bezeichnet. Bei hohen Ladungsträgerdichten im Quantenfilm kommt es zur Abschirmung (engl. screening) der Grenzflächenladungen, welche die Auswirkungen des QCSE abschwächen.
