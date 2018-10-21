@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2017.2.7)  17 OCT 2018 13:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2017.2.7)  21 OCT 2018 13:29
 entering extended mode
 **./Masterarbeit.tex
 (Masterarbeit.tex
@@ -1027,7 +1027,12 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[2] (Masterarbeit.toc [3
+[2] (Masterarbeit.toc
+Overfull \hbox (24.11171pt too wide) in paragraph at lines 21--21
+ [] [][]\T1/cmr/bx/n/12 Untersuchung des MQW-Designs von AlGaN-UVC-Heterostrukturen[] []  
+ []
+
+[3
 
 ]
 Overfull \hbox (3.91806pt too wide) in paragraph at lines 27--27
@@ -1338,8 +1343,8 @@ File: Bilder/MQWdickenSerie/dotiert.png Graphic file (type png)
 Package pdftex.def Info: Bilder/MQWdickenSerie/dotiert.png used on input line 21.
 (pdftex.def)             Requested size: 204.9466pt x 101.55693pt.
 
-Overfull \hbox (23.62132pt too wide) in paragraph at lines 26--33
-\T1/cmr/m/n/12 cken mit do-tier-ter-ten und un-do-tier-ter-ten Bar-rie-ren. Mit Hil-fe der UV-Photolumineszenz
+Overfull \hbox (14.48466pt too wide) in paragraph at lines 26--33
+\T1/cmr/m/n/12 cken mit do-tieter-ten und un-do-tier-te-ten Bar-rie-ren. Mit Hil-fe der UV-Photolumineszenz
  []
 
 [39 <./Bilder/MQWdickenSerie/undotiert.png> <./Bilder/MQWdickenSerie/dotiert.png>]
@@ -1824,124 +1829,63 @@ pdfTeX warning: pdflatex.exe (file ./Bilder/polarisationDickenvariation.pdf): PD
 up included in a single page
 >]
 Kapitel 8.
-) (Kapitel/RaumtempMethode.tex [71
+<Bilder/RaumtempBilder/genfit1-10.png, id=1311, 638.6259pt x 490.7133pt>
+File: Bilder/RaumtempBilder/genfit1-10.png Graphic file (type png)
+ <use Bilder/RaumtempBilder/genfit1-10.png>
+Package pdftex.def Info: Bilder/RaumtempBilder/genfit1-10.png used on input line 10.
+(pdftex.def)             Requested size: 133.84424pt x 102.84317pt.
 
-] [72
+<Bilder/RaumtempBilder/genfit1-20.png, id=1312, 623.4492pt x 501.5538pt>
+File: Bilder/RaumtempBilder/genfit1-20.png Graphic file (type png)
+ <use Bilder/RaumtempBilder/genfit1-20.png>
+Package pdftex.def Info: Bilder/RaumtempBilder/genfit1-20.png used on input line 10.
+(pdftex.def)             Requested size: 133.84424pt x 107.67125pt.
+File: Bilder/RaumtempBilder/genfit1-20.png Graphic file (type png)
 
-]
+<use Bilder/RaumtempBilder/genfit1-20.png>
+Package pdftex.def Info: Bilder/RaumtempBilder/genfit1-20.png used on input line 10.
+(pdftex.def)             Requested size: 133.84424pt x 107.67125pt.
+ <Bilder/RaumtempBilder/iqe1-10.png, id=1313, 590.6868pt x 490.7133pt>
+File: Bilder/RaumtempBilder/iqe1-10.png Graphic file (type png)
+
+<use Bilder/RaumtempBilder/iqe1-10.png>
+Package pdftex.def Info: Bilder/RaumtempBilder/iqe1-10.png used on input line 11.
+(pdftex.def)             Requested size: 133.84424pt x 111.19193pt.
+ <Bilder/RaumtempBilder/iqe1-15.png, id=1314, 595.9866pt x 501.5538pt>
+File: Bilder/RaumtempBilder/iqe1-15.png Graphic file (type png)
+
+<use Bilder/RaumtempBilder/iqe1-15.png>
+Package pdftex.def Info: Bilder/RaumtempBilder/iqe1-15.png used on input line 11.
+(pdftex.def)             Requested size: 133.84424pt x 112.63045pt.
+ <Bilder/RaumtempBilder/iqe1-20.png, id=1315, 590.6868pt x 501.5538pt>
+File: Bilder/RaumtempBilder/iqe1-20.png Graphic file (type png)
+
+<use Bilder/RaumtempBilder/iqe1-20.png>
+Package pdftex.def Info: Bilder/RaumtempBilder/iqe1-20.png used on input line 11.
+(pdftex.def)             Requested size: 133.84424pt x 113.6483pt.
+
+Overfull \hbox (19.27904pt too wide) in paragraph at lines 9--14
+[][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [71
+
+]) (Kapitel/Zusammenfassung.tex [72 <./Bilder/RaumtempBilder/genfit1-10.png> <./Bilder/RaumtempBilder/genfit1-20.png> <.
+/Bilder/RaumtempBilder/iqe1-10.png> <./Bilder/RaumtempBilder/iqe1-15.png> <./Bilder/RaumtempBilder/iqe1-20.png>]
 Kapitel 9.
-) (Kapitel/Zusammenfassung.tex [73] [74
 
-]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [73
+
+]) (Kapitel/Danksagung.tex [74]
 Kapitel 10.
+) (Masterarbeit.bbl [75
 
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...GaN UVC-Laser- und LED-Strukturen durchgefü
-                                                  hrt und deren IQE bestimmt...
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...QE bestimmt, verglichen und die Ursachen fü
-                                                  r die Unterschiede mit Hil...
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...ssmethoden wie AFM und CL versucht zu ergrü
-                                                  nden. Dazu wurde das IQE-M...
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...-Modell erweitert, in dem die Annahme es wü
-                                                  rde keine nicht-radiative ...
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-
-! Package inputenc Error: Unicode char äng (U+D9)
-(inputenc)                not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...r statt und hat durch seine kubische Abhäng
-                                                  igkeit von der Ladungsträg...
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! Package inputenc Error: Unicode char äge (U+D0)
-(inputenc)                not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ... kubische Abhängigkeit von der Ladungsträge
-                                                  rdichte einen nicht vernac...
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! Package inputenc Error: Unicode char äss (U+EA)
-(inputenc)                not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...Ladungsträgerdichte einen nicht vernachläss
-                                                  igbaren Einfluss. Dies zei...
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
-
-
-! Package inputenc Error: Keyboard character used is undefined
-(inputenc)                in inputencoding `utf8'.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.7 ...r IQE, die zu deutlich geringeren Werten fü
-                                                  hrte.
-You need to provide a definition with \DeclareInputText 
-or \DeclareInputMath before using this key.
-
-) (Kapitel/Danksagung.tex) (Masterarbeit.bbl [75] [76
+] [76
 
 ]
 LaTeX Font Info:    Try loading font information for T1+cmtt on input line 6.
@@ -1958,14 +1902,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--8
  []
 
 [77] [78] [79] [80] [81])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 81.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 80.
  [82]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 81.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 80.
  (Masterarbeit.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 81.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 81.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 80.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 80.
 Package rerunfilecheck Info: File `Masterarbeit.out' has not changed.
-(rerunfilecheck)             Checksum: D11BFA191C876864BBDED38E8086E852;2746.
+(rerunfilecheck)             Checksum: C72691FCA9CD24351BE2EE2362F5D4DF;2723.
 
 
 LaTeX Warning: There were undefined references.
@@ -1973,13 +1917,13 @@ LaTeX Warning: There were undefined references.
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 81.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 80.
  ) 
 Here is how much of TeX's memory you used:
- 12821 strings out of 493333
- 194781 string characters out of 3139195
- 335819 words of memory out of 3000000
- 15719 multiletter control sequences out of 15000+200000
+ 12847 strings out of 493333
+ 195641 string characters out of 3139195
+ 337106 words of memory out of 3000000
+ 15740 multiletter control sequences out of 15000+200000
  23402 words of font info for 57 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  59i,15n,94p,2010b,646s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1999,9 +1943,9 @@ pe1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
 fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
 amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9
 /fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on Masterarbeit.pdf (82 pages, 13645569 bytes).
+Output written on Masterarbeit.pdf (82 pages, 13835998 bytes).
 PDF statistics:
- 2019 PDF objects out of 2073 (max. 8388607)
- 245 named destinations out of 1000 (max. 500000)
- 724 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2042 PDF objects out of 2073 (max. 8388607)
+ 246 named destinations out of 1000 (max. 500000)
+ 749 words of extra memory for PDF output out of 10000 (max. 10000000)
 

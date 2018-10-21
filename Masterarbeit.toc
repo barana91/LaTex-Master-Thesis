@@ -18,7 +18,7 @@
 \contentsline {section}{\numberline {3.3}Bestimmung der Degradation des UV Quarzglases}{30}{section.3.3}
 \contentsline {section}{\numberline {3.4}Erweiterung der Filterkombinationen}{32}{section.3.4}
 \contentsline {chapter}{\numberline {4}Einfluss der Auger-Rekombination auf die IQE}{35}{chapter.4}
-\contentsline {chapter}{\numberline {5}Untersuchung des MQW-Designs von AlGaN-Heterostrukturen}{39}{chapter.5}
+\contentsline {chapter}{\numberline {5}Untersuchung des MQW-Designs von AlGaN-UVC-Heterostrukturen}{39}{chapter.5}
 \contentsline {section}{\numberline {5.1}Einleitung}{39}{section.5.1}
 \contentsline {section}{\numberline {5.2}Messergebnisse}{40}{section.5.2}
 \contentsline {section}{\numberline {5.3}Einfluss der Silizium-Dotierung}{43}{section.5.3}
@@ -34,5 +34,5 @@
 \contentsline {section}{\numberline {7.2}Variation des Al-Gehalts in den QWs}{67}{section.7.2}
 \contentsline {section}{\numberline {7.3}Variation der QW-Dicke}{69}{section.7.3}
 \contentsline {chapter}{\numberline {8}Bestimmung der IQE bei Raumtemperatur}{71}{chapter.8}
-\contentsline {chapter}{\numberline {9}Bestimmung der IQE bei Raumtemperatur}{73}{chapter.9}
-\contentsline {chapter}{\numberline {10}Zusammenfassung}{75}{chapter.10}
+\contentsline {chapter}{\numberline {9}Zusammenfassung}{73}{chapter.9}
+\contentsline {chapter}{\numberline {10}Danksagung}{75}{chapter.10}
