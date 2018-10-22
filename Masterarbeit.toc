@@ -20,9 +20,9 @@
 \contentsline {chapter}{\numberline {4}Einfluss der Auger-Rekombination auf die IQE}{37}{chapter.4}
 \contentsline {chapter}{\numberline {5}Untersuchung des MQW-Designs von AlGaN-UVC-Heterostrukturen}{41}{chapter.5}
 \contentsline {section}{\numberline {5.1}Einleitung}{41}{section.5.1}
-\contentsline {section}{\numberline {5.2}Messergebnisse}{42}{section.5.2}
-\contentsline {section}{\numberline {5.3}Einfluss der Silizium-Dotierung}{45}{section.5.3}
-\contentsline {section}{\numberline {5.4}Vergleich mit Simulationen}{48}{section.5.4}
+\contentsline {section}{\numberline {5.2}Ergebnisse}{42}{section.5.2}
+\contentsline {section}{\numberline {5.3}Einfluss der Siliziumdotierung auf die IQE}{46}{section.5.3}
+\contentsline {section}{\numberline {5.4}Ergebnisse der Simulationen}{48}{section.5.4}
 \contentsline {section}{\numberline {5.5}Zusammenfassung}{48}{section.5.5}
 \contentsline {chapter}{\numberline {6}Untersuchung optisch gepumpter Laserstrukturen auf unterschiedlichen Templates}{51}{chapter.6}
 \contentsline {section}{\numberline {6.1}Einleitung}{51}{section.6.1}

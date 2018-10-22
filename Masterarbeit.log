@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2017.2.7)  21 OCT 2018 15:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2017.2.7)  22 OCT 2018 16:40
 entering extended mode
 **./Masterarbeit.tex
 (Masterarbeit.tex
@@ -866,12 +866,6 @@ LaTeX Warning: Label `fig:degra' multiply defined.
 LaTeX Warning: Label `fig:auger5k' multiply defined.
 
 
-LaTeX Warning: Label `fig:undotiertSpektrum' multiply defined.
-
-
-LaTeX Warning: Label `fig:dotiertSpektrum' multiply defined.
-
-
 LaTeX Warning: Label `' multiply defined.
 
 
@@ -964,8 +958,8 @@ Package caption Info: End \AtBeginDocument code.
 * \textheight=591.5302pt
 * \oddsidemargin=-0.56833pt
 * \evensidemargin=35.28255pt
-* \topmargin=-2.73714pt
-* \headheight=12.0pt
+* \topmargin=-0.73714pt
+* \headheight=10.0pt
 * \headsep=19.8738pt
 * \topskip=12.0pt
 * \footskip=30.0pt
@@ -1022,7 +1016,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--19
 
 )
 
-Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+Package Fancyhdr Warning: \headheight is too small (10.0pt): 
  Make it at least 24.64995pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
@@ -1313,95 +1307,97 @@ Package pdftex.def Info: Bilder/AuswertungNovemeberKorr1VergleichFilter.pdf used
 
 ]
 Kapitel 4.
-<Bilder/AugerBei5K.pdf, id=653, 774.895pt x 593.21625pt>
+<Bilder/AugerBei5K.pdf, id=654, 774.895pt x 593.21625pt>
 File: Bilder/AugerBei5K.pdf Graphic file (type pdf)
  <use Bilder/AugerBei5K.pdf>
-Package pdftex.def Info: Bilder/AugerBei5K.pdf used on input line 10.
+Package pdftex.def Info: Bilder/AugerBei5K.pdf used on input line 11.
 (pdftex.def)             Requested size: 204.9466pt x 156.8938pt.
 
-Underfull \hbox (badness 2302) in paragraph at lines 11--11
+Underfull \hbox (badness 2302) in paragraph at lines 12--12
 \T1/cmr/m/n/10.95 in Ab-hän-gig-keit der An-re-gungs-leis-tung-
  []
 
-<Bilder/NormierteKorrgierteIQE5K.pdf, id=654, 774.895pt x 593.21625pt>
+<Bilder/NormierteKorrgierteIQE5K.pdf, id=655, 774.895pt x 593.21625pt>
 File: Bilder/NormierteKorrgierteIQE5K.pdf Graphic file (type pdf)
  <use Bilder/NormierteKorrgierteIQE5K.pdf>
-Package pdftex.def Info: Bilder/NormierteKorrgierteIQE5K.pdf used on input line 17.
+Package pdftex.def Info: Bilder/NormierteKorrgierteIQE5K.pdf used on input line 18.
 (pdftex.def)             Requested size: 204.9466pt x 156.8938pt.
 
-[37 <./Bilder/AugerBei5K.pdf> <./Bilder/NormierteKorrgierteIQE5K.pdf
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [37]
+<Bilder/korrigierteIQE300K.pdf, id=667, 774.895pt x 593.21625pt>
+File: Bilder/korrigierteIQE300K.pdf Graphic file (type pdf)
+ <use Bilder/korrigierteIQE300K.pdf>
+Package pdftex.def Info: Bilder/korrigierteIQE300K.pdf used on input line 42.
+(pdftex.def)             Requested size: 204.9466pt x 156.8938pt.
+ [38 <./Bilder/AugerBei5K.pdf> <./Bilder/NormierteKorrgierteIQE5K.pdf
 
 pdfTeX warning: pdflatex.exe (file ./Bilder/NormierteKorrgierteIQE5K.pdf): PDF inclusion: multiple pdfs with page group 
 included in a single page
->] <Bilder/korrigierteIQE300K.pdf, id=699, 774.895pt x 593.21625pt>
-File: Bilder/korrigierteIQE300K.pdf Graphic file (type pdf)
- <use Bilder/korrigierteIQE300K.pdf>
-Package pdftex.def Info: Bilder/korrigierteIQE300K.pdf used on input line 41.
-(pdftex.def)             Requested size: 204.9466pt x 156.8938pt.
- [38 <./Bilder/korrigierteIQE300K.pdf>]) (Kapitel/ErgebnisseMQW.tex [39] [40
+>]) (Kapitel/ErgebnisseMQW.tex [39 <./Bilder/korrigierteIQE300K.pdf>] [40
 
 ]
 Kapitel 5.
 <Bilder/MQWdickenSerie/undotiert.png, id=735, 862.422pt x 427.3566pt>
 File: Bilder/MQWdickenSerie/undotiert.png Graphic file (type png)
  <use Bilder/MQWdickenSerie/undotiert.png>
-Package pdftex.def Info: Bilder/MQWdickenSerie/undotiert.png used on input line 14.
-(pdftex.def)             Requested size: 204.9466pt x 101.55693pt.
+Package pdftex.def Info: Bilder/MQWdickenSerie/undotiert.png used on input line 11.
+(pdftex.def)             Requested size: 188.21288pt x 93.26231pt.
 
 <Bilder/MQWdickenSerie/dotiert.png, id=736, 862.422pt x 427.3566pt>
 File: Bilder/MQWdickenSerie/dotiert.png Graphic file (type png)
  <use Bilder/MQWdickenSerie/dotiert.png>
-Package pdftex.def Info: Bilder/MQWdickenSerie/dotiert.png used on input line 21.
-(pdftex.def)             Requested size: 204.9466pt x 101.55693pt.
-
-Overfull \hbox (14.48466pt too wide) in paragraph at lines 26--33
-\T1/cmr/m/n/12 cken mit do-tieter-ten und un-do-tier-te-ten Bar-rie-ren. Mit Hil-fe der UV-Photolumineszenz
- []
-
-[41 <./Bilder/MQWdickenSerie/undotiert.png> <./Bilder/MQWdickenSerie/dotiert.png>]
-<Bilder/MQWdickenSerie/spektrumUndotiert.png, id=746, 356.0502pt x 290.5254pt>
+Package pdftex.def Info: Bilder/MQWdickenSerie/dotiert.png used on input line 18.
+(pdftex.def)             Requested size: 188.21288pt x 93.26231pt.
+ [41 <./Bilder/MQWdickenSerie/undotiert.png> <./Bilder/MQWdickenSerie/dotiert.png>]
+<Bilder/MQWdickenSerie/spektrumUndotiert.png, id=748, 356.0502pt x 290.5254pt>
 File: Bilder/MQWdickenSerie/spektrumUndotiert.png Graphic file (type png)
 
 <use Bilder/MQWdickenSerie/spektrumUndotiert.png>
-Package pdftex.def Info: Bilder/MQWdickenSerie/spektrumUndotiert.png used on input line 39.
-(pdftex.def)             Requested size: 204.9466pt x 167.22812pt.
+Package pdftex.def Info: Bilder/MQWdickenSerie/spektrumUndotiert.png used on input line 36.
+(pdftex.def)             Requested size: 188.21288pt x 153.57431pt.
 
-<Bilder/MQWdickenSerie/spektrumDotiert.png, id=747, 355.0866pt x 293.898pt>
+<Bilder/MQWdickenSerie/spektrumDotiert.png, id=749, 355.0866pt x 293.898pt>
 File: Bilder/MQWdickenSerie/spektrumDotiert.png Graphic file (type png)
 
 <use Bilder/MQWdickenSerie/spektrumDotiert.png>
-Package pdftex.def Info: Bilder/MQWdickenSerie/spektrumDotiert.png used on input line 46.
-(pdftex.def)             Requested size: 204.9466pt x 169.6313pt.
+Package pdftex.def Info: Bilder/MQWdickenSerie/spektrumDotiert.png used on input line 43.
+(pdftex.def)             Requested size: 188.21288pt x 155.78313pt.
 
-<Bilder/MQWdickenSerie/intTTundotiert.png, id=750, 398.9304pt x 341.1144pt>
+Overfull \hbox (3.26425pt too wide) in paragraph at lines 29--47
+\T1/cmr/m/n/12 Für die ex-pe-ri-men-tel-le Un-ter-su-chung wur-den Pho-to-lu-mi-nes-zenz-mes-sun-gen bei Tief-
+ []
+
+<Bilder/MQWdickenSerie/intTTundotiert.png, id=755, 398.9304pt x 341.1144pt>
 File: Bilder/MQWdickenSerie/intTTundotiert.png Graphic file (type png)
 
 <use Bilder/MQWdickenSerie/intTTundotiert.png>
-Package pdftex.def Info: Bilder/MQWdickenSerie/intTTundotiert.png used on input line 60.
+Package pdftex.def Info: Bilder/MQWdickenSerie/intTTundotiert.png used on input line 57.
 (pdftex.def)             Requested size: 204.9466pt x 175.24644pt.
 
-Underfull \hbox (badness 3989) in paragraph at lines 61--61
+Underfull \hbox (badness 3989) in paragraph at lines 58--58
 []\T1/cmr/bx/n/10.95 Abbildung 5.5: |\T1/cmr/m/n/10.95 In-te-grier-te In-ten-si-tät
  []
 
 
-Underfull \hbox (badness 1072) in paragraph at lines 61--61
+Underfull \hbox (badness 1072) in paragraph at lines 58--58
 \T1/cmr/m/n/10.95 in dop-pelt-lo-ga-rith-mi-scher Dar-stel-lung in
  []
 
-<Bilder/MQWdickenSerie/intTTdotierte.png, id=751, 398.9304pt x 341.1144pt>
+<Bilder/MQWdickenSerie/intTTdotierte.png, id=756, 398.9304pt x 341.1144pt>
 File: Bilder/MQWdickenSerie/intTTdotierte.png Graphic file (type png)
 
 <use Bilder/MQWdickenSerie/intTTdotierte.png>
-Package pdftex.def Info: Bilder/MQWdickenSerie/intTTdotierte.png used on input line 67.
+Package pdftex.def Info: Bilder/MQWdickenSerie/intTTdotierte.png used on input line 64.
 (pdftex.def)             Requested size: 204.9466pt x 175.24644pt.
 
-Underfull \hbox (badness 3989) in paragraph at lines 68--68
+Underfull \hbox (badness 3989) in paragraph at lines 65--65
 []\T1/cmr/bx/n/10.95 Abbildung 5.6: |\T1/cmr/m/n/10.95 In-te-grier-te In-ten-si-tät
  []
 
 
-Underfull \hbox (badness 1072) in paragraph at lines 68--68
+Underfull \hbox (badness 1072) in paragraph at lines 65--65
 \T1/cmr/m/n/10.95 in dop-pelt-lo-ga-rith-mi-scher Dar-stel-lung in
  []
 
@@ -1412,62 +1408,72 @@ Package Fancyhdr Warning: \headheight is too small (24.64995pt):
  This may cause the page layout to be inconsistent, however.
 
 [42 <./Bilder/MQWdickenSerie/spektrumUndotiert.png> <./Bilder/MQWdickenSerie/spektrumDotiert.png>]
-<Bilder/MQWdickenSerie/PeakEnergieUndotiert.png, id=763, 391.7034pt x 332.442pt>
+<Bilder/MQWdickenSerie/PeakEnergieUndotiert.png, id=766, 391.7034pt x 332.442pt>
 File: Bilder/MQWdickenSerie/PeakEnergieUndotiert.png Graphic file (type png)
 
 <use Bilder/MQWdickenSerie/PeakEnergieUndotiert.png>
-Package pdftex.def Info: Bilder/MQWdickenSerie/PeakEnergieUndotiert.png used on input line 83.
+Package pdftex.def Info: Bilder/MQWdickenSerie/PeakEnergieUndotiert.png used on input line 78.
 (pdftex.def)             Requested size: 204.9466pt x 173.94623pt.
 
-<Bilder/MQWdickenSerie/PeakEnergieDotiert.png, id=764, 390.258pt x 330.033pt>
+<Bilder/MQWdickenSerie/PeakEnergieDotiert.png, id=767, 390.258pt x 330.033pt>
 File: Bilder/MQWdickenSerie/PeakEnergieDotiert.png Graphic file (type png)
 
 <use Bilder/MQWdickenSerie/PeakEnergieDotiert.png>
-Package pdftex.def Info: Bilder/MQWdickenSerie/PeakEnergieDotiert.png used on input line 90.
+Package pdftex.def Info: Bilder/MQWdickenSerie/PeakEnergieDotiert.png used on input line 85.
 (pdftex.def)             Requested size: 204.9466pt x 173.32027pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [43 <./Bilder/MQWdickenSerie/intTTundotiert.png> <./Bilder/MQWdickenSerie/intTTdotierte.png>] <Bilder/MQWdickenSerie/IQ
-Eundotiert.png, id=775, 483.7272pt x 423.0204pt>
+Eundotiert.png, id=778, 483.7272pt x 423.0204pt>
 File: Bilder/MQWdickenSerie/IQEundotiert.png Graphic file (type png)
 
 <use Bilder/MQWdickenSerie/IQEundotiert.png>
-Package pdftex.def Info: Bilder/MQWdickenSerie/IQEundotiert.png used on input line 107.
+Package pdftex.def Info: Bilder/MQWdickenSerie/IQEundotiert.png used on input line 103.
 (pdftex.def)             Requested size: 204.9466pt x 179.22295pt.
- <Bilder/MQWdickenSerie/IQEdotiert.png, id=776, 483.7272pt x 428.802pt>
+ <Bilder/MQWdickenSerie/IQEdotiert.png, id=779, 483.7272pt x 428.802pt>
 File: Bilder/MQWdickenSerie/IQEdotiert.png Graphic file (type png)
 
 <use Bilder/MQWdickenSerie/IQEdotiert.png>
-Package pdftex.def Info: Bilder/MQWdickenSerie/IQEdotiert.png used on input line 114.
+Package pdftex.def Info: Bilder/MQWdickenSerie/IQEdotiert.png used on input line 110.
 (pdftex.def)             Requested size: 204.9466pt x 181.67247pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Overfull \hbox (2.7888pt too wide) in paragraph at lines 90--114
+\T1/cmr/m/n/12 Dicke von $\OT1/cmr/m/n/12 5 \OML/cmm/m/it/12 nm$ \T1/cmr/m/n/12 von $\OT1/cmr/m/n/12 4\OML/cmm/m/it/12 ;
+ \OT1/cmr/m/n/12 65 \OML/cmm/m/it/12 eV$ \T1/cmr/m/n/12 bei der ge-rings-ten An-re-gungs-leis-tungs-dich-te zu $\OT1/cmr
+/m/n/12 4\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 77 \OML/cmm/m/it/12 eV$
+ []
+
+
+Underfull \vbox (badness 2846) has occurred while \output is active []
 
  [44 <./Bilder/MQWdickenSerie/PeakEnergieUndotiert.png> <./Bilder/MQWdickenSerie/PeakEnergieDotiert.png>]
 File: Bilder/IQEohneDotierungVerschAParams.pdf Graphic file (type pdf)
  <use Bilder/IQEohneDotierungVerschAParams.pdf>
-Package pdftex.def Info: Bilder/IQEohneDotierungVerschAParams.pdf used on input line 131.
+Package pdftex.def Info: Bilder/IQEohneDotierungVerschAParams.pdf used on input line 129.
 (pdftex.def)             Requested size: 204.9466pt x 160.53033pt.
 
-<Bilder/IQEmitDotierungVerschAParams.pdf, id=787, 549.05125pt x 431.6125pt>
+<Bilder/IQEmitDotierungVerschAParams.pdf, id=790, 549.05125pt x 431.6125pt>
 File: Bilder/IQEmitDotierungVerschAParams.pdf Graphic file (type pdf)
 
 <use Bilder/IQEmitDotierungVerschAParams.pdf>
-Package pdftex.def Info: Bilder/IQEmitDotierungVerschAParams.pdf used on input line 138.
+Package pdftex.def Info: Bilder/IQEmitDotierungVerschAParams.pdf used on input line 136.
 (pdftex.def)             Requested size: 204.9466pt x 161.11008pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
  [45 <./Bilder/MQWdickenSerie/IQEundotiert.png> <./Bilder/MQWdickenSerie/IQEdotiert.png>] [46 <./Bilder/IQEmitDotierungV
 erschAParams.pdf>]
-<Bilder/MQWdickenSerie/Simu1.png, id=830, 614.7768pt x 465.4188pt>
+<Bilder/MQWdickenSerie/Simu1.png, id=832, 614.7768pt x 465.4188pt>
 File: Bilder/MQWdickenSerie/Simu1.png Graphic file (type png)
  <use Bilder/MQWdickenSerie/Simu1.png>
-Package pdftex.def Info: Bilder/MQWdickenSerie/Simu1.png used on input line 194.
+Package pdftex.def Info: Bilder/MQWdickenSerie/Simu1.png used on input line 191.
 (pdftex.def)             Requested size: 204.9466pt x 155.15105pt.
 
-<Bilder/MQWdickenSerie/Simu2.png, id=831, 454.3374pt x 375.3222pt>
+<Bilder/MQWdickenSerie/Simu2.png, id=833, 454.3374pt x 375.3222pt>
 File: Bilder/MQWdickenSerie/Simu2.png Graphic file (type png)
  <use Bilder/MQWdickenSerie/Simu2.png>
-Package pdftex.def Info: Bilder/MQWdickenSerie/Simu2.png used on input line 201.
+Package pdftex.def Info: Bilder/MQWdickenSerie/Simu2.png used on input line 198.
 (pdftex.def)             Requested size: 204.9466pt x 169.30577pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1481,7 +1487,7 @@ Kapitel 6.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [51]
-<Bilder/offcut.png, id=862, 886.512pt x 280.4076pt>
+<Bilder/offcut.png, id=866, 886.512pt x 280.4076pt>
 File: Bilder/offcut.png Graphic file (type png)
  <use Bilder/offcut.png>
 Package pdftex.def Info: Bilder/offcut.png used on input line 30.
@@ -1494,19 +1500,19 @@ Underfull \hbox (badness 1748) in paragraph at lines 31--31
 
 LaTeX Warning: Reference `fig:schraubenvers' on page 52 undefined on input line 36.
 
-<Bilder/offcutsenkrecht.png, id=865, 166.37157pt x 163.3603pt>
+<Bilder/offcutsenkrecht.png, id=869, 166.37157pt x 163.3603pt>
 File: Bilder/offcutsenkrecht.png Graphic file (type png)
  <use Bilder/offcutsenkrecht.png>
 Package pdftex.def Info: Bilder/offcutsenkrecht.png used on input line 42.
 (pdftex.def)             Requested size: 122.9692pt x 120.74513pt.
 
-<Bilder/offcutdiagonal.png, id=866, 169.38281pt x 161.85469pt>
+<Bilder/offcutdiagonal.png, id=870, 169.38281pt x 161.85469pt>
 File: Bilder/offcutdiagonal.png Graphic file (type png)
  <use Bilder/offcutdiagonal.png>
 Package pdftex.def Info: Bilder/offcutdiagonal.png used on input line 48.
 (pdftex.def)             Requested size: 122.9692pt x 117.50833pt.
  [52]
-<Bilder/TS4045/ts4045.png, id=876, 872.058pt x 427.3566pt>
+<Bilder/TS4045/ts4045.png, id=880, 872.058pt x 427.3566pt>
 File: Bilder/TS4045/ts4045.png Graphic file (type png)
  <use Bilder/TS4045/ts4045.png>
 Package pdftex.def Info: Bilder/TS4045/ts4045.png used on input line 60.
@@ -1515,25 +1521,25 @@ Package pdftex.def Info: Bilder/TS4045/ts4045.png used on input line 60.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Bilder/TS4045/aelo.pdf, id=879, 667.49374pt x 529.98pt>
+<Bilder/TS4045/aelo.pdf, id=883, 667.49374pt x 529.98pt>
 File: Bilder/TS4045/aelo.pdf Graphic file (type pdf)
  <use Bilder/TS4045/aelo.pdf>
 Package pdftex.def Info: Bilder/TS4045/aelo.pdf used on input line 72.
 (pdftex.def)             Requested size: 167.2989pt x 132.8343pt.
 
-<Bilder/TS4045/belo.pdf, id=880, 667.49374pt x 529.98pt>
+<Bilder/TS4045/belo.pdf, id=884, 667.49374pt x 529.98pt>
 File: Bilder/TS4045/belo.pdf Graphic file (type pdf)
  <use Bilder/TS4045/belo.pdf>
 Package pdftex.def Info: Bilder/TS4045/belo.pdf used on input line 77.
 (pdftex.def)             Requested size: 167.2989pt x 132.8343pt.
 
-<Bilder/TS4045/celo.pdf, id=881, 667.49374pt x 529.98pt>
+<Bilder/TS4045/celo.pdf, id=885, 667.49374pt x 529.98pt>
 File: Bilder/TS4045/celo.pdf Graphic file (type pdf)
  <use Bilder/TS4045/celo.pdf>
 Package pdftex.def Info: Bilder/TS4045/celo.pdf used on input line 82.
 (pdftex.def)             Requested size: 167.2989pt x 132.8343pt.
 
-<Bilder/TS4045/intRT.pdf, id=882, 636.3775pt x 491.8375pt>
+<Bilder/TS4045/intRT.pdf, id=886, 636.3775pt x 491.8375pt>
 File: Bilder/TS4045/intRT.pdf Graphic file (type pdf)
  <use Bilder/TS4045/intRT.pdf>
 Package pdftex.def Info: Bilder/TS4045/intRT.pdf used on input line 96.
@@ -1543,7 +1549,7 @@ Underfull \hbox (badness 1348) in paragraph at lines 97--97
 \T1/cmr/m/n/10.95 dich-te bei Raum-tem-pe-ra-tur in doppelt-
  []
 
-<Bilder/TS4045/intTT.pdf, id=883, 645.41125pt x 491.8375pt>
+<Bilder/TS4045/intTT.pdf, id=887, 645.41125pt x 491.8375pt>
 File: Bilder/TS4045/intTT.pdf Graphic file (type pdf)
  <use Bilder/TS4045/intTT.pdf>
 Package pdftex.def Info: Bilder/TS4045/intTT.pdf used on input line 103.
@@ -1553,13 +1559,13 @@ Underfull \hbox (badness 1484) in paragraph at lines 104--104
 []\T1/cmr/bx/n/10.95 Abbildung 6.6: |\T1/cmr/m/n/10.95 Die in-te-grier-te In-ten-
  []
 
-<Bilder/TS4045/corrIQERT.pdf, id=886, 631.35875pt x 491.8375pt>
+<Bilder/TS4045/corrIQERT.pdf, id=890, 631.35875pt x 491.8375pt>
 File: Bilder/TS4045/corrIQERT.pdf Graphic file (type pdf)
  <use Bilder/TS4045/corrIQERT.pdf>
 Package pdftex.def Info: Bilder/TS4045/corrIQERT.pdf used on input line 116.
 (pdftex.def)             Requested size: 204.9466pt x 159.65767pt.
 
-<Bilder/TS4045/IQETT.pdf, id=887, 774.895pt x 593.21625pt>
+<Bilder/TS4045/IQETT.pdf, id=891, 774.895pt x 593.21625pt>
 File: Bilder/TS4045/IQETT.pdf Graphic file (type pdf)
  <use Bilder/TS4045/IQETT.pdf>
 Package pdftex.def Info: Bilder/TS4045/IQETT.pdf used on input line 123.
@@ -1579,55 +1585,55 @@ pdfTeX warning: pdflatex.exe (file ./Bilder/TS4045/belo.pdf): PDF inclusion: mul
 
 pdfTeX warning: pdflatex.exe (file ./Bilder/TS4045/celo.pdf): PDF inclusion: multiple pdfs with page group included in a
  single page
->] <Bilder/TS4045/aELOafm.png, id=943, 204.2832pt x 204.765pt>
+>] <Bilder/TS4045/aELOafm.png, id=947, 204.2832pt x 204.765pt>
 File: Bilder/TS4045/aELOafm.png Graphic file (type png)
  <use Bilder/TS4045/aELOafm.png>
 Package pdftex.def Info: Bilder/TS4045/aELOafm.png used on input line 135.
 (pdftex.def)             Requested size: 125.47737pt x 125.77193pt.
 
-<Bilder/TS4045/bELOafm.png, id=944, 204.765pt x 204.765pt>
+<Bilder/TS4045/bELOafm.png, id=948, 204.765pt x 204.765pt>
 File: Bilder/TS4045/bELOafm.png Graphic file (type png)
  <use Bilder/TS4045/bELOafm.png>
 Package pdftex.def Info: Bilder/TS4045/bELOafm.png used on input line 135.
 (pdftex.def)             Requested size: 125.47737pt x 125.48135pt.
 
-<Bilder/TS4045/cELOlimi.png, id=945, 204.765pt x 203.8014pt>
+<Bilder/TS4045/cELOlimi.png, id=949, 204.765pt x 203.8014pt>
 File: Bilder/TS4045/cELOlimi.png Graphic file (type png)
  <use Bilder/TS4045/cELOlimi.png>
 Package pdftex.def Info: Bilder/TS4045/cELOlimi.png used on input line 135.
 (pdftex.def)             Requested size: 125.47737pt x 124.89085pt.
 
-<Bilder/TS4045/aELOcl2.png, id=946, 217.2918pt x 217.2918pt>
+<Bilder/TS4045/aELOcl2.png, id=950, 217.2918pt x 217.2918pt>
 File: Bilder/TS4045/aELOcl2.png Graphic file (type png)
  <use Bilder/TS4045/aELOcl2.png>
 Package pdftex.def Info: Bilder/TS4045/aELOcl2.png used on input line 137.
 (pdftex.def)             Requested size: 125.47737pt x 125.4756pt.
 
-<Bilder/TS4045/bELOcl2.png, id=947, 190.7928pt x 190.7928pt>
+<Bilder/TS4045/bELOcl2.png, id=951, 190.7928pt x 190.7928pt>
 File: Bilder/TS4045/bELOcl2.png Graphic file (type png)
  <use Bilder/TS4045/bELOcl2.png>
 Package pdftex.def Info: Bilder/TS4045/bELOcl2.png used on input line 137.
 (pdftex.def)             Requested size: 125.47737pt x 125.4782pt.
 
-<Bilder/TS4045/cELOcl2.png, id=948, 217.2918pt x 217.2918pt>
+<Bilder/TS4045/cELOcl2.png, id=952, 217.2918pt x 217.2918pt>
 File: Bilder/TS4045/cELOcl2.png Graphic file (type png)
  <use Bilder/TS4045/cELOcl2.png>
 Package pdftex.def Info: Bilder/TS4045/cELOcl2.png used on input line 137.
 (pdftex.def)             Requested size: 125.47737pt x 125.4756pt.
 
-<Bilder/TS4045/aELOcl1.png, id=949, 217.2918pt x 217.2918pt>
+<Bilder/TS4045/aELOcl1.png, id=953, 217.2918pt x 217.2918pt>
 File: Bilder/TS4045/aELOcl1.png Graphic file (type png)
  <use Bilder/TS4045/aELOcl1.png>
 Package pdftex.def Info: Bilder/TS4045/aELOcl1.png used on input line 139.
 (pdftex.def)             Requested size: 125.47737pt x 125.4756pt.
 
-<Bilder/TS4045/bELOcl1.png, id=950, 205.2468pt x 205.2468pt>
+<Bilder/TS4045/bELOcl1.png, id=954, 205.2468pt x 205.2468pt>
 File: Bilder/TS4045/bELOcl1.png Graphic file (type png)
  <use Bilder/TS4045/bELOcl1.png>
 Package pdftex.def Info: Bilder/TS4045/bELOcl1.png used on input line 139.
 (pdftex.def)             Requested size: 125.47737pt x 125.47908pt.
 
-<Bilder/TS4045/cELOcl1.png, id=951, 217.2918pt x 217.2918pt>
+<Bilder/TS4045/cELOcl1.png, id=955, 217.2918pt x 217.2918pt>
 File: Bilder/TS4045/cELOcl1.png Graphic file (type png)
  <use Bilder/TS4045/cELOcl1.png>
 Package pdftex.def Info: Bilder/TS4045/cELOcl1.png used on input line 139.
@@ -1653,31 +1659,31 @@ LOcl1.png> <./Bilder/TS4045/cELOcl1.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [59]
-<Bilder/TS4048/ts4048.png, id=1037, 870.1308pt x 427.3566pt>
+<Bilder/TS4048/ts4048.png, id=1041, 870.1308pt x 427.3566pt>
 File: Bilder/TS4048/ts4048.png Graphic file (type png)
  <use Bilder/TS4048/ts4048.png>
 Package pdftex.def Info: Bilder/TS4048/ts4048.png used on input line 156.
 (pdftex.def)             Requested size: 418.25368pt x 205.41576pt.
 
-<Bilder/TS4048/aslelo.pdf, id=1041, 667.49374pt x 529.98pt>
+<Bilder/TS4048/aslelo.pdf, id=1045, 667.49374pt x 529.98pt>
 File: Bilder/TS4048/aslelo.pdf Graphic file (type pdf)
  <use Bilder/TS4048/aslelo.pdf>
 Package pdftex.def Info: Bilder/TS4048/aslelo.pdf used on input line 167.
 (pdftex.def)             Requested size: 167.2989pt x 132.8343pt.
 
-<Bilder/TS4048/bslelo.pdf, id=1042, 667.49374pt x 529.98pt>
+<Bilder/TS4048/bslelo.pdf, id=1046, 667.49374pt x 529.98pt>
 File: Bilder/TS4048/bslelo.pdf Graphic file (type pdf)
  <use Bilder/TS4048/bslelo.pdf>
 Package pdftex.def Info: Bilder/TS4048/bslelo.pdf used on input line 172.
 (pdftex.def)             Requested size: 167.2989pt x 132.8343pt.
 
-<Bilder/TS4048/cslelo.pdf, id=1043, 667.49374pt x 528.97626pt>
+<Bilder/TS4048/cslelo.pdf, id=1047, 667.49374pt x 528.97626pt>
 File: Bilder/TS4048/cslelo.pdf Graphic file (type pdf)
  <use Bilder/TS4048/cslelo.pdf>
 Package pdftex.def Info: Bilder/TS4048/cslelo.pdf used on input line 177.
 (pdftex.def)             Requested size: 167.2989pt x 132.58273pt.
 
-<Bilder/TS4048/intRT.pdf, id=1045, 610.28pt x 498.86375pt>
+<Bilder/TS4048/intRT.pdf, id=1049, 610.28pt x 498.86375pt>
 File: Bilder/TS4048/intRT.pdf Graphic file (type pdf)
  <use Bilder/TS4048/intRT.pdf>
 Package pdftex.def Info: Bilder/TS4048/intRT.pdf used on input line 190.
@@ -1687,7 +1693,7 @@ Underfull \hbox (badness 1348) in paragraph at lines 191--191
 \T1/cmr/m/n/10.95 dich-te bei Raum-tem-pe-ra-tur in doppelt-
  []
 
-<Bilder/TS4048/intTT.pdf, id=1046, 621.32124pt x 494.84875pt>
+<Bilder/TS4048/intTT.pdf, id=1050, 621.32124pt x 494.84875pt>
 File: Bilder/TS4048/intTT.pdf Graphic file (type pdf)
  <use Bilder/TS4048/intTT.pdf>
 Package pdftex.def Info: Bilder/TS4048/intTT.pdf used on input line 196.
@@ -1707,67 +1713,67 @@ pdfTeX warning: pdflatex.exe (file ./Bilder/TS4048/cslelo.pdf): PDF inclusion: m
 
 LaTeX Warning: Reference `fig:intttrtsl' on page 62 undefined on input line 203.
 
-<Bilder/TS4048/corrIQERT.pdf, id=1098, 631.35875pt x 494.84875pt>
+<Bilder/TS4048/corrIQERT.pdf, id=1102, 631.35875pt x 494.84875pt>
 File: Bilder/TS4048/corrIQERT.pdf Graphic file (type pdf)
  <use Bilder/TS4048/corrIQERT.pdf>
 Package pdftex.def Info: Bilder/TS4048/corrIQERT.pdf used on input line 209.
 (pdftex.def)             Requested size: 204.9466pt x 160.63516pt.
 
-<Bilder/TS4048/IQETT.pdf, id=1099, 742.775pt x 585.18625pt>
+<Bilder/TS4048/IQETT.pdf, id=1103, 742.775pt x 585.18625pt>
 File: Bilder/TS4048/IQETT.pdf Graphic file (type pdf)
  <use Bilder/TS4048/IQETT.pdf>
 Package pdftex.def Info: Bilder/TS4048/IQETT.pdf used on input line 216.
 (pdftex.def)             Requested size: 204.9466pt x 161.458pt.
 
-<Bilder/TS4048/aSLELOafm.png, id=1102, 290.5254pt x 290.5254pt>
+<Bilder/TS4048/aSLELOafm.png, id=1106, 290.5254pt x 290.5254pt>
 File: Bilder/TS4048/aSLELOafm.png Graphic file (type png)
  <use Bilder/TS4048/aSLELOafm.png>
 Package pdftex.def Info: Bilder/TS4048/aSLELOafm.png used on input line 227.
 (pdftex.def)             Requested size: 125.47737pt x 125.47762pt.
 
-<Bilder/TS4048/bSLELOafm.png, id=1103, 290.5254pt x 290.0436pt>
+<Bilder/TS4048/bSLELOafm.png, id=1107, 290.5254pt x 290.0436pt>
 File: Bilder/TS4048/bSLELOafm.png Graphic file (type png)
  <use Bilder/TS4048/bSLELOafm.png>
 Package pdftex.def Info: Bilder/TS4048/bSLELOafm.png used on input line 227.
 (pdftex.def)             Requested size: 125.47737pt x 125.26952pt.
 
-<Bilder/TS4048/cSLELOafm.png, id=1104, 290.0436pt x 290.5254pt>
+<Bilder/TS4048/cSLELOafm.png, id=1108, 290.0436pt x 290.5254pt>
 File: Bilder/TS4048/cSLELOafm.png Graphic file (type png)
  <use Bilder/TS4048/cSLELOafm.png>
 Package pdftex.def Info: Bilder/TS4048/cSLELOafm.png used on input line 227.
 (pdftex.def)             Requested size: 125.47737pt x 125.68596pt.
 
-<Bilder/TS4048/aSLELOcl2.png, id=1105, 214.401pt x 214.401pt>
+<Bilder/TS4048/aSLELOcl2.png, id=1109, 214.401pt x 214.401pt>
 File: Bilder/TS4048/aSLELOcl2.png Graphic file (type png)
  <use Bilder/TS4048/aSLELOcl2.png>
 Package pdftex.def Info: Bilder/TS4048/aSLELOcl2.png used on input line 229.
 (pdftex.def)             Requested size: 125.47737pt x 125.47804pt.
 
-<Bilder/TS4048/bSLELOcl2.png, id=1106, 220.6644pt x 223.0734pt>
+<Bilder/TS4048/bSLELOcl2.png, id=1110, 220.6644pt x 223.0734pt>
 File: Bilder/TS4048/bSLELOcl2.png Graphic file (type png)
  <use Bilder/TS4048/bSLELOcl2.png>
 Package pdftex.def Info: Bilder/TS4048/bSLELOcl2.png used on input line 229.
 (pdftex.def)             Requested size: 125.47737pt x 126.8502pt.
 
-<Bilder/TS4048/cSLELOcl2.png, id=1107, 226.9278pt x 226.9278pt>
+<Bilder/TS4048/cSLELOcl2.png, id=1111, 226.9278pt x 226.9278pt>
 File: Bilder/TS4048/cSLELOcl2.png Graphic file (type png)
  <use Bilder/TS4048/cSLELOcl2.png>
 Package pdftex.def Info: Bilder/TS4048/cSLELOcl2.png used on input line 229.
 (pdftex.def)             Requested size: 125.47737pt x 125.47894pt.
 
-<Bilder/TS4048/aSLELOcl1.png, id=1108, 210.0648pt x 210.0648pt>
+<Bilder/TS4048/aSLELOcl1.png, id=1112, 210.0648pt x 210.0648pt>
 File: Bilder/TS4048/aSLELOcl1.png Graphic file (type png)
  <use Bilder/TS4048/aSLELOcl1.png>
 Package pdftex.def Info: Bilder/TS4048/aSLELOcl1.png used on input line 231.
 (pdftex.def)             Requested size: 125.47737pt x 125.47571pt.
 
-<Bilder/TS4048/bSLELOcl1.png, id=1109, 220.1826pt x 220.1826pt>
+<Bilder/TS4048/bSLELOcl1.png, id=1113, 220.1826pt x 220.1826pt>
 File: Bilder/TS4048/bSLELOcl1.png Graphic file (type png)
  <use Bilder/TS4048/bSLELOcl1.png>
 Package pdftex.def Info: Bilder/TS4048/bSLELOcl1.png used on input line 231.
 (pdftex.def)             Requested size: 125.47737pt x 125.4785pt.
 
-<Bilder/TS4048/cSLELOcl1.png, id=1110, 223.0734pt x 223.5552pt>
+<Bilder/TS4048/cSLELOcl1.png, id=1114, 223.0734pt x 223.5552pt>
 File: Bilder/TS4048/cSLELOcl1.png Graphic file (type png)
  <use Bilder/TS4048/cSLELOcl1.png>
 Package pdftex.def Info: Bilder/TS4048/cSLELOcl1.png used on input line 231.
@@ -1788,13 +1794,13 @@ a single page
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [63]
-<Bilder/TS4048/cSLELOmonocllow.png, id=1176, 277.5168pt x 275.5896pt>
+<Bilder/TS4048/cSLELOmonocllow.png, id=1180, 277.5168pt x 275.5896pt>
 File: Bilder/TS4048/cSLELOmonocllow.png Graphic file (type png)
  <use Bilder/TS4048/cSLELOmonocllow.png>
 Package pdftex.def Info: Bilder/TS4048/cSLELOmonocllow.png used on input line 243.
 (pdftex.def)             Requested size: 143.46199pt x 142.46217pt.
 
-<Bilder/TS4048/cSLELOmonoclpeak.png, id=1177, 277.035pt x 274.626pt>
+<Bilder/TS4048/cSLELOmonoclpeak.png, id=1181, 277.035pt x 274.626pt>
 File: Bilder/TS4048/cSLELOmonoclpeak.png Graphic file (type png)
  <use Bilder/TS4048/cSLELOmonoclpeak.png>
 Package pdftex.def Info: Bilder/TS4048/cSLELOmonoclpeak.png used on input line 249.
@@ -1806,13 +1812,13 @@ onoclpeak.png>]) (Kapitel/ErgebnissePolarisation.tex [66] [67] [68
 
 ]
 Kapitel 7.
-<Bilder/spektrenAlvariation.pdf, id=1217, 653.44125pt x 554.07pt>
+<Bilder/spektrenAlvariation.pdf, id=1221, 653.44125pt x 554.07pt>
 File: Bilder/spektrenAlvariation.pdf Graphic file (type pdf)
  <use Bilder/spektrenAlvariation.pdf>
 Package pdftex.def Info: Bilder/spektrenAlvariation.pdf used on input line 18.
 (pdftex.def)             Requested size: 204.9466pt x 173.77208pt.
 
-<Bilder/polarisationAlvariation.pdf, id=1218, 658.46pt x 514.92375pt>
+<Bilder/polarisationAlvariation.pdf, id=1222, 658.46pt x 514.92375pt>
 File: Bilder/polarisationAlvariation.pdf Graphic file (type pdf)
  <use Bilder/polarisationAlvariation.pdf>
 Package pdftex.def Info: Bilder/polarisationAlvariation.pdf used on input line 25.
@@ -1822,13 +1828,13 @@ Package pdftex.def Info: Bilder/polarisationAlvariation.pdf used on input line 2
 
 pdfTeX warning: pdflatex.exe (file ./Bilder/polarisationAlvariation.pdf): PDF inclusion: multiple pdfs with page group i
 ncluded in a single page
->] <Bilder/spektrenQWvariation.pdf, id=1275, 707.64375pt x 563.10374pt>
+>] <Bilder/spektrenQWvariation.pdf, id=1279, 707.64375pt x 563.10374pt>
 File: Bilder/spektrenQWvariation.pdf Graphic file (type pdf)
  <use Bilder/spektrenQWvariation.pdf>
 Package pdftex.def Info: Bilder/spektrenQWvariation.pdf used on input line 42.
 (pdftex.def)             Requested size: 204.9466pt x 163.0811pt.
 
-<Bilder/polarisationDickenvariation.pdf, id=1276, 653.44125pt x 506.89375pt>
+<Bilder/polarisationDickenvariation.pdf, id=1280, 653.44125pt x 506.89375pt>
 File: Bilder/polarisationDickenvariation.pdf Graphic file (type pdf)
 
 <use Bilder/polarisationDickenvariation.pdf>
@@ -1840,13 +1846,13 @@ pdfTeX warning: pdflatex.exe (file ./Bilder/polarisationDickenvariation.pdf): PD
 up included in a single page
 >]
 Kapitel 8.
-<Bilder/RaumtempBilder/genfit1-10.png, id=1318, 638.6259pt x 490.7133pt>
+<Bilder/RaumtempBilder/genfit1-10.png, id=1322, 638.6259pt x 490.7133pt>
 File: Bilder/RaumtempBilder/genfit1-10.png Graphic file (type png)
  <use Bilder/RaumtempBilder/genfit1-10.png>
 Package pdftex.def Info: Bilder/RaumtempBilder/genfit1-10.png used on input line 12.
 (pdftex.def)             Requested size: 133.84424pt x 102.84317pt.
 
-<Bilder/RaumtempBilder/genfit1-20.png, id=1319, 623.4492pt x 501.5538pt>
+<Bilder/RaumtempBilder/genfit1-20.png, id=1323, 623.4492pt x 501.5538pt>
 File: Bilder/RaumtempBilder/genfit1-20.png Graphic file (type png)
  <use Bilder/RaumtempBilder/genfit1-20.png>
 Package pdftex.def Info: Bilder/RaumtempBilder/genfit1-20.png used on input line 12.
@@ -1856,19 +1862,19 @@ File: Bilder/RaumtempBilder/genfit1-20.png Graphic file (type png)
 <use Bilder/RaumtempBilder/genfit1-20.png>
 Package pdftex.def Info: Bilder/RaumtempBilder/genfit1-20.png used on input line 12.
 (pdftex.def)             Requested size: 133.84424pt x 107.67125pt.
- <Bilder/RaumtempBilder/iqe1-10.png, id=1320, 590.6868pt x 490.7133pt>
+ <Bilder/RaumtempBilder/iqe1-10.png, id=1324, 590.6868pt x 490.7133pt>
 File: Bilder/RaumtempBilder/iqe1-10.png Graphic file (type png)
 
 <use Bilder/RaumtempBilder/iqe1-10.png>
 Package pdftex.def Info: Bilder/RaumtempBilder/iqe1-10.png used on input line 13.
 (pdftex.def)             Requested size: 133.84424pt x 111.19193pt.
- <Bilder/RaumtempBilder/iqe1-15.png, id=1321, 595.9866pt x 501.5538pt>
+ <Bilder/RaumtempBilder/iqe1-15.png, id=1325, 595.9866pt x 501.5538pt>
 File: Bilder/RaumtempBilder/iqe1-15.png Graphic file (type png)
 
 <use Bilder/RaumtempBilder/iqe1-15.png>
 Package pdftex.def Info: Bilder/RaumtempBilder/iqe1-15.png used on input line 13.
 (pdftex.def)             Requested size: 133.84424pt x 112.63045pt.
- <Bilder/RaumtempBilder/iqe1-20.png, id=1322, 590.6868pt x 501.5538pt>
+ <Bilder/RaumtempBilder/iqe1-20.png, id=1326, 590.6868pt x 501.5538pt>
 File: Bilder/RaumtempBilder/iqe1-20.png Graphic file (type png)
 
 <use Bilder/RaumtempBilder/iqe1-20.png>
@@ -1919,15 +1925,9 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 80.
  (Masterarbeit.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 80.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 80.
+Package rerunfilecheck Info: File `Masterarbeit.out' has not changed.
+(rerunfilecheck)             Checksum: 472C92A85DA79438414D90A4EE559EBF;2747.
 
-
-Package rerunfilecheck Warning: File `Masterarbeit.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Masterarbeit.out':
-(rerunfilecheck)             Before: C72691FCA9CD24351BE2EE2362F5D4DF;2723
-(rerunfilecheck)             After:  3F48BA65A43395CF283FDD92D7E26070;2739.
 
 LaTeX Warning: There were undefined references.
 
@@ -1937,10 +1937,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 80.
  ) 
 Here is how much of TeX's memory you used:
- 12848 strings out of 493333
- 195621 string characters out of 3139195
- 336123 words of memory out of 3000000
- 15740 multiletter control sequences out of 15000+200000
+ 12852 strings out of 493333
+ 195714 string characters out of 3139195
+ 337537 words of memory out of 3000000
+ 15743 multiletter control sequences out of 15000+200000
  23402 words of font info for 57 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  59i,15n,94p,2014b,646s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1960,9 +1960,9 @@ pe1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
 fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
 amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9
 /fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on Masterarbeit.pdf (84 pages, 13815158 bytes).
+Output written on Masterarbeit.pdf (84 pages, 13914610 bytes).
 PDF statistics:
- 2051 PDF objects out of 2073 (max. 8388607)
- 247 named destinations out of 1000 (max. 500000)
+ 2054 PDF objects out of 2073 (max. 8388607)
+ 248 named destinations out of 1000 (max. 500000)
  749 words of extra memory for PDF output out of 10000 (max. 10000000)
 
