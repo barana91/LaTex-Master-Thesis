@@ -1,16 +1,5 @@
 \begin{thebibliography}{10}
 
-\bibitem{nobelp}
-``Presse veröffentlichlung der königlich schwedische akademie der
-  wissenschaften.''
-  \url{https://www.nobelprize.org/prizes/physics/2014/press-release/}.
-\newblock Accessed: 2018-10-08.
-
-\bibitem{kneissl}
-M.~Kneissl and J.~Rass, {\em III-Nitride Ultraviolet Emitters}.
-\newblock Springer Series in Materials Science, Springer International
-  Publishing, 2016.
-
 \bibitem{risk}
 W.~Risk, T.~Gosnell, and A.~Nurmikko, {\em Compact Blue-Green Lasers}.
 \newblock Cambridge studies in modern optics, Cambridge University Press, 2003.
@@ -28,6 +17,12 @@ S.~Vilhunen, H.~S{\"a}rkk{\"a}, and M.~Sillanp{\"a}{\"a}, ``Ultraviolet
   light-emitting diodes in water disinfection,'' {\em Environmental Science and
   Pollution Research}, vol.~16, pp.~439--442, Jun 2009.
 
+\bibitem{WURTELE20111481}
+M.~Würtele, T.~Kolbe, M.~Lipsz, A.~Külberg, M.~Weyers, M.~Kneissl, and
+  M.~Jekel, ``Application of gan-based ultraviolet-c light emitting diodes –
+  uv leds – for water disinfection,'' {\em Water Research}, vol.~45, no.~3,
+  pp.~1481 -- 1489, 2011.
+
 \bibitem{0268-1242-26-1-014036}
 M.~Kneissl, T.~Kolbe, C.~Chua, V.~Kueller, N.~Lobo, J.~Stellmach, A.~Knauer,
   H.~Rodriguez, S.~Einfeldt, Z.~Yang, N.~M. Johnson, and M.~Weyers, ``Advances
@@ -40,8 +35,15 @@ T.~Lalinský, I.~Rýger, G.~Vanko, M.~Tomáška, I.~Kostič, S.~Haščík, and
   {\em Procedia Engineering}, vol.~5, pp.~152 -- 155, 2010.
 \newblock Eurosensor XXIV Conference.
 
-\bibitem{semreich}
-C.~Reich. Persönliche Kommunikation.
+\bibitem{jeschke}
+J.~Jeschke, {\em Entwicklung von optisch pumpbaren UVC-Lasern auf AlGaN-Basis}.
+\newblock PhD thesis, Technische Universität Berlin, 2018.
+
+\bibitem{doi:10.1063/1.2136424}
+W.~H. Sun, J.~P. Zhang, J.~W. Yang, H.~P. Maruska, M.~A. Khan, R.~Liu, and
+  F.~A. Ponce, ``Fine structure of aln∕algan superlattice grown by pulsed
+  atomic-layer epitaxy for dislocation filtering,'' {\em Applied Physics
+  Letters}, vol.~87, no.~21, p.~211915, 2005.
 
 \bibitem{pipr}
 J.~Piprek, {\em Nitride semiconductor devices: principles and simulation}.
@@ -73,6 +75,18 @@ O.~Ambacher, J.~Majewski, C.~Miskys, M.~H. A.~Link, M.~Eickhoff, M.~Stutzmann,
   ``Pyroelectric properties of al(in)gan/gan hetero- and quantum well
   structures,'' {\em Journal of Physics: Condensed Mater}, vol.~82:075208,
   no.~14:3399, 2002.
+
+\bibitem{doi:10.1063/1.2857467}
+A.~Pinos, S.~Marcinkevičius, K.~Liu, M.~S. Shur, E.~Kuokštis, G.~Tamulaitis,
+  R.~Gaska, J.~Yang, and W.~Sun, ``Screening dynamics of intrinsic electric
+  field in algan quantum wells,'' {\em Applied Physics Letters}, vol.~92,
+  no.~6, p.~061907, 2008.
+
+\bibitem{1347-4065-36-4A-L382}
+T.~Takeuchi, S.~Sota, M.~Katsuragawa, M.~Komori, H.~Takeuchi, H.~Amano, and
+  I.~Akasaki, ``Quantum-confined stark effect due to piezoelectric fields in
+  gainn strained quantum wells,'' {\em Japanese Journal of Applied Physics},
+  vol.~36, no.~4A, p.~L382, 1997.
 
 \bibitem{problem}
 J.~Takatsu, R.~Fuji, J.~Tatebayashi, D.~Timmerman, A.~Lesage, T.~Gregorkiewicz,
@@ -116,6 +130,11 @@ T.~Wunderer, C.~L. Chua, J.~E. Northrup, Z.~Yang, N.~M. Johnson, M.~Kneissl,
   R.~F. Dalmau, and Z.~Sitar, ``Optically pumped uv lasers grown on bulk aln
   substrates,'' {\em physica status solidi c}, vol.~9, no.~3‐4, pp.~822--825.
 
+\bibitem{kneissl}
+M.~Kneissl and J.~Rass, {\em III-Nitride Ultraviolet Emitters}.
+\newblock Springer Series in Materials Science, Springer International
+  Publishing, 2016.
+
 \bibitem{1882-0786-8-2-022104}
 J.~Yun, J.-I. Shim, and H.~Hirayama, ``Analysis of efficiency droop in 280-nm
   algan multiple-quantum-well light-emitting diodes based on carrier rate
@@ -147,6 +166,9 @@ A.~Laubsch, M.~Sabathil, W.~Bergbauer, M.~Strassburg, H.~Lugauer, M.~Peter,
 E.~Kioupakis, P.~Rinke, K.~T. Delaney, and C.~G. Van~de Walle, ``Indirect auger
   recombination as a cause of efficiency droop in nitride light-emitting
   diodes,'' {\em Applied Physics Letters}, vol.~98, no.~16, p.~161107, 2011.
+
+\bibitem{semreich}
+C.~Reich. Persönliche Kommunikation.
 
 \bibitem{schub}
 E.~F. Schubert, {\em Light Emitting Diodes, Second Edition}.
@@ -246,11 +268,6 @@ S.~Wieczorek, W.~W. Chow, S.~R. Lee, A.~J. Fischer, A.~A. Allerman, and M.~H.
   Crawford, ``Analysis of optical emission from high-aluminum algan
   quantum-well structures,'' {\em Applied Physics Letters}, vol.~84, no.~24,
   pp.~4899--4901, 2004.
-
-\bibitem{doi:10.1063/1.1492316}
-K.~B. Nam, J.~Li, M.~L. Nakarmi, J.~Y. Lin, and H.~X. Jiang, ``Achieving highly
-  conductive algan alloys with high al contents,'' {\em Applied Physics
-  Letters}, vol.~81, no.~6, pp.~1038--1040, 2002.
 
 \bibitem{fmehnke}
 F.~Mehnke., {\em Design, Epitaxie und Charakterisierung AlGaN-basierter

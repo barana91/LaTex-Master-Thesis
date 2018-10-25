@@ -5,11 +5,9 @@
 \label{chap:offcut}
 
 \section{Einleitung}
-Dieses Kapitel widmet sich der Untersuchung zweier Probenreihen von optisch gepumpten Laserstrukturen, die aus Rezepten aus zwei unterschiedlichen Serien stammen. Die beiden Serien unterscheiden sich im wesentlichen dadurch, dass sie mit(Serie 2) und ohne Übergitter(Serie 1) gewachsen wurden. Sie haben alle eine aktive Zone, die sich zusammen setzt aus zwei $5$nm dicken und Si-dotierten $ Al_{0.8}Ga_{0.3}N$-Barrieren zwischen den drei $2.2 \thinspace nm$ dicken $ Al_{0.56}Ga_{0.44}N$ QWs. Die aktive Zone befindet sich zwischen einem $30 \thinspace nm$ dicken $ Al_{0.70}Ga_{0.30}N$ und einem $85 \thinspace nm$ dicken Waveguide als oberste Schicht. Der Wellenleiter hat den Zweck, die optische Mode einzuschließen, daher ist ein hoher Brechungsindexsprung zwischen den Barrieren der aktiven Region und der darüberlegenden Schichten notwendig.
+Dieses Kapitel widmet sich der Untersuchung zweier Probenreihen von optisch gepumpten Laserstrukturen, die aus Rezepten aus zwei unterschiedlichen Serien stammen. Die beiden Serien unterscheiden sich im wesentlichen dadurch, dass sie mit(Serie 2) und ohne Übergitter(Serie 1) gewachsen wurden. Sie haben alle eine aktive Zone, die sich zusammen setzt aus zwei $5$nm dicken und Si-dotierten $ Al_{0.8}Ga_{0.3}N$-Barrieren zwischen den drei $2.2$nm dicken $ Al_{0.56}Ga_{0.44}N$ QWs. Die aktive Zone befindet sich zwischen einem $30 \thinspace nm$ dicken $ Al_{0.70}Ga_{0.30}N$ und einem $85 \thinspace nm$ dicken Waveguide als oberste Schicht. Der Wellenleiter hat den Zweck, die optische Mode einzuschließen, daher ist ein hoher Brechungsindexsprung zwischen den Barrieren der aktiven Region und der darüberlegenden Schichten notwendig.
 \newline
 Dieser Block an Schichten bildet die unveränderte Grundlage für alle in diesem Kapitel untersuchten Proben.
-\newline
-Die Proben beider Serien mit dem ELO AlN/Saphir Substrat unterscheiden sich untereinander noch vom Fehlschnitt und der Richtung des Fehlschnittes des Substrats. Die gegeben Werte stammen vom Hersteller und sind nur nominelle Werte die sich von den realen unterscheiden können. So haben die mit A gekennzeichneten Proben einen nominellen Fehlschnitt von $\alpha = 0.1\circ \thinspace m$ in die Standard m-Richtung, die mit B gekennzeichneten Proben den selben Fehlschnitt in eine der sechs nicht Standard m-Richtungen und die mit C gekennzeichneten Proben einen Fehlschnitt von $\alpha = 0.2\circ \thinspace m$ in die Standard m-Richtung. 
 \begin{figure}[H]
 \centering
 \begin{tabular}{ |c|c|c|c|c|c|   }
@@ -24,7 +22,9 @@ C & 0.2$^\circ$m  & C-SL & 0.2$^\circ$m \\
 \hline
 \end{tabular}
 \end{figure}
-\noindent
+\noindent 
+Die Proben beider Serien mit dem ELO AlN/Saphir Substrat unterscheiden sich untereinander noch vom Fehlschnitt und der Richtung des Fehlschnittes des Substrats. Die gegeben Werte stammen vom Hersteller und sind nur nominelle Werte die sich von den realen unterscheiden können. So haben die mit A gekennzeichneten Proben einen nominellen Fehlschnitt von $\alpha = 0.1\circ \thinspace m$ in die Standard m-Richtung, die mit B gekennzeichneten Proben den selben Fehlschnitt in eine der sechs nicht Standard m-Richtungen und die mit C gekennzeichneten Proben einen Fehlschnitt von $\alpha = 0.2\circ \thinspace m$ in die Standard m-Richtung. 
+\newline
 Die Untersuchung des Einflusses des Fehlschnitt-Winkels des Substrates, ist insofern interessant, da dieser eine entscheidende Rolle beim Wachstum der Heterostrukturen spielt. Er erlaubt es die Wachstumskinetik zu steuern, so dass sich die Schichten in die kristalline Struktur formen wie in Abbildung \ref{fig:offcut} zu sehen ist.
 \newline
 Der Fehlschnitt-Winkel $\alpha$ ist die Winkel-Differenz zwischen Oberflächennormale und der c-Richtung. Für ein $\alpha \leq 0,12 $ wurde gezeigt, dass es zu Stufenfluss kommt und somit zu relativ glatten Oberflächen mit wellenartiger Morphologie und mit $\alpha \geq 0,16 $ in Stufenbündelwachstum mit Makrostufen resultieren kann. Dies ist nicht unwichtig für Laserstrukturen, da glatte Oberflächen optische Streuung an der Oberfläche verringern, sollten aber keinen Effekt auf die IQE haben. Allerdings kann an den Stufenkanten verstärkt Ga eingebaut und somit die Zusammensetzung der aktiven Zone inhomogen werden \cite{zeimeru} \cite{MOGILATENKO2014222} \cite{fmehnke}, was wiederum einen Einfluss auf die IQE durch Lokalisierung haben könnte.
@@ -148,7 +148,7 @@ Die Oberfläche der Probe C-ELO dagegen weist, wie auf Abbildung (c) zu sehen is
 \newline
 Die Ergebnisse der Probe C-ELO dagegen lassen sich schwer interpretieren. Sie besitzt eine fast doppelt so hohe IQE wie die anderen beiden Proben, bei einer geringeren Intensität. Auf der Probe selbst scheinen weniger Elektron-Loch-Paare generiert zu werden, was sich durch eben eine geringere Intensität äußert, aber untermauert wird durch die IQE bei $5K$ und dem bei weitem früher einsetzenden Plateau. Die Gründe dafür können schwer bestimmt werden. Beim Wachstum des MQW ist eindeutig etwas schief gelaufen und äußert sich in der Morphologie. Inwieweit die Morphologie einen Einfluss auf die Kollektionseffizienz (Licht- ein- und auskopplung) der Proben hat, ist schwierig und zu diesem Zeitpunkt nicht benennbar.
 \newline
-So bleibt die IQE der Probe C-ELO ohne weitere Investigation schwer bis gar nicht zu verwerten. Um den tatsächlichen Einfluss eines Fehlschnittwinkels von 0.2$^\circ$ auf die Versetzungsdichte und damit eine IQE zu bestimmen, wäre es notwendig, eine neue Serie zu wachsen bei der beim MQW-Wachstum nichts schief läuft und zusätzlich Messungen in denen die maximale IQE bestimmt werden kann. Letzteres ist mit dem derzeitigen PL-Aufbau nicht möglich.
+So bleibt die IQE der Probe C-ELO ohne weitere Investigation schwer bis gar nicht zu verwerten. Um den tatsächlichen Einfluss eines Fehlschnittwinkels von 0.2$^\circ$ auf die Versetszungsdichte und damit eine IQE zu bestimmen, wäre es notwendig, eine neue Serie zu wachsen bei der beim MQW-Wachstum nichts schief läuft und zusätzlich Messungen in denen die maximale IQE bestimmt werden kann. Letzteres ist mit dem derzeitigen PL-Aufbau nicht möglich.
 \section{UVC-Laser Strukturen auf ELO mit Übergitter}
 \begin{figure}[h]
 \includegraphics[width=\linewidth]{Bilder/TS4048/ts4048.png}
