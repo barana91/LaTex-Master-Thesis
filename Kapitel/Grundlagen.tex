@@ -2,17 +2,20 @@
 \thispagestyle{fancy}
 
 \section{Bandstruktur von Gruppe-III Nitriden}
-\begin{figure}[!htb]
+Der Schwerpunkt dieser Arbeit liegt auf dem AlGaN-Materialsystem mit hohen Al-Konzentrationen. Das Mischverhältnis bestimmt hierbei die Bandlückenenergie des Verbindungshalbleiters.
+\begin{figure}[H]
     \centering
     \begin{minipage}[t]{\linewidth}
         \centering
         \includegraphics[width=0.5\linewidth]{Bilder/bandluecke.pdf}
         \caption{Die Bandlücke von $Al_{x}Ga_{1-x}N$ variiert mit dem Aluminiumgehalt x zwischen den Bandlücken von AlN ($E_{g}(T = 300 K) = 6,1 \thinspace eV$) und GaN ($E_{g}(T = 300 K) = 3,4 \thinspace  eV$) ~\cite{pipr}. Die Abweichung von der Linearität beschreibt der Bowing-Parameter $b_{AlGaN} = 0,7 \thinspace eV$.} 
-        \label{fig:wurtz}
+        \label{fig:algan}
     \end{minipage}% <- sonst wird hier ein Leerzeichen eingefügt
 \end{figure}
 \noindent
-Der Schwerpunkt dieser Arbeit liegt auf dem AlGaN-Materialsystem mit hohen Al-Konzentrationen. Das Mischverhältnis bestimmt hierbei die Bandlückenenergie des Verbindungshalbleiters. Durch die unterschiedlichen Bandlückenenergien von Aluminium mit $6,03 \thinspace eV$\cite{fenaln} und GaN mit $3,4 \thinspace eV$ \cite{pipr} eignet sich AlGaN besonders für die Emission im Wellenlängenbereich von UV-A bis UV-C. 
+Durch die unterschiedlichen Bandlückenenergien von Aluminium mit $6,03 \thinspace eV$\cite{fenaln} und GaN mit $3,4 \thinspace eV$ \cite{pipr} eignet sich AlGaN besonders für die Emission im Wellenlängenbereich von UV-A bis UV-C wie Abbildung \ref{fig:algan} zu sehen ist. 
+\newline
+\newline
 Die Bandlückenenergie von AlGaN lässt sich durch Interpolation der binären Energien von GaN und AlN in Abhängigkeit des Kompositionsverhältnisses x berechnen, wobei ein zusätzlicher Bowing-Parameter für die nichtlineare Abweichung hinzugefügt wird. 
 %
 \begin{equation}
@@ -25,7 +28,9 @@ Vurgaftman et al. empfehlen unter Berücksichtigung weiterer Veröffentlichungen
 
 
 \section{Wurtzitstruktur}
-
+Die wichtige Gruppe der III-Nitridhalbleiter setzt sich aus den Metallen
+der dritten Hauptgruppe Aluminium (Al), Gallium (Ga) und Indium (In) zusammen.
+Diese kristallisieren, wie in Abbildung \ref{fig:wurtz} zu sehen, bevorzugt in der hexagonalen Wurtzitstruktur.
 \begin{figure}[!htb]
     \centering
     \begin{minipage}[t]{\linewidth}
@@ -36,9 +41,7 @@ Vurgaftman et al. empfehlen unter Berücksichtigung weiterer Veröffentlichungen
         \label{fig:wurtz}
 \end{figure}
 \noindent
-Die wichtige Gruppe der III-Nitridhalbleiter setzt sich aus den Metallen
-der dritten Hauptgruppe Aluminium (Al), Gallium (Ga) und Indium (In) zusammen.
-Diese kristallisieren, wie in Abbildung \ref{fig:wurtz} zu sehen, bevorzugt in der hexagonalen Wurtzitstruktur. Anschaulich bedeutet dies, dass ausgehend von der hexagonal dichtesten Kugelpackung in Doppellagen, die Gruppe-III-Metalle und Stickstoff (N) sich entlang der c-Achse in der Abfolge A-B-A-B anordnen \cite{buchc}. Die Einheitszelle wird durch Gitterparameter $a$ und $c$ bestimmt. Die Gitterkonstanten zeigen eine lineare Abhängigkeit vom Konzentrationsverhältnis x und können mit dem Vegard'schen Gesetz berechnet werden.
+Anschaulich bedeutet dies, dass ausgehend von der hexagonal dichtesten Kugelpackung in Doppellagen, die Gruppe-III-Metalle und Stickstoff (N) sich entlang der c-Achse in der Abfolge A-B-A-B anordnen \cite{buchc}. Die Einheitszelle wird durch Gitterparameter $a$ und $c$ bestimmt. Die Gitterkonstanten zeigen eine lineare Abhängigkeit vom Konzentrationsverhältnis x und können mit dem Vegard'schen Gesetz berechnet werden.
 %
 \begin{align}
 \begin{split}
@@ -63,8 +66,13 @@ c & 4,980 & 5,196 & 12,99 \\ \hline
 
 \section{Polarisationsfeld und QCSE in III/V Halbleitern}
 
-Aufgrund der fehlenden Inversionssymmetrie und stark unterschiedlichen Elektronegativitäten des Stickstoffs und der entsprechenden Gruppe III-Metalle bilden sich Polarisationsfelder aus, die entlang der auf der Basalebende stehenden c-Achse verlaufen. Hier unterscheidet man zwischen zwei Arten von Polarisationsfeldern, die spontane Polarisation $ \vec{P}^{sp} $ und die piezoelektrische Polarisation $ \vec{P}^{pz} $. Die spontane Polarisation entsteht durch Dipolmomente im Kristall, die sich aufgrund von ungleichen Bindungslängen nicht komplett aufheben. Ursprung der 
-Dipolmomente im AlGaN sind die unterschiedlichen Elektronegativitäten zwischen den Gruppe III-V Elementen. Bedingt durch die angestrebte Minimierung der Gesamtenergie kommt es zur Abweichung vom idealen Tetraederwinkel von $109,5^{\circ}$~\cite{ambacher2002}.
+Aufgrund der fehlenden Inversionssymmetrie und stark unterschiedlichen Elektronegativitäten des Stickstoffs und der entsprechenden Gruppe III-Metalle bilden sich Polarisationsfelder aus, die entlang der auf der Basalebende stehenden c-Achse verlaufen. 
+\newline
+\newline
+Hier unterscheidet man zwischen zwei Arten von Polarisationsfeldern, die spontane Polarisation $ \vec{P}^{sp} $ und die piezoelektrische Polarisation $ \vec{P}^{pz} $. 
+Die spontane Polarisation entsteht durch Dipolmomente im Kristall, die sich aufgrund von ungleichen Bindungslängen nicht komplett aufheben. 
+\newline
+Ursprung der Dipolmomente im AlGaN sind die unterschiedlichen Elektronegativitäten zwischen den Gruppe III-V Elementen. Bedingt durch die angestrebte Minimierung der Gesamtenergie kommt es zur Abweichung vom idealen Tetraederwinkel von $109,5^{\circ}$~\cite{ambacher2002}.
 %
 \begin{figure}[htb]
     \centering
@@ -84,4 +92,8 @@ Die Ursache für die piezoelektrische Polarisation sind die Verzerrungen zwische
 %
 mit Dehnung $\epsilon$ und dem piezolektrischen Tensor $\vec{e}$ (Tensor dritter Stufe).
 \newline
-In Heterostrukturen führt der Wechsel der Gesamtpolarisation $\vec{P}^{gesamt} = \vec{P}^{pz} + \vec{P}^{sp}$ zwischen den einzelnen Schichten zur Ansammlung von Ladungsträgern an den Grenzflächen. Dies ist insbesondere für die Effizienz von Leucht-und Laserdioden von Nachteil. Denn in diesen erzeugen die induzierten Grenzflächenladungen ein elektrisches Feld, das zu einer Bandverbiegung führt (siehe Abb. \ref{fig:qcse}). Mit dem Einfluss der Polarisation sammeln sich die Elektronen und Löcher im Quantenfilm somit auf gegenüberliegenden Seiten. Dies führt dazu, dass der räumliche Überlapp der Wellenfunktionen von Elektronen und Löchern abnimmt. Durch das verringerte Überlappintegral der Wellenfunktionen sinkt nach Fermis Goldener Regel auch die strahlende Rekombinationsrate. Des Weiteren sinkt die effektive Bandlücke und ist im Spektrum durch eine Rotverschiebung der Emission zu erkennen. Dieser Effekt wird als "Quantum Confined Stark Effekt" (QCSE) bezeichnet. Bei genügend hohen Ladungsträgerdichten im Quantenfilm kommt es zur Abschirmung (engl. screening) der Grenzflächenladungen, welche die Auswirkungen des QCSE abschwächen \cite{doi:10.1063/1.2857467} \cite{1347-4065-36-4A-L382}.
+In Heterostrukturen führt der Wechsel der Gesamtpolarisation $\vec{P}^{gesamt} = \vec{P}^{pz} + \vec{P}^{sp}$ zwischen den einzelnen Schichten zur Ansammlung von Ladungsträgern an den Grenzflächen. Dies ist insbesondere für die Effizienz von Leucht-und Laserdioden von Nachteil. Denn in diesen erzeugen die induzierten Grenzflächenladungen ein elektrisches Feld, das zu einer Bandverbiegung führt (siehe Abb. \ref{fig:qcse}). Mit dem Einfluss der Polarisation sammeln sich die Elektronen und Löcher im Quantenfilm somit auf gegenüberliegenden Seiten.
+\newline
+Dies führt dazu, dass der räumliche Überlapp der Wellenfunktionen von Elektronen und Löchern abnimmt. Durch das verringerte Überlappintegral der Wellenfunktionen sinkt nach Fermis Goldener Regel auch die strahlende Rekombinationsrate. Des Weiteren sinkt die effektive Bandlücke und ist im Spektrum durch eine Rotverschiebung der Emission zu erkennen. 
+\newline
+Dieser Effekt wird als "Quantum Confined Stark Effekt" (QCSE) bezeichnet. Bei genügend hohen Ladungsträgerdichten im Quantenfilm kommt es zur Abschirmung (engl. screening) der Grenzflächenladungen, welche die Auswirkungen des QCSE abschwächen \cite{doi:10.1063/1.2857467} \cite{1347-4065-36-4A-L382}.
