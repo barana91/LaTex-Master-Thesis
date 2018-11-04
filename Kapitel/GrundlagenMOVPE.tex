@@ -7,7 +7,9 @@ Die Metallorganische Gasphasenepitaxie (engl.: metalorganic vapor phase epitaxy,
 
 \section{Substrat}
 
-In der Epitaxie beruhen viele Eigenschaften der aufgewachsenen Schichten auf dem dazu verwendeten Substrat. So sind Gitterfehlanpassung, Versetzungsdichte und die Morphologie wichtige Eigenschaften, die durch das Substrat maßgeblich beeinflusst werden. Für AlGaN kann theoretisch auf verschiedene Substrate zurückgegriffen werden und die Vermutung direkt AlGaN basierte Substrate zu verwenden liegt nahe. Dies scheitert allerdings an der besonders hohen Schwierigkeit bei der Herstellung. Daraus resultierend weisen diese Substrate hohe Versetzungsdichten auf und sind mit sehr hohen Kosten verbunden. Weiterhin ist GaN/Saphir oder GaN als Volumenkristall kommerziell in großen Mengen und hoher Qualität erhältlich, aber aufgrund der Gitterfehlanpassung zwischen AlN und GaN reißen AlGaN-Schichten mit hohem Aluminiumgehalt auf GaN wegen Relaxation \cite{problem} wie in Abbildung \ref{fig:wachstum} dargestellt.
+In der Epitaxie beruhen viele Eigenschaften der aufgewachsenen Schichten auf dem dazu verwendeten Substrat. So sind Gitterfehlanpassung, Versetzungsdichte und die Morphologie wichtige Eigenschaften, die durch das Substrat maßgeblich beeinflusst werden. Für AlGaN kann theoretisch auf verschiedene Substrate zurückgegriffen werden und die Vermutung direkt AlGaN basierte Substrate zu verwenden liegt nahe. Dies scheitert allerdings an der besonders hohen Schwierigkeit bei der Herstellung.
+\newline
+Daraus resultierend weisen diese Substrate hohe Versetzungsdichten auf und sind mit sehr hohen Kosten verbunden. Weiterhin ist GaN/Saphir oder GaN als Volumenkristall kommerziell in großen Mengen und hoher Qualität erhältlich, aber aufgrund der Gitterfehlanpassung zwischen AlN und GaN reißen AlGaN-Schichten mit hohem Aluminiumgehalt auf GaN wegen Relaxation \cite{problem} wie in Abbildung \ref{fig:wachstum} dargestellt.
 \begin{figure}[h]
     \centering
     \begin{minipage}[t]{1\linewidth}
@@ -17,7 +19,9 @@ In der Epitaxie beruhen viele Eigenschaften der aufgewachsenen Schichten auf dem
     \caption{Verfahren zum epitaktisch lateralen Wachstum.}
      \label{fig:wachstum}
 \end{figure} 
-Ein weiterer ungewollter Effekt ist die Absorption von UV-Strahlung ($\lambda \leq 365 \thinspace nm$) im GaN und erlaubt damit keine Verwendung im UV-B und UV-C-Bereich. Daher werden UV-B- und UV-C LEDs und Laserdioden hauptsächlich auf AlN/Saphir oder auf AlN als Volumenkristall gewachsen. Der AlN Volumenkristall weist dabei die kleinste Versetzungsdichte mit $<10^4 \thinspace cm^2$ auf. Jedoch ist die Ausbeute der AlN Substrate zeitaufwendig und teuer. Daher wird für Forschungszwecke auf AlN/Saphir zurückgegriffen und dabei aber eine hohe Versetzungsdichte in Kauf genommen. Defekte entstehen dabei im Kristall wegen der hohen Gitterfehlanpassung an der Grenzfläche zwischen AlN und Spahir \cite{pohl}. Diese Defekte ziehen sich dabei durch die darauffolgenden aufgewachsenen Schichten. Diese sog. Schraubenversetzungen (engl.: threading dislocation) haben einen wesentlichen Einfluss auf die IQE, wie in Abbildung \ref{fig:IQEthreadingdisl} erkennbar. 
+Ein weiterer ungewollter Effekt ist die Absorption von UV-Strahlung ($\lambda \leq 365 \thinspace nm$) im GaN und erlaubt damit keine Verwendung im UV-B und UV-C-Bereich. Daher werden UV-B- und UV-C LEDs und Laserdioden hauptsächlich auf AlN/Saphir oder auf AlN als Volumenkristall gewachsen. Der AlN Volumenkristall weist dabei die kleinste Versetzungsdichte mit $<10^4 \thinspace cm^2$ auf. Jedoch ist die Ausbeute der AlN Substrate zeitaufwendig und teuer. Daher wird für Forschungszwecke auf AlN/Saphir zurückgegriffen und dabei aber eine hohe Versetzungsdichte in Kauf genommen. 
+\newline
+Defekte entstehen dabei im Kristall wegen der hohen Gitterfehlanpassung an der Grenzfläche zwischen AlN und Spahir \cite{pohl}. Diese Defekte ziehen sich dabei durch die darauffolgenden aufgewachsenen Schichten. Diese sog. Schraubenversetzungen (engl.: threading dislocation) haben einen wesentlichen Einfluss auf die IQE, wie in Abbildung \ref{fig:IQEthreadingdisl} erkennbar. 
 %
 \begin{figure}[h]
 \centering
@@ -29,11 +33,13 @@ Ein weiterer ungewollter Effekt ist die Absorption von UV-Strahlung ($\lambda \l
  \label{fig:IQEthreadingdisl}
 \end{figure}
 \noindent
-Sie agieren im Kristall als nicht-radiative Rekombinationszentren (engl.: nonradiative recombination center, kurz NRC) und bestimmen somit den Anteil nichtstrahlender Rekombinationsprozesse an der Gesamtheit aller Rekombinationsprozesse. Mit steigender Versetzungsdichte sinkt die IQE der Leuchtdiode und im Bereich zwischen $1\cdot 10^10 \thinspace cm^{-2}$ und $1\cdot 10^8 \thinspace cm^{-2}$ ist eine erhebliche Steigerung zu beobachten. Mittels XRD und TEM wurde gezeigt, dass die Heteroepitaxie von AlN Schichten auf Saphir zu einer Versetzungsdichte von bis zu $2\cdot 10^{10} \thinspace cm^{-2}$ führt \cite{zeimeru}.
+Sie agieren im Kristall als nicht-strahlende Rekombinationszentren (engl.: nonradiative recombination center, kurz NRC) und bestimmen somit den Anteil nicht-strahlender Rekombinationsprozesse an der Gesamtheit aller Rekombinationsprozesse.
+\newline
+Mit steigender Versetzungsdichte sinkt die IQE der Leuchtdiode und zeigt Bereich im  zwischen $1\cdot 10^{10} \thinspace cm^{-2}$ und $1\cdot 10^8 \thinspace cm^{-2}$ eine erhebliche Steigerung. Mittels XRD und TEM wurde gezeigt, dass die Heteroepitaxie von AlN Schichten auf Saphir zu einer Versetzungsdichte von bis zu $2\cdot 10^{10} \thinspace cm^{-2}$ führt \cite{zeimeru}.
 
 \section{Reduktion der Versetzungsdichte durch ELO/AlN-Saphir}
 
-Um die hohe Versetzungsdichte des planaeren AlN/Saphir Substrates zu verringern, ist der übliche Ansatz das sog. epitaktisch laterale Überwachsen (engl.: epitaxial lateral overgrowth) oder kurz ELO. Diese Substrate wurden für alle in dieser Arbeit untersuchten Proben verwendet. 
+Um die hohe Versetzungsdichte des planaren AlN/Saphir Substrates zu verringern, ist der übliche Ansatz das sog. epitaktisch laterale Überwachsen (engl.: epitaxial lateral overgrowth) oder kurz ELO. Diese Substrate wurden für alle in dieser Arbeit untersuchten Proben verwendet. 
 \begin{figure}[h]
     \centering
     \begin{minipage}[t]{1\linewidth}
