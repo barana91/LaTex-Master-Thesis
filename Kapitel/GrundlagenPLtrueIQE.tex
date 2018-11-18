@@ -2,7 +2,7 @@
 \chapter{Einfluss der Auger-Rekombination auf die IQE}
 \label{chap:auger}
 \thispagestyle{fancy}
-Das zum Zeitpunkt des Beginns dieser Arbeit verwendete Modell zur Bestimmung der PL-IQE ging davon aus, dass bei Tieftemperatur keine Auger-Rekombination (Gleichung \ref{eq:standardiqe}) vorkommt, aber wie in Abb. \ref{fig:auger5k} deutlich zu erkennen, nimmt der Verlauf der PL-Intensität in doppeltlogarithmischer Darstellung gegenüber der Anregungsleistungsdichte (die direkt proportional zur Ladungsträgerdichte ist), im Bereich höherer Anregungsleistungen (entsprechend höheren Ladungsträgerdichten) deutlich ab und weist keinen linearen Verlauf mehr auf, den er aber durch eine allein quadratische Abhängigkeit (in doppeltlogarithmischer Darstellung linear) haben sollte. 
+Das zu Beginn dieser Arbeit verwendete Modell zur Bestimmung der PL-IQE ging davon aus, dass bei Tieftemperatur keine Auger-Rekombination (Gleichung \ref{eq:standardiqe}) vorkommt. Wie in Abb. \ref{fig:auger5k} deutlich zu erkennen, nimmt jedoch der Verlauf der PL-Intensität in doppeltlogarithmischer Darstellung gegenüber der Anregungsleistungsdichte im Bereich höherer Anregungsleistungen deutlich ab. Die PL-Intensität weist keinen linearen Verlauf mehr auf, den sie aber durch eine allein quadratische Abhängigkeit (in doppeltlogarithmischer Darstellung linear) haben sollte. 
 \newline
 \begin{figure}[ht]
     \centering
@@ -23,13 +23,14 @@ Das zum Zeitpunkt des Beginns dieser Arbeit verwendete Modell zur Bestimmung der
 \vspace{0.1cm}
 \noindent
 \newline
-Dies zeigt, dass die IQE bei Tieftemperatur nicht, wie bisher angenommen, immer bei 100 Prozent liegt, sondern auch bei Tieftemperatur anregungsleistungsdichteabhängig ist. Das dieser Verlustmechanismus ähnlich wie bei InGaN/GaN auf Auger-Rekombination basiert wurde von Nippert et al. bestätigt \cite{doi:10.1063/1.4965298}. 
+Dies zeigt, dass die IQE bei Tieftemperatur nicht, wie bisher angenommen, immer bei 100 Prozent liegt, sondern auch von der  Anregungsleistungsdichte abhängig ist. Dass dieser Verlustmechanismus ähnlich wie bei InGaN/GaN auf Auger-Rekombination , wurde von Nippert et al. bestätigt \cite{doi:10.1063/1.4965298}. 
+\newline
 Um dies zu berücksichtigen, wird nun die IQE bei 5K definiert als:
 \begin{equation}
     IQE_{corr}(T = 5K, P_{exc}) = \frac{ \frac{I_{pl}(T,P_{exc}) }{P_{exc} } } { I_{norm}}
     \label{eq:iqetrue5k}
 \end{equation}
-mit dem Maximum der Verhältnisse von integrierter PL-Intensität zu Anregungsleistungdichte als  Normierungsfaktor über alle $n$ Anregungsleistungdichten
+mit dem Maximum der Verhältnisse von integrierter PL-Intensität zu Anregungsleistungdichte als  Normierungsfaktor über alle $n$ Anregungsleistungdichten.
 \begin{equation}
     I_{norm} = \lvert \lvert \sum_{i=1}^{n} \frac{I_{pl}(T,P_{exc,i})}{P_{exc,i}} \lvert \lvert_{max}
     \label{eq:iplnorm}
@@ -45,13 +46,13 @@ mit dem Maximum der Verhältnisse von integrierter PL-Intensität zu Anregungsle
 \end{figure}
 \noindent
 \newline
-Wobei $I_{pl}(P_{exc})$ die von der Anregungsleistungsdichte $P_{exc}$ und Temperatur $T = 5K$ abhängige integrierte PL-Intensität ist. Die integrierte PL-Intensität wird durch die Anregungsleistungsdichte dividiert und auf das Maxmimum normiert, so dass die höchste IQE bei Tieftemperatur im Bereich der geringsten Anregungsleistungdichte mit der geringsten Auger-Rekombination liegen sollte. Um nun die IQE bei Raumtemperatur zu bestimmen, wird die nach dem alten Verfahren ermittelte IQE multipliziert mit den neu ermittelten Werten passend zur Anregungsleistungsdichte. 
+Wobei $I_{pl}(P_{exc})$ die von der Anregungsleistungsdichte $P_{exc}$ und Temperatur $T = 5K$ abhängige integrierte PL-Intensität ist. Die integrierte PL-Intensität wird durch die Anregungsleistungsdichte dividiert und auf das Maximum normiert, so dass die höchste IQE bei Tieftemperatur im Bereich der geringsten Anregungsleistungdichte mit der geringsten Auger-Rekombination liegen sollte. Um nun die IQE bei Raumtemperatur zu bestimmen, wird die nach dem alten Verfahren ermittelte IQE mit den neu ermittelten Werten passend zur Anregungsleistungsdichte multipliziert. 
 \begin{equation}
     IQE_{corr}(T, A_{exc}) = \frac{IQE(T,A_{exc})}{IQE(5K,A_{exc})} \cdot IQE_{corr}(5K,A_{exc})
     \label{eq:iqetrue300k}
 \end{equation}
 Die IQE bei $5K$ dient hierbei also als Skalierungsfaktor, der den Einfluss der Auger-Rekombination bei einer bestimmten höher liegenden Temperatur (bspw. Raumtemperatur) korrigiert. Somit fällt im Vergleich insbesondere auf, dass die Skalierung bei den kleinsten Anregungsleistungsdichten den geringsten Einfluss hat und mit steigender Anregungsleistungsdichte kubisch steigt, so dass die nach dem alten Verfahren ermittelten IQE-Werte bei höheren Anregungsleistungsdichten deutlich nach unten korrigiert werden müssen. \newline
-Auch wenn mit diesem Verfahren dem Einfluss der Auger-Rekombination mit berücksichtigt wird, so gibt es noch weitere Einflüsse die bei der IQE-Bestimmung beachtet werden müssen. Ein erhebliches Problem steckt in der nicht-resonanten Anregung mit dem ArF-Excimer Laser, denn das Laserlicht wird wegen der hohen Energie auch von allen Schichten und damit insbesondere in den Barrieren absorbiert. Die angeregten Ladungsträger müssen in den QW diffundieren und dort relaxieren, rekombinieren aber potentiell in den Barrieren, was im Spektrum als Barrieren Peak speziell bei Tieftemperatur zu sehen ist.
+Auch wenn mit diesem Verfahren der Einfluss der Auger-Rekombination berücksichtigt wird, gibt es noch weitere Einflüsse die bei der IQE-Bestimmung beachtet werden müssen. Ein erhebliches Problem steckt in der nicht-resonanten Anregung mit dem ArF-Excimer Laser, denn das Laserlicht wird wegen der hohen Energie auch von allen Schichten und damit insbesondere in den Barrieren absorbiert. Die angeregten Ladungsträger müssen in den QW diffundieren und dort relaxieren, rekombinieren aber potentiell in den Barrieren, was im Spektrum als Barrieren Peak speziell bei Tieftemperatur zu sehen ist.
 \newline
-Daraus und aus Absorption resultierend scheitern oft AlGaN-Heterostrukturen die mit einem ArF Laser angeregt werden, eine Sättigung in der IQE zu erreichen \cite{doi:10.1063/1.4965298}. Ohne diese ist es schwer eine echte IQE anzugeben, da die in QWs gelangende Laserstrahlung, von nicht-resonanter Anregung ausgehend, von Materialparametern wie der Absorption und thermischen Diffusion abhängen und somit nicht klar ist, welche Anregungsleistungsdichte tatsächlich in die QWs gelangt. Weswegen ein Vergleich von Proben die sich in ihren Absorptionseigenschaften stark unterscheiden, schwer zu vergleichen sind, wenn die maximale IQE nicht bestimmt werden kann \cite{doi:10.1063/1.5044383}. 
+Daraus und aus Absorption resultierend, scheitern AlGaN-Heterostrukturen, die mit einem ArF Laser angeregt werden, oft dabei eine Sättigung in der IQE zu erreichen \cite{doi:10.1063/1.4965298}. Ohne diese ist es schwer eine echte IQE anzugeben, da die in QWs gelangende Laserstrahlung, von nicht-resonanter Anregung ausgehend, von Materialparametern wie der Absorption und thermischen Diffusion abhängen. Somit ist nicht klar, welche Anregungsleistungsdichte tatsächlich in die QWs gelangt. Deswegen ist ein Vergleich von Proben, die sich in ihren Absorptionseigenschaften stark unterscheiden, schwer zu vergleichen, wenn die maximale IQE nicht bestimmt werden kann \cite{doi:10.1063/1.5044383}. 
 
