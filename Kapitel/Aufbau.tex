@@ -3,7 +3,7 @@
 
 
 \thispagestyle{fancy}
-
+\label{chap:aufbau}
 \section{Photolumineszenzaufbau}
 \begin{figure}[!htb]
     \centering
@@ -11,11 +11,11 @@
         \centering
         \includegraphics[width=0.8\linewidth]{Bilder/aufbauPL.png}
         \caption{Aufbau des Photolumineszenzmessplatzes der AG Kneissl. }
-        \label{fig:wurtz}
+        \label{fig:plaufbau}
     \end{minipage}% <- sonst wird hier ein Leerzeichen eingefügt
 \end{figure}
 \noindent
-Für die experimentelle Untersuchung der UV-Photolumineszenz wurde der PL-Aufbau der AG-Kneissl, den Christoph Reich in der Zeit seiner Diplomarbeit aufgebaut und während seiner Promotion erweitert hat, verwendet\cite{creich}. 
+Für die experimentelle Untersuchung der UV-Photolumineszenz wurde der PL-Aufbau der AG-Kneissl, der in Abbildung \ref{fig:plaufbau} dargestellt ist, verwendet. Der PL-Aufbau wurde von Christoph Reich in der Zeit seiner Diplomarbeit aufgebaut und während seiner Promotion erweitert \cite{creich}. 
 Als Anregungsquelle für die Photolumineszenz dient ein ArF-Excimerlaser mit einer Wellenlänge von $193 \ nm$ ($6,4 \ eV$). Mit dieser Wellenlänge ist er bestens geeignet für die Überbandanregung von Nitridhalbleitern. 
 Des Weiteren bietet der Aufbau die Möglichkeit von temperaturabhängigen Untersuchungen von $5 \ K $ bis $300 K$. Dies ist auch die Grundlage für die Bestimmung der IQE. 
 \newline
@@ -30,7 +30,7 @@ Um den Strahl in Richtung des Probenhalters durch das Fenster im Kryostaten zu l
 Die Anregung der Proben mit dem Laserstrahl führt zur probenspezifischen Emission von Licht. Diese wird von einer Linse im Strahlengang vor dem Detektor eingefangen und von einer zweiten Linse auf den Monochromatorspalt fokussiert.
 \newline
 Bei dem Monochromator handelt es sich um einen "`iHR 320"' des Herstellers "`Horiba"'. Zur Verfügung stehen drei Blazegitter mit $300 \thinspace \frac{Linien}{mm}$,
-$600 \thinspace \frac{Linien}{mm}$ und $1800 \thinspace \frac{Linien}{mm}$. Bei der verwendeten Spaltbreite von $100 \thinspace \mu m$ entspricht die maximale Auflösung in etwa $5 \thinspace meV$ ($0,17 \thinspace nm$). Für Messungen oberhalb von $225 \thinspace nm$ besteht die Möglichkeit einen Kantenfilter in den Strahlengang zu stellen, mit dem das Laserstreulicht und dessen höhere Ordnungen aus dem Spektrum entfernt werden können. Bei dem CCD Chip handelt es sich um das Modell "`Syncerity"' von "`Horiba"' der "`open electrode"' -Bauart mit 1024x256 einzelnen Pixeln. 
+$600 \thinspace \frac{Linien}{mm}$ und $1800 \thinspace \frac{Linien}{mm}$. Bei der verwendeten Spaltbreite von $100 \thinspace \mu m$ entspricht die maximale Auflösung in etwa $5 \thinspace meV$ ($0,17 \thinspace nm$). Für Messungen oberhalb von $225 \thinspace nm$ besteht die Möglichkeit einen Kantenfilter in den Strahlengang einzubringen, mit dem das Laserstreulicht und dessen höhere Ordnungen aus dem Spektrum entfernt werden können. Bei dem CCD Chip handelt es sich um das Modell "`Syncerity"' von "`Horiba"' der "`open electrode"' -Bauart mit 1024x256 einzelnen Pixeln. 
 
 \section{Messaufbau Lichtpolarisation}
 \begin{figure}[!htb]
@@ -39,9 +39,10 @@ $600 \thinspace \frac{Linien}{mm}$ und $1800 \thinspace \frac{Linien}{mm}$. Bei 
         \centering
         \includegraphics[width=0.8\linewidth]{Bilder/aufbauPol.png}
         \caption{Aufbau des Photolumineszenzmessplatzes der AG Kneissl zur Bestimmung der Polarisation. }
-        \label{fig:wurtz}
+        \label{fig:polaufbau}
     \end{minipage}% <- sonst wird hier ein Leerzeichen eingefügt
 \end{figure}
 \vspace{1cm}
 \noindent
-Für die Messung der Lichtpolarisation erfolgt die Anregung der untersuchten Proben senkrecht zur Oberfläche. Die Lumineszenz der Probe wird aus der Kante gemessen, weil TM-polarisiertes Licht nur vertikal zur c-Achse, wie in Abbildung \ref{fig:martintetm} sichtbar, emittiert wird. Die Lumineszenz wird dann unter kleinem Öffnungswinkel über eine Linse mit sich dahinter befindender Blende eingesammelt und parallelisiert. Das parallelisierte Licht wird dann durch einen Glan-Taylor-Polarisator geleitet. Dass das Licht parallelisiert ist, ist wegen der anisotropen Brechzahl des Polarisators wichtig. Diese ist neben der Polarisationsrichtung auch von dem Eintrittswinkel abhängig und entscheidet ob der Strahl transmittiert oder reflektiert wird \cite{0950-7671-25-12-304}. In Abhängigkeit der Orientierung des Polarisators wird TE- oder TM-polarisiertes Licht transmittiert und der eingestellte Winkel lässt sich $1\deg$ granular einstellen. 
+Der Messaufbau zur Bestimmung der Lichtpolarisation ist in Abbildung \ref{fig:polaufbau} dargestellt.
+Die Anregung der untersuchten Proben erfolgt senkrecht zur Probenoberfläche. Die Lumineszenz der Probe wird aus der Kante gemessen, weil TM-polarisiertes Licht nur vertikal zur c-Achse, wie in Abbildung \ref{fig:martintetm} sichtbar, emittiert wird. Die Lumineszenz wird dann unter kleinem Öffnungswinkel über eine Linse mit sich dahinter befindlicher Blende eingesammelt und parallelisiert. Das parallelisierte Licht wird dann durch einen Glan-Taylor-Polarisator geleitet. Dass das Licht parallelisiert ist, ist wegen der anisotropen Brechzahl des Polarisators wichtig. Diese ist neben der Polarisationsrichtung auch von dem Eintrittswinkel abhängig und entscheidet ob der Strahl transmittiert oder reflektiert wird \cite{0950-7671-25-12-304}. In Abhängigkeit der Orientierung des Polarisators wird TE- oder TM-polarisiertes Licht transmittiert. Der eingestellte Winkel lässt sich $1^\circ$ granular einstellen. 
